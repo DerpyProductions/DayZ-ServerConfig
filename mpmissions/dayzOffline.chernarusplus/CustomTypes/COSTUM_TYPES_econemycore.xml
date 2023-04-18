@@ -1,0 +1,89 @@
+<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+
+
+	<ce folder="CustomTypes">
+		  <file name="BLThings_types.xml" type="types" />
+		  <file name="CP_cannabisplus_types.xml" type="types" />
+		  <file name="mmg_storage.xml" type="types" />
+		  <file name="mmg_types_ADMINGEAR.xml" type="types" />
+		  <file name="mmg_types_alpine.xml" type="types" />
+		  <file name="mmg_types_atacs.xml" type="types" />
+		  <file name="mmg_types_black.xml" type="types" />
+		  <file name="mmg_types_carbines.xml" type="types" />
+		  <file name="mmg_types_dark_woodland.xml" type="types" />
+		  <file name="mmg_types_erdl.xml" type="types" />
+		  <file name="mmg_types_green.xml" type="types" />
+		  <file name="mmg_types_multicam.xml" type="types" />
+		  <file name="mmg_types_multicam_tropic.xml" type="types" />
+		  <file name="mmg_types_multicamblack.xml" type="types" />
+		  <file name="mmg_types_NBC+NVG.xml" type="types" />
+		  <file name="mmg_types_patches.xml" type="types" />
+		  <file name="mmg_types_police.xml" type="types" />
+		  <file name="mmg_types_tan.xml" type="types" />
+		  <file name="mmg_types_ucp.xml" type="types" />
+		  <file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
+		  <file name="MMGCC_types.xml" type="types" />
+		  <file name="RUSForma_Types.xml" type="types" />
+		  <file name="SNAFU_types.xml" type="types" />
+		  <file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
+		  <file name="swords_types.xml" type="types" />
+		  <file name="swords_spawnabletypes.xml" type="spawnabletypes" />
+		  <file name="Lootchest_types.xml" type="types" />
+		  <file name="Lootchest_cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+	
+	
+	cfg_randompresets
+	
+	
+		<cargo chance="0.15" name="toolsHermit">
+				<item name="CJ_Key9" chance="0.01" />
+				<item name="CJ_Key10" chance="0.01" />
+				<item name="CJ_Key11" chance="0.01" />
+				<item name="CJ_Key12" chance="0.01" />
+		</cargo>
+		<cargo chance="0.15" name="toolsVillage">
+				<item name="CJ_Key9" chance="0.01" />
+				<item name="CJ_Key10" chance="0.01" />
+				<item name="CJ_Key11" chance="0.01" />
+				<item name="CJ_Key12" chance="0.01" />
+				<item name="CJ_Key101" chance="0.01" />
+				<item name="CJ_Key102" chance="0.01" />
+				<item name="CJ_Key103" chance="0.01" />
+		</cargo>
+		<cargo chance="0.15" name="toolsCity">
+				<item name="CJ_Key9" chance="0.01" />
+				<item name="CJ_Key10" chance="0.01" />
+				<item name="CJ_Key11" chance="0.01" />
+				<item name="CJ_Key12" chance="0.01" />
+				<item name="CJ_Key101" chance="0.01" />
+				<item name="CJ_Key102" chance="0.01" />
+				<item name="CJ_Key103" chance="0.01" />
+		</cargo>
+		<cargo chance="0.15" name="toolsIndustrial">
+				<item name="CJ_Key9" chance="0.01" />
+				<item name="CJ_Key10" chance="0.01" />
+				<item name="CJ_Key11" chance="0.01" />
+				<item name="CJ_Key12" chance="0.01" />
+		</cargo>
+		<cargo chance="0.15" name="toolsPolice">
+				<item name="CJ_Key1" chance="0.01" />
+				<item name="CJ_Key2" chance="0.01" />
+				<item name="CJ_Key200" chance="0.01" />
+				<item name="CJ_Key201" chance="0.01" />
+		</cargo>
+		<cargo chance="0.1" name="mixArmy">
+				<item name="CJ_Key3" chance="0.01" />
+				<item name="CJ_Key4" chance="0.01" />
+				<item name="CJ_Key5" chance="0.01" />
+				<item name="CJ_Key6" chance="0.01" />
+				<item name="CJ_Key7" chance="0.01" />
+				<item name="CJ_Key8" chance="0.01" />
+				<item name="CJ_Key202" chance="0.01" />
+				<item name="CJ_Key203" chance="0.01" />
+				<item name="CJ_Key204" chance="0.01" />
+		</cargo>
