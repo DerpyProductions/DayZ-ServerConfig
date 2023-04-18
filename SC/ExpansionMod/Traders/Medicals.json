@@ -1,0 +1,14 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Medicals",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Medical"
+    ],
+    "Items": {}
+}

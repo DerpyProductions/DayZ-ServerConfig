@@ -1,0 +1,26 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Vehicle Parts",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Vehicle_Parts:2",
+		"Vehicle_Wheels:2",
+		"RUSForma_Parts:2",
+		"Liquids",
+		"Vehicle_Tools",
+		"Batteries:2"
+    ],
+    "Items": {
+		"expansionhydraulichoses": 2,
+        "expansionigniterplug": 2,
+        "glowplug": 2,
+        "sparkplug": 2,
+        "carradiator": 2,
+        "headlighth7": 2
+	}
+}

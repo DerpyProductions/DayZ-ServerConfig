@@ -1,0 +1,23 @@
+{
+  "m_Version": 10,
+  "DisplayName": "SNAFU Attachments",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Gun Bullets",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Snafu_Ammo:1",
+    "Snafu_Bipods:1",
+    "Snafu_Extras:1",
+    "Snafu_Grips:1",
+    "Snafu_Handguards:1",
+    "Snafu_Mags:1",
+    "Snafu_Muzzel:1",
+    "Snafu_Scopes:1",
+    "Snafu_Stocks:1",
+    "Snafu_Suppressors:1"
+  ],
+  "Items": {}
+}

@@ -1,0 +1,18 @@
+{
+  "m_Version": 10,
+  "DisplayName": "Vehicles",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Car",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Cars",
+    "RUSForma_Vehicles",
+    "Vehicle_Parts:3",
+	"Vehicle_Wheels:3",
+    "RUSForma_Parts:3"
+  ],
+  "Items": {}
+}

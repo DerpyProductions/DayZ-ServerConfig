@@ -1,0 +1,15 @@
+{
+    "m_Version": 2,
+    "EnableGlobalChat": 1,
+    "EnablePartyChat": 1,
+    "EnableTransportChat": 1,
+    "ChatColors": {
+        "SystemChatColor": "CF2765",
+        "AdminChatColor": "EB45EBFF",
+        "GlobalChatColor": "58C3FFFF",
+        "DirectChatColor": "FFFFFFFF",
+        "TransportChatColor": "FFCE09FF",
+        "PartyChatColor": "0AFA7AFF",
+        "TransmitterChatColor": "F9FF49FF"
+    }
+}

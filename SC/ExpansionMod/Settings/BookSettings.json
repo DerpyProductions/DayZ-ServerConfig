@@ -1,0 +1,374 @@
+{
+  "m_Version": 4,
+  "EnableStatusTab": 1,
+  "EnablePartyTab": 1,
+  "EnableServerInfoTab": 1,
+  "EnableServerRulesTab": 1,
+  "EnableTerritoryTab": 1,
+  "EnableBookMenu": 1,
+  "CreateBookmarks": 1,
+  "ShowHaBStats": 1,
+  "ShowPlayerFaction": 1,
+  "RuleCategories": [
+    {
+      "CategoryName": "General Rules",
+      "Rules": [
+        {
+          "RuleParagraph": "1.1.",
+          "RuleText": "Be Respectful, Mature & Friendly! Insults, discrimination, extremist and racist statements or texts are taboo."
+        },
+        {
+          "RuleParagraph": "1.2.",
+          "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+        },
+        {
+          "RuleParagraph": "1.3.",
+          "RuleText": "PvE ONLY unless in designated PvP Zones. You can shoot in and out of PvP Zones."
+        },
+        {
+          "RuleParagraph": "1.4.",
+          "RuleText": "No Cheating / Hacking / Glitching / Duping of any form."
+        },
+        {
+          "RuleParagraph": "2.1.",
+          "RuleText": "Your Base-Building-Style should follow the Laws of Physics!"
+        },
+        {
+          "RuleParagraph": "2.2.",
+          "RuleText": "No Base Raiding of any kind! No theft of any kind!"
+        },
+        {
+          "RuleParagraph": "3.1.",
+          "RuleText": "Do not park your Car anywhere on the Map for more than 1 Server restart."
+        },
+        {
+          "RuleParagraph": "3.2.",
+          "RuleText": "Use the virtual Garage for your Vehicles. Garages are located at every Gas Station."
+        },
+        {
+          "RuleParagraph": "4.1.",
+          "RuleText": "Have Fun, Run Faster, Survive Longer!"
+        },
+        {
+          "RuleParagraph": "4.2.",
+          "RuleText": "Failure to comply with any Rules will result in a Ban. No Warning may be given!"
+        }
+      ]
+    }
+  ],
+  "DisplayServerSettingsInServerInfoTab": 1,
+  "SettingCategories": [
+    {
+      "CategoryName": "Base-Building Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftVanillaBasebuilding",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.BaseBuilding.CanCraftExpansionBasebuilding",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Raid Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Raid.CanRaidSafes",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.SafeExplosionDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.SafeProjectileDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.ExplosionTime",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.ExplosionDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Raid.ProjectileDamageMultiplier",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Map Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Map.NeedGPSItemForKeyBinding",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Map.NeedMapItemForKeyBinding",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Party Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Party.MaxMembersInParty",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Party.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    },
+    {
+      "CategoryName": "Territory Settings",
+      "Settings": [
+        {
+          "SettingTitle": "Expansion.Settings.Territory.TerritorySize",
+          "SettingText": "",
+          "SettingValue": ""
+        },
+        {
+          "SettingTitle": "Expansion.Settings.Territory.UseWholeMapForInviteList",
+          "SettingText": "",
+          "SettingValue": ""
+        }
+      ]
+    }
+  ],
+  "Links": [
+		{
+            "Name": "Expansion Wiki",
+            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/",
+            "IconName": "Expansion",
+            "IconColor": -14006434
+        },
+		{
+			  "Name": "Discord",
+			  "URL": "https://discord.gg/zKXAZrbS/",
+			  "IconName": "Discord",
+			  "IconColor": -9270822
+		}
+  ],
+  "Descriptions": [
+    {
+      "CategoryName": "General Info",
+      "Descriptions": [
+        {
+          "DescriptionText": "You will find ATMs at every Tader. Look out for the blue Lockers."
+        },
+        {
+          "DescriptionText": "If you encounter any Bugs or Problems with the Traders, report them in the proper Discord Channel."
+        },
+        {
+          "DescriptionText": "If you have any Questions, feel free to ask them in Global Chat or Discord."
+        },
+        {
+          "DescriptionText": "..."
+        }
+      ]
+    },
+    {
+      "CategoryName": "Mod Info",
+      "Descriptions": [
+        {
+          "DescriptionText": "Have a look at your Controls. You will find a lot of Expansion specific settings. "
+        },
+        {
+          "DescriptionText": "..."
+        },
+        {
+          "DescriptionText": "..."
+        }
+      ]
+    }
+  ],
+  "CraftingCategories": [
+    {
+      "CategoryName": "Accessories",
+      "Results": [
+        "armband_",
+        "armband_white",
+        "eyepatch_improvised"
+      ]
+    },
+    {
+      "CategoryName": "Backpacks",
+      "Results": [
+        "courierbag",
+        "furcourierbag",
+        "furimprovisedbag",
+        "improvisedbag",
+        "leathersack_brown"
+      ]
+    },
+    {
+      "CategoryName": "Base-Building",
+      "Results": [
+        "expansionbarbedwirekit",
+        "fencekit",
+        "expansionfloorkit",
+        "expansionhelipadkit",
+        "expansionhescokit",
+        "expansionrampkit",
+        "shelterkit",
+        "expansionstairkit",
+        "territoryflagkit",
+        "expansionwallkit",
+        "watchtowerkit"
+      ]
+    },
+    {
+      "CategoryName": "#STR_BLThings",
+      "Results": [
+        "bl_old_crate",
+        "bl_rain_collector_Kit",
+        "bl_stove_barrel_Kit",
+        "bl_special_item_Kit",
+        "bl_pallet_table_Kit",
+        "bl_pallet_sofa_Kit",
+        "bl_pallet_cabinet_Kit",
+        "bl_pallet_bed_Kit",
+        "bl_pallet_box_Kit",
+        "bl_pallet_frame_solo",
+        "bl_pallet"
+      ]
+    },
+    {
+      "CategoryName": "Camouflage",
+      "Results": [
+        "camonet",
+        "ghillieatt_tan",
+        "ghillieatt_mossy",
+        "ghillieatt_woodland",
+        "ghilliebushrag_tan",
+        "ghilliebushrag_mossy",
+        "ghilliebushrag_woodland",
+        "ghilliehood_tan",
+        "ghilliehood_mossy",
+        "ghilliehood_woodland",
+        "ghilliesuit_tan",
+        "ghilliesuit_mossy",
+        "ghilliesuit_woodland",
+        "ghillietop_tan",
+        "ghillietop_mossy",
+        "ghillietop_woodland"
+      ]
+    },
+    {
+      "CategoryName": "Cooking",
+      "Results": [
+        "fireplace",
+        "firewood",
+        "handdrillkit"
+      ]
+    },
+    {
+      "CategoryName": "Fishing",
+      "Results": [
+        "bait",
+        "bonebait",
+        "bonehook",
+        "improvisedfishingrod"
+      ]
+    },
+    {
+      "CategoryName": "Food",
+      "Results": [
+        "carpfilletmeat",
+        "mackerelfilletmeat",
+        "expansionmilkbottle",
+        "potato",
+        "slicedpumpkin"
+      ]
+    },
+    {
+      "CategoryName": "Horticulture",
+      "Results": [
+        "pepperseeds",
+        "pumpkinseeds",
+        "tomatoseeds",
+        "zucchiniseeds"
+      ]
+    },
+    {
+      "CategoryName": "Lights",
+      "Results": [
+        "longtorch",
+        "torch"
+      ]
+    },
+    {
+      "CategoryName": "Medical Supplies",
+      "Results": [
+        "bloodbagiv",
+        "salinebagiv",
+        "splint"
+      ]
+    },
+    {
+      "CategoryName": "Melee Weapons",
+      "Results": [
+        "nailedbaseballbat",
+        "stoneknife"
+      ]
+    },
+    {
+      "CategoryName": "Storage",
+      "Results": [
+        "woodencrate"
+      ]
+    },
+    {
+      "CategoryName": "Supplies",
+      "Results": [
+        "boarpelt",
+        "burlapsack",
+        "burlapstrip",
+        "longwoodenstick",
+        "expansionlumber1",
+        "expansionlumber1_5",
+        "expansionlumber3",
+        "nails",
+        "netting",
+        "rag",
+        "rope",
+        "sharpwoodenstick",
+        "smallstone",
+        "tannedleather",
+        "woodenplank",
+        "woodenstick"
+      ]
+    },
+    {
+      "CategoryName": "Weapon Modifications",
+      "Results": [
+        "sawedoffizh18shotgun"
+      ]
+    },
+    {
+      "CategoryName": "Weapon Attachments",
+      "Results": [
+        "improvisedsuppressor"
+      ]
+    }
+  ]
+}

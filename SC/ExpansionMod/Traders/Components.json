@@ -1,0 +1,29 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Components",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Tools:1",
+        "Supplies:1",
+        "Locks:1",
+        "Electronics:1",
+        "Lights:1",
+		"RepairKits:1",
+        "Spraycans:1"
+    ],
+    "Items": {
+        "nvgoggles": 3,
+		"battery9v": 3,
+        "handcuffkeys": 3,
+        "weaponcleaningkit": 3,
+		"handcuffs": 3,
+		"rangefinder": 3,
+        "universallight": 3,
+        "tlrlight": 3
+    }
+}

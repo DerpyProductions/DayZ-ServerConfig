@@ -1,0 +1,23 @@
+{
+  "m_Version": 10,
+  "DisplayName": "Spezial Weapons",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Gun",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Snafu_Assault_Rifels:1",
+	"SLC_Melee_Weapons:1",
+    "Snafu_Machineguns:1",
+    "Snafu_Marksman:1",
+    "Snafu_MP:1",
+    "Snafu_PDW:1",
+    "Snafu_Pistols:1",
+    "Snafu_Rifels:1",
+    "Snafu_Shotguns:1",
+    "Snafu_Sniperrifel:1"
+  ],
+  "Items": {}
+}

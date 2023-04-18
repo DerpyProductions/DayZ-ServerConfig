@@ -1,0 +1,20 @@
+{
+  "m_Version": 10,
+  "DisplayName": "Base Building Supplies",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Nails",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Containers",
+    "Tents",
+    "Furnishings",
+    "Gardening",
+    "WeaponRacks",
+	"Garage",
+    "Flags"
+  ],
+  "Items": {}
+}

@@ -1,0 +1,18 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Aircrafts",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Helicopters",
+		"Aircraft_Parts:3",
+		"Batteries:3"
+    ],
+    "Items": {
+		"expansionhelicopterbattery": 1
+	}
+}

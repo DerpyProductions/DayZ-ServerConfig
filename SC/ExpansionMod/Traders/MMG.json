@@ -1,0 +1,20 @@
+{
+  "m_Version": 10,
+  "DisplayName": "Mightys Military Gear",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Backpack",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "MMG_Armored_Helmet_Visor:1",
+    "MMG_BackPacks:1",
+    "MMG_Belts_Accessories:1",
+    "MMG_Clothing:1",
+    "MMG_Plate_Carriers:1",
+    "MMG_Pouches:1",
+    "MMG_Patches:1"
+  ],
+  "Items": {}
+}

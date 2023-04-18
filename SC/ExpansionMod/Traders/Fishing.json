@@ -1,0 +1,15 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Fishing",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Fishing",
+		"Fish"
+    ],
+    "Items": {}
+}
