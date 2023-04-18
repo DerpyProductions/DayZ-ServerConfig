@@ -1,0 +1,111 @@
+{
+    "ConfigVersion": "1",
+    "Use_Object_Spawner": 1,
+    "Objects_To_Spawn": [
+        {
+            "ObjDescription": "Hunter",
+            "ObjName": "BarrelHoles_bl_stove",
+            "position": [
+                7833.91,
+                263.624,
+                11578.6
+            ],
+            "orientation": [
+                -14.0,
+                0.0,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "Military",
+            "ObjName": "BarrelHoles_Red",
+            "position": [
+                8079.48,
+                455.46,
+                9366.78
+            ],
+            "orientation": [
+                0.0,
+                0.0001,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "Aircraft",
+            "ObjName": "BarrelHoles_Red",
+            "position": [
+                11867.3,
+                140.0,
+                12464.6
+            ],
+            "orientation": [
+                0.0,
+                0.0001,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "Fish",
+            "ObjName": "BarrelHoles_Red",
+            "position": [
+                14377.8,
+                3.3124,
+                13274.0
+            ],
+            "orientation": [
+                0.0,
+                0.0001,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "Farmers",
+            "ObjName": "BarrelHoles_Red",
+            "position": [
+                6960.44,
+                296.74,
+                7676.61
+            ],
+            "orientation": [
+                0.0,
+                0.0001,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "Black",
+            "ObjName": "BarrelHoles_Red",
+            "position": [
+                609.184,
+                391.84,
+                12139.7
+            ],
+            "orientation": [
+                0.0,
+                0.0001,
+                0.0
+            ],
+            "auto_ignite": 1
+        },
+        {
+            "ObjDescription": "GreenMountain",
+            "ObjName": "BarrelHoles_Red",
+            "position": [
+                3703.04,
+                401.99,
+                5958.53
+            ],
+            "orientation": [
+                0.0,
+                0.0001,
+                0.0
+            ],
+            "auto_ignite": 1
+        }
+    ]
+}
