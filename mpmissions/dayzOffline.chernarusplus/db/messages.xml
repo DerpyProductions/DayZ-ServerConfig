@@ -1,0 +1,33 @@
+<!-- YOU CAN ADD MORE CUSTOM MESSAGES --> 
+<!-- INSTRUCTIONS AT DAYZ WIKI  --> 
+<!-- https://community.bistudio.com/wiki/DayZ:Server_Messages  --> 
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+<!-- Welcome message -->
+<message>
+<delay>3</delay>
+<onConnect>1</onConnect>
+<text>Open the Book ('B' Key) and read our server rules!</text>
+</message>
+
+<!-- Repeating message #1 -->
+<message>
+<repeat>0</repeat>
+<text>Open the Book ('B' Key) and read our server rules!</text>
+</message>
+
+<!-- Repeating message #2 -->
+<message>
+<repeat>0</repeat>
+<text>Have fun playing on our server.</text>
+</message>
+
+<!-- Repeating message #3 -->
+<message>
+<repeat>0</repeat>
+<text>Be sure to join our discord!</text>
+</message>
+
+</messages>
