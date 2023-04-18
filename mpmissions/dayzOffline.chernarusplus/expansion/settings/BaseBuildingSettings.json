@@ -1,0 +1,313 @@
+{
+  "m_Version": 4,
+  "CanBuildAnywhere": 1,
+  "AllowBuildingWithoutATerritory": 0,
+  "DeployableOutsideATerritory": [
+    "ExpansionSatchel",
+    "Fireplace",
+    "TerritoryFlagKit",
+    "MediumTent",
+    "LargeTent",
+    "CarTent",
+    "PartyTent",
+    "ExpansionCamoTentKit",
+    "ExpansionCamoBoxKit",
+    "ShelterKit",
+    "LandMineTrap",
+    "BearTrap",
+    "FishNetTrap",
+    "RabbitSnareTrap",
+    "SmallFishTrap",
+    "TripwireTrap",
+    "ExpansionSafeLarge",
+    "ExpansionSafeMedium",
+    "ExpansionSafeSmall",
+    "SeaChest",
+    "WoodenCrate",
+    "GardenPlot"
+  ],
+  "DeployableInsideAEnemyTerritory": [
+    "FishNetTrap",
+    "RabbitSnareTrap",
+    "SmallFishTrap"
+  ],
+  "CanCraftVanillaBasebuilding": 1,
+  "CanCraftExpansionBasebuilding": 1,
+  "DestroyFlagOnDismantle": 0,
+  "DismantleOutsideTerritory": 1,
+  "DismantleInsideTerritory": 0,
+  "DismantleAnywhere": 0,
+  "CodelockActionsAnywhere": 0,
+  "CodeLockLength": 4,
+  "DoDamageWhenEnterWrongCodeLock": 1,
+  "DamageWhenEnterWrongCodeLock": 10,
+  "RememberCode": 1,
+  "CanCraftTerritoryFlagKit": 1,
+  "SimpleTerritory": 1,
+  "AutomaticFlagOnCreation": 0,
+  "GetTerritoryFlagKitAfterBuild": 0,
+  "BuildZoneRequiredCustomMessage": "",
+  "Zones": [
+    {
+      "Name": "PVP Zone (Arsenievo)",
+      "Center": [
+        8525,
+        203.2546844482422,
+        13983
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Troitskoye)",
+      "Center": [
+        7862,
+        343.6366271972656,
+        14688
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Kamensk)",
+      "Center": [
+        7082,
+        349.95941162109375,
+        14531
+      ],
+      "Radius": 300,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Tisy)",
+      "Center": [
+        1576,
+        453.57135009765625,
+        14000
+      ],
+      "Radius": 1500,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Airfield Tower)",
+      "Center": [
+        4042,
+        440.0233154296875,
+        11751
+      ],
+      "Radius": 750,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Airfield)",
+      "Center": [
+        4491,
+        440.0233154296875,
+        10358
+      ],
+      "Radius": 1500,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(VMC)",
+      "Center": [
+        4532,
+        316.6526794433594,
+        8295
+      ],
+      "Radius": 500,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Pavlovo)",
+      "Center": [
+        2146,
+        440.0233154296875,
+        3452
+      ],
+      "Radius": 750,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Zelenogorsk)",
+      "Center": [
+        2466,
+        340.0233154296875,
+        5119
+      ],
+      "Radius": 750,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Aircraft Trader)",
+      "Center": [
+        11885,
+        140.0233154296875,
+        12440
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Military Trader)",
+      "Center": [
+        8082,
+        455.3966369628906,
+        9374
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Hunters Lodge)",
+      "Center": [
+        7838,
+        263.59063720703125,
+        11579
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Farmers Market)",
+      "Center": [
+        6960,
+        296.82000732421875,
+        7681
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Car Dealer)",
+      "Center": [
+        6368,
+        288,
+        7539
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Building Supplies)",
+      "Center": [
+        7226,
+        333,
+        8267
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Black Trader)",
+      "Center": [
+        613,
+        391.8399963378906,
+        12137
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Boats & Fishing Trader)",
+      "Center": [
+        14377.099609375,
+        4.099999904632568,
+        13272.900390625
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    },
+    {
+      "Name": "(Green Montain Trader)",
+      "Center": [
+        3698,
+        405,
+        5988
+      ],
+      "Radius": 1000,
+      "Items": [
+        "Fireplace"
+      ],
+      "IsWhitelist": 1,
+      "CustomMessage": ""
+    }
+  ],
+  "ZonesAreNoBuildZones": 1,
+  "CodelockAttachMode": 2,
+  "DismantleFlagMode": -1,
+  "FlagMenuMode": 2,
+  "OverrideVanillaEntityPlacement": 0,
+  "EnableVirtualStorage": 1,
+  "VirtualStorageExcludedContainers": [
+    "ExpansionAirdropContainerBase"
+  ]
+}

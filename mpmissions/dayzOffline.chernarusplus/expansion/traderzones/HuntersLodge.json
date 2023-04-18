@@ -1,0 +1,34 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Hunters Lodge",
+    "Position": [
+        7838.22021484375,
+        263.57000732421877,
+        11579.5
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "wildboarpelt": 0,
+        "bearpelt": 0,
+        "cowsteakmeat": 7,
+        "wolfsteakmeat": 0,
+        "goatpelt": 0,
+        "bearsteakmeat": 0,
+        "goatsteakmeat": 0,
+        "boarsteakmeat": 0,
+        "pigpelt": 3,
+        "cowpelt": 5,
+        "deersteakmeat": 33,
+        "wolfpelt": 0,
+        "lard": 8,
+        "rabbitpelt": 0,
+        "pigsteakmeat": 4,
+        "sheepsteakmeat": 0,
+        "deerpelt": 3,
+        "rabbitlegmeat": 0,
+        "chickenbreastmeat": 0,
+        "sheeppelt": 3
+    }
+}
