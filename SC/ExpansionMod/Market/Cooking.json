@@ -1,0 +1,45 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Cooking",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "fryingpan",
+            "MaxPriceThreshold": 375,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+                {
+            "ClassName": "pot",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 410,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "portablegasstove",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "mediumgascanister"
+            ],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Batteries",
+    "Icon": "Batteries",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 15.0,
+    "Items": [
+        {
+            "ClassName": "battery9v",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 290,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "carbattery",
+            "MaxPriceThreshold": 960,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "truckbattery",
+            "MaxPriceThreshold": 1960,
+            "MinPriceThreshold": 1380,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionhelicopterbattery",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 2250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

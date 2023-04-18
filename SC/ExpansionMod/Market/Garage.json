@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Virtual Garage",
+    "Icon": "Car 2",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 10.0,
+    "Items": [
+        {
+            "ClassName": "ExpansionParkingMeterKit",
+            "MaxPriceThreshold": 6100,
+            "MinPriceThreshold": 5300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ExpansionCircuitBoard_MK1",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ExpansionCircuitBoard_MK2",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 2300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ExpansionCircuitBoard_MK3",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 4300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

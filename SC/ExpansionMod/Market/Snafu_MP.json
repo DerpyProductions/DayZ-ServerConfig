@@ -1,0 +1,133 @@
+{
+    "m_Version": 12,
+    "DisplayName": "MP's",
+    "Icon": "Gun",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "Tec9_Gun",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUVECTOR_9mm_GUN",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFUVECTOR_45acp_GUN"
+            ]
+        },
+        {
+            "ClassName": "GCGN_Vityaz",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_Agram_GUN",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MP9_GUN",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MPX_GUN",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUSten",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUP90",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUUzi",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUThompsonMk2",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUKH9",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

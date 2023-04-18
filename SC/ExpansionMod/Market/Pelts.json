@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Pelts",
+    "Icon": "Claw",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "BearPelt",
+            "MaxPriceThreshold": 3800,
+            "MinPriceThreshold": 3250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GoatPelt",
+            "MaxPriceThreshold": 1160,
+            "MinPriceThreshold": 980,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WildboarPelt",
+            "MaxPriceThreshold": 1820,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PigPelt",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 860,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DeerPelt",
+            "MaxPriceThreshold": 1360,
+            "MinPriceThreshold": 1120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WolfPelt",
+            "MaxPriceThreshold": 2450,
+            "MinPriceThreshold": 2150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CowPelt",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 980,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SheepPelt",
+            "MaxPriceThreshold": 1250,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RabbitPelt",
+            "MaxPriceThreshold": 1225,
+            "MinPriceThreshold": 1075,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 5000,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

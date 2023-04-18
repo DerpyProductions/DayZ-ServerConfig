@@ -1,0 +1,114 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Furniture",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "expansionstove",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "bl_stove_prefab_Kit",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "bl_old_fridge_Kit",
+            "MaxPriceThreshold": 3750,
+            "MinPriceThreshold": 3750,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "mmg_fridge_kit_beige",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold": 4500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"mmg_fridge_kit_blue"
+			]
+		},
+		{
+			"ClassName": "mmg_gear_stand_kit",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold": 4500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_trashcan_red",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"mmg_trashcan_yellow",
+				"mmg_trashcan_green"
+			]
+		},
+		{
+            "ClassName": "bl_trashcan_Kit",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "mmg_old_table",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_wall_shelf_wood",
+			"MaxPriceThreshold": 1500,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+    ]
+}

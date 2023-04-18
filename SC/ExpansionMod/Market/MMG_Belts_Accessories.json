@@ -1,0 +1,152 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MMG Belts, Rigs & Accessories",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 0,
+  "Items": [
+    {
+      "ClassName": "mmg_cargobelt_black",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_cargobelt_green",
+        "mmg_cargobelt_tan"
+      ]
+    },
+    {
+      "ClassName": "MMG_falcon_b1_belt_black",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_falcon_b1_belt_olive",
+        "MMG_falcon_b1_belt_tan",
+        "MMG_falcon_b1_belt_alpine",
+        "MMG_falcon_b1_belt_erdl",
+        "MMG_falcon_b1_belt_multicamblack",
+        "MMG_falcon_b1_belt_multicam",
+        "MMG_falcon_b1_belt_dark_woodland",
+        "MMG_falcon_b1_belt_ucp",
+        "MMG_falcon_b1_belt_atacs",
+        "MMG_falcon_b1_belt_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "mmg_chestrig_black",
+      "MaxPriceThreshold": 275,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_chestrig_green",
+        "mmg_chestrig_tan",
+        "mmg_chestrig_erdl",
+        "mmg_chestrig_multicam",
+        "mmg_chestrig_multicamblack",
+        "mmg_chestrig_alpine",
+        "mmg_chestrig_dark_woodland",
+        "mmg_chestrig_ucp",
+        "mmg_chestrig_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "MMG_headphones_black",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_headphones_green",
+        "MMG_headphones_tan",
+        "MMG_headphones_ucp"
+      ]
+    },
+    {
+      "ClassName": "MMG_ballistic_earcover_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_ballistic_earcover_green",
+        "MMG_ballistic_earcover_tan",
+        "MMG_ballistic_earcover_alpine",
+        "MMG_ballistic_earcover_erdl",
+        "MMG_ballistic_earcover_multicamblack"
+      ]
+    },
+    {
+      "ClassName": "MMG_bottle_black",
+      "MaxPriceThreshold": 340,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_bottle_olive",
+        "MMG_bottle_tan",
+        "MMG_bottle_alpine",
+        "MMG_bottle_erdl",
+        "MMG_bottle_multicamblack",
+        "MMG_bottle_multicam",
+        "MMG_bottle_dark_woodland",
+        "MMG_bottle_ucp",
+        "MMG_bottle_atacs",
+        "MMG_bottle_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "MMG_carbine_black",
+      "MaxPriceThreshold": 290,
+      "MinPriceThreshold": 180,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_carbine_green",
+        "MMG_carbine_orange",
+        "MMG_carbine_blue",
+        "MMG_carbine_red",
+        "MMG_carbine_grey"
+      ]
+    },
+    {
+      "ClassName": "mmg_tac_goggles_red_black",
+      "MaxPriceThreshold": 370,
+      "MinPriceThreshold": 220,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_tac_goggles_red_green",
+        "mmg_tac_goggles_red_tan"
+      ]
+    }
+  ]
+}

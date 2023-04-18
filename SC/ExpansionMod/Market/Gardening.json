@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Gardening",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 5,
+  "Items": [
+    {
+      "ClassName": "gardenlime",
+      "MaxPriceThreshold": 600,
+      "MinPriceThreshold": 450,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pepperseeds",
+      "MaxPriceThreshold": 8,
+      "MinPriceThreshold": 4,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tomatoseeds",
+      "MaxPriceThreshold": 8,
+      "MinPriceThreshold": 4,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "zucchiniseeds",
+      "MaxPriceThreshold": 12,
+      "MinPriceThreshold": 6,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pumpkinseeds",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+	{
+            "ClassName": "antipestsspray",
+            "MaxPriceThreshold": 260,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+				{
+			"ClassName": "mmg_planter_box_kit",
+			"MaxPriceThreshold": 4500,
+			"MinPriceThreshold": 4500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "mmg_greenhouse_kit",
+			"MaxPriceThreshold": 9500,
+			"MinPriceThreshold": 9500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+  ]
+}

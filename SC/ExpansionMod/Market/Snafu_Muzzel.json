@@ -1,0 +1,95 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Muzzels",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 1.0,
+    "Items": [
+        {
+            "ClassName": "SNAFU_Shotgunchoke_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFU_Shotgunchoke_Blue",
+                "SNAFU_Shotgunchoke_Brown",
+                "SNAFU_Shotgunchoke_Green",
+                "SNAFU_Shotgunchoke_Purple",
+                "SNAFU_Shotgunchoke_Red",
+                "SNAFU_Shotgunchoke_Tur",
+                "SNAFU_Shotgunchoke_Yellow"
+            ]
+        },
+        {
+            "ClassName": "SNAFU_AK19Muzzel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_HeramuzzelF",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MuzzelFF",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_AK308Muzzel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MK47Muzzel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GCGN_M1Garand_FlashHider",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

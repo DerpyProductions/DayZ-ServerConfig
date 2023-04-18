@@ -1,0 +1,67 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PDW's",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "GCGN_MP7",
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3575,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUHoneyBadger_Black",
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3575,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SNAFUHoneyBadger_Tan"
+            ]
+        },
+        {
+            "ClassName": "SNAFU_KAC_Gun",
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3575,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_PDW_45ACP",
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3575,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_PDW_9mm",
+            "MaxPriceThreshold": 4250,
+            "MinPriceThreshold": 3575,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

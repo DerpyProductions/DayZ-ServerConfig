@@ -1,0 +1,92 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Cannabis",
+  "Icon": "Cigarets",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 0,
+  "Items": [
+    {
+      "ClassName": "CigarettePack_Chernamorka",
+      "MaxPriceThreshold": 700,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CigarettePack_Merkur",
+        "CigarettePack_Partyzanka"
+      ]
+    },
+    {
+      "ClassName": "CP_CigarettePack_CannabisSkunk",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 700,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CP_CigarettePack_CannabisBlue",
+        "CP_CigarettePack_CannabisKush",
+        "CP_CigarettePack_CannabisStardawg",
+        "CP_CigarettePack_CannabisFuture",
+        "CP_CigarettePack_CannabisS1",
+        "CP_CigarettePack_CannabisNomad",
+        "CP_CigarettePack_CannabisBlackFrost"
+      ]
+    },
+    {
+      "ClassName": "CP_CannabisBagSkunk",
+      "MaxPriceThreshold": 1150,
+      "MinPriceThreshold": 1150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CP_CannabisBagBlue",
+        "CP_CannabisBagKush",
+        "CP_CannabisBagStardawg",
+        "CP_CannabisBagFuture",
+        "CP_CannabisBagS1",
+        "CP_CannabisBagNomad",
+        "CP_CannabisBagBlackFrost"
+      ]
+    },
+    {
+      "ClassName": "CP_CannabisBrickSkunk",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CP_CannabisBrickBlue",
+        "CP_CannabisBrickKush",
+        "CP_CannabisBrickStardawg",
+        "CP_CannabisBrickFuture",
+        "CP_CannabisBrickS1",
+        "CP_CannabisBrickNomad",
+        "CP_CannabisBrickBlackFrost"
+      ]
+    },
+    {
+      "ClassName": "CP_Relief_Balm",
+      "MaxPriceThreshold": 700,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1000,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

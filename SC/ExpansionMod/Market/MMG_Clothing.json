@@ -1,0 +1,231 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Clothing",
+  "Icon": "Cloth",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 2,
+  "Items": [
+    {
+      "ClassName": "MMG_boots_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_boots_green",
+        "MMG_boots_tan",
+        "MMG_boots_multicam",
+        "MMG_boots_multicamblack",
+        "MMG_boots_erdl",
+        "MMG_boots_alpine",
+        "MMG_boots_dark_woodland",
+        "MMG_boots_ucp",
+        "MMG_boots_atacs",
+        "MMG_boots_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "MMG_combatshirt_black",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_combatshirt_green",
+        "MMG_combatshirt_tan",
+        "MMG_combatshirt_alpine",
+        "MMG_combatshirt_erdl",
+        "MMG_combatshirt_multicamblack",
+        "MMG_combatshirt_multicam",
+        "MMG_combatshirt_dark_woodland",
+        "MMG_combatshirt_ucp",
+        "MMG_combatshirt_atacs",
+        "MMG_combatshirt_multicam_tropic",
+        "MMG_combatshirt_police"
+      ]
+    },
+    {
+      "ClassName": "MMG_operatorshirt_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_operatorshirt_green",
+        "MMG_operatorshirt_tan",
+        "MMG_operatorshirt_erdl",
+        "MMG_operatorshirt_multicamblack",
+        "MMG_operatorshirt_multicam",
+        "MMG_operatorshirt_dark_woodland",
+        "MMG_operatorshirt_alpine",
+        "MMG_operatorshirt_ucp",
+        "MMG_operatorshirt_atacs",
+        "MMG_operatorshirt_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "MMG_tactical_shirt_black",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_tactical_shirt_ucp",
+        "MMG_tactical_shirt_green",
+        "MMG_tactical_shirt_tan",
+        "MMG_tactical_shirt_multicamblack",
+        "MMG_tactical_shirt_erdl",
+        "MMG_tactical_shirt_dark_wl",
+        "MMG_tactical_shirt_alpine",
+        "MMG_tactical_shirt_multicam",
+        "MMG_tactical_shirt_atacs",
+        "MMG_tactical_shirt_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "mmg_boonie_black",
+      "MaxPriceThreshold": 130,
+      "MinPriceThreshold": 115,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_boonie_green",
+        "mmg_boonie_tan",
+        "mmg_boonie_erdl",
+        "mmg_boonie_multicam",
+        "mmg_boonie_multicamblack",
+        "mmg_boonie_alpine",
+        "mmg_boonie_dark_woodland",
+        "mmg_boonie_ucp",
+        "mmg_boonie_atacs",
+        "mmg_boonie_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "mmg_tactical_gloves_black",
+      "MaxPriceThreshold": 230,
+      "MinPriceThreshold": 130,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_tactical_gloves_green",
+        "mmg_tactical_gloves_tan",
+        "mmg_tactical_gloves_multicam",
+        "mmg_tactical_gloves_multicamblack",
+        "mmg_tactical_gloves_erdl",
+        "mmg_tactical_gloves_alpine",
+        "mmg_tactical_gloves_dark_woodland",
+        "mmg_tactical_gloves_ucp",
+        "mmg_tactical_gloves_atacs",
+        "mmg_tactical_gloves_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "MMG_combatpants_black",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_combatpants_olive",
+        "MMG_combatpants_tan",
+        "MMG_combatpants_alpine",
+        "MMG_combatpants_erdl",
+        "MMG_combatpants_multicamblack",
+        "MMG_combatpants_multicam",
+        "MMG_combatpants_dark_woodland",
+        "MMG_combatpants_ucp",
+        "MMG_combatpants_atacs",
+        "MMG_combatpants_multicam_tropic",
+        "MMG_combatpants_police"
+      ]
+    },
+    {
+      "ClassName": "mmg_tactical_pants_black",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_tactical_pants_green",
+        "mmg_tactical_pants_tan",
+        "mmg_tactical_pants_ucp",
+        "mmg_tactical_pants_multicam",
+        "mmg_tactical_pants_erdl",
+        "mmg_tactical_pants_atacs",
+        "mmg_tactical_pants_multicamblack",
+        "mmg_tactical_pants_multicam_tropic",
+        "mmg_tactical_pants_alpine",
+        "mmg_tactical_pants_dark_woodland"
+      ]
+    },
+    {
+      "ClassName": "MMG_facemask_black",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_facemask_green",
+        "MMG_facemask_alpine",
+        "MMG_facemask_erdl",
+        "MMG_facemask_multicamblack",
+        "MMG_facemask_multicam",
+        "MMG_facemask_dark_woodland",
+        "MMG_facemask_ucp",
+        "MMG_facemask_atacs",
+        "MMG_facemask_multicam_tropic"
+      ]
+    },
+    {
+      "ClassName": "MMG_balaclava_black",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 90,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_balaclava_olive",
+        "MMG_balaclava_tan",
+        "MMG_balaclava_erdl",
+        "MMG_balaclava_alpine",
+        "MMG_balaclava_multicamblack",
+        "MMG_balaclava_multicam",
+        "MMG_balaclava_dark_woodland",
+        "MMG_balaclava_ucp",
+        "MMG_balaclava_atacs",
+        "MMG_balaclava_multicam_tropic"
+      ]
+    }
+  ]
+}

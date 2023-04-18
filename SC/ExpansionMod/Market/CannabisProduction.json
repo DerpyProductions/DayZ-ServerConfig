@@ -1,0 +1,106 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Cannabis Production",
+  "Icon": "Herbal Medicine",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 0,
+  "Items": [
+    {
+      "ClassName": "CP_CannabisSeedsPackSkunk",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "CP_CannabisSeedsPackBlue",
+        "CP_CannabisSeedsPackKush",
+        "CP_CannabisSeedsPackStardawg",
+        "CP_CannabisSeedsPackFuture",
+        "CP_CannabisSeedsPackS1",
+        "CP_CannabisSeedsPackNomad",
+        "CP_CannabisSeedsPackBlackFrost"
+      ]
+    },
+    {
+      "ClassName": "CP_RollingPapers",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CP_Workbench_Kit",
+      "MaxPriceThreshold": 1750,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CP_DryPost_Kit",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CP_PlasticWrapper",
+      "MaxPriceThreshold": 4250,
+      "MinPriceThreshold": 4250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CP_PlasticRoll",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CP_EmptyBag",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CP_Bagger",
+      "MaxPriceThreshold": 3750,
+      "MinPriceThreshold": 3750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
