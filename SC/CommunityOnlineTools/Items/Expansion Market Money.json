@@ -1,0 +1,11 @@
+{
+    "Name": "Expansion Market Money",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "ItemName": "ExpansionBanknoteHryvnia",
+            "NumberOfStacks": 20,
+            "StackSize": 50000
+        }
+    ]
+}
