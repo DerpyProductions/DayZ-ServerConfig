@@ -7,3 +7,7 @@ Config files for the DayZ Server
 IP: 51.195.8.21
 
 WIP ...
+
+
+ToDo:
+- split NewWorld.map
