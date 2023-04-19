@@ -10,7 +10,7 @@
   "Radius": 1,
   "InfectedSpawnRadius": 50,
   "InfectedSpawnInterval": 250,
-  "ItemCount": 50,
+  "ItemCount": -50,
   "Containers": [
     {
       "Container": "ExpansionAirdropContainer",
@@ -702,7 +702,7 @@
         "ZmbF_MilkMaidOld_Green",
         "ZmbF_MilkMaidOld_Grey"
       ],
-      "ItemCount": 10,
+      "ItemCount": -15,
       "InfectedCount": 5,
       "SpawnInfectedForPlayerCalledDrops": 0
     },
@@ -1303,7 +1303,7 @@
         "ZmbF_PatientOld",
         "ZmbM_PatientSkinny"
       ],
-      "ItemCount": 25,
+      "ItemCount": -25,
       "InfectedCount": 15,
       "SpawnInfectedForPlayerCalledDrops": 0
     },
@@ -1695,7 +1695,7 @@
         "ZmbM_ConstrWorkerNormal_Grey",
         "ZmbM_HeavyIndustryWorker"
       ],
-      "ItemCount": 25,
+      "ItemCount": -25,
       "InfectedCount": 15,
       "SpawnInfectedForPlayerCalledDrops": 0
     },
@@ -2702,7 +2702,7 @@
         "ZmbM_PatrolNormal_Flat",
         "ZmbM_PatrolNormal_Summer"
       ],
-      "ItemCount": 25,
+      "ItemCount": -25,
       "InfectedCount": 50,
       "SpawnInfectedForPlayerCalledDrops": 0
     }
