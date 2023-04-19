@@ -155,18 +155,12 @@
     }
   ],
   "Links": [
-		{
-            "Name": "Expansion Wiki",
-            "URL": "https://github.com/salutesh/DayZ-Expansion-Scripts/wiki/",
-            "IconName": "Expansion",
-            "IconColor": -14006434
-        },
-		{
-			  "Name": "Discord",
-			  "URL": "https://discord.gg/zKXAZrbS/",
-			  "IconName": "Discord",
-			  "IconColor": -9270822
-		}
+    {
+      "Name": "Discord",
+      "URL": "https://discord.gg/2MBYpEfwhp",
+      "IconName": "Discord",
+      "IconColor": -9270822
+    }
   ],
   "Descriptions": [
     {
@@ -176,7 +170,7 @@
           "DescriptionText": "You will find ATMs at every Tader. Look out for the blue Lockers."
         },
         {
-          "DescriptionText": "If you encounter any Bugs or Problems with the Traders, report them in the proper Discord Channel."
+          "DescriptionText": "If you encounter any Bugs or Problems with the Trader, report them in the proper Discord Channel."
         },
         {
           "DescriptionText": "If you have any Questions, feel free to ask them in Global Chat or Discord."
