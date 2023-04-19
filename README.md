@@ -11,3 +11,5 @@ WIP ...
 
 ToDo:
 - split NewWorld.map
+- missaligned objects at black trader
+- change trader outfit/NPC at GreenMountain
