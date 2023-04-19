@@ -1,5 +1,5 @@
 {
-  "RaidingTimeinSeconds": 300,
+  "RaidingTimeinSeconds": 360,
   "ToolsDamageOnRaid": 100,
   "EnableAttach": "true",
   "EnableRaid": "false",
