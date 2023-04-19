@@ -1,3 +1,9 @@
 # DayZ-ServerConfig
 
-config files for DayZ Server...WIP
+Config files for the DayZ Server
+
+"[PVE] Surviving the Green Hell together |Zones|NoRaid|Expension"
+
+IP: 51.195.8.21
+
+WIP ...
