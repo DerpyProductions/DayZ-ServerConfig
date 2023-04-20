@@ -13,7 +13,8 @@
     "Furnishings",
     "Gardening",
     "WeaponRacks",
-	"Garage",
+	  "Garage",
+    "Decoration",
     "Flags"
   ],
   "Items": {}

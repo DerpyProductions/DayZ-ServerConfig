@@ -66,6 +66,28 @@
             "Variants": []
         },
         {
+			"ClassName": "bl_coffee_machine_Kit",
+			"MaxPriceThreshold": 3500,
+			"MinPriceThreshold": 2500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+			"ClassName": "bl_small_spot",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 550,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
             "ClassName": "batterycharger",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 650,

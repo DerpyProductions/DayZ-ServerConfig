@@ -4,7 +4,7 @@
   "Icon": "Deliver",
   "Color": "FBFCFEFF",
   "IsExchange": 0,
-  "InitStockPercent": 5,
+  "InitStockPercent": 1,
   "Items": [
     {
       "ClassName": "gardenlime",
@@ -74,10 +74,10 @@
         },
 				{
 			"ClassName": "mmg_planter_box_kit",
-			"MaxPriceThreshold": 4500,
-			"MinPriceThreshold": 4500,
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 1900,
 			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 1,
+			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
 			"SpawnAttachments": [],
@@ -86,9 +86,20 @@
 		{
 			"ClassName": "mmg_greenhouse_kit",
 			"MaxPriceThreshold": 9500,
+			"MinPriceThreshold": 8500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "bl_greenhouse_Kit",
+			"MaxPriceThreshold": 10500,
 			"MinPriceThreshold": 9500,
 			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 1,
+			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
 			"SpawnAttachments": [],
