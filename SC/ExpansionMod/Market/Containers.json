@@ -85,7 +85,7 @@
       "MaxPriceThreshold": 1500,
       "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -96,7 +96,7 @@
       "MaxPriceThreshold": 8000,
       "MinPriceThreshold": 8000,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -107,7 +107,7 @@
       "MaxPriceThreshold": 12000,
       "MinPriceThreshold": 12000,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -118,7 +118,7 @@
       "MaxPriceThreshold": 16000,
       "MinPriceThreshold": 16000,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -129,7 +129,7 @@
       "MaxPriceThreshold": 4500,
       "MinPriceThreshold": 4500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -145,7 +145,7 @@
       "MaxPriceThreshold": 4500,
       "MinPriceThreshold": 4500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -158,7 +158,7 @@
       "MaxPriceThreshold": 4500,
       "MinPriceThreshold": 4500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -172,7 +172,7 @@
       "MaxPriceThreshold": 6500,
       "MinPriceThreshold": 6500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -183,7 +183,7 @@
       "MaxPriceThreshold": 3500,
       "MinPriceThreshold": 3500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
@@ -194,60 +194,60 @@
       "MaxPriceThreshold": 6500,
       "MinPriceThreshold": 6500,
       "SellPricePercent": -1,
-      "MaxStockThreshold": 1,
+      "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
     },
     {
-			"ClassName": "mmg_armored_cabinet_grey",
-			"MaxPriceThreshold": 7500,
-			"MinPriceThreshold": 7500,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": [
-				"mmg_armored_cabinet_green",
-				"mmg_armored_cabinet_rusty"
-			]
-		},
-		{
-			"ClassName": "mmg_old_safe_green",
-			"MaxPriceThreshold": 8500,
-			"MinPriceThreshold": 8500,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": [
-				"mmg_old_safe_grey"
-			]
-		},
-		{
-			"ClassName": "mmg_grenade_case_green",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 150,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "mmg_toolwagon_red",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": []
-		}
+      "ClassName": "mmg_armored_cabinet_grey",
+      "MaxPriceThreshold": 7500,
+      "MinPriceThreshold": 7500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_armored_cabinet_green",
+        "mmg_armored_cabinet_rusty"
+      ]
+    },
+    {
+      "ClassName": "mmg_old_safe_green",
+      "MaxPriceThreshold": 8500,
+      "MinPriceThreshold": 8500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_old_safe_grey"
+      ]
+    },
+    {
+      "ClassName": "mmg_grenade_case_green",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mmg_toolwagon_red",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
   ]
 }
