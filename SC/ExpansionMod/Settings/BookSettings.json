@@ -155,19 +155,19 @@
     }
   ],
   "Links": [
-    {
-      "Name": "Discord",
-      "URL": "https://discord.gg/2MBYpEfwhp",
-      "IconName": "Discord",
-      "IconColor": -9270822
-    }
+		{
+			  "Name": "Discord",
+			  "URL": "https://discord.gg/2MBYpEfwhp",
+			  "IconName": "Discord",
+			  "IconColor": -9270822
+		}
   ],
   "Descriptions": [
     {
       "CategoryName": "General Info",
       "Descriptions": [
         {
-          "DescriptionText": "You will find ATMs at every Tader. Look out for the Blue Lockers."
+          "DescriptionText": "You will find ATMs at every Tader. Look out for the blue Lockers."
         },
         {
           "DescriptionText": "If you encounter any Bugs or Problems with the Trader, report them in the proper Discord Channel."

@@ -25,6 +25,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -36,6 +37,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -46,6 +48,7 @@
           "Chance": 0.25,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "UMP45",
@@ -62,6 +65,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "B95",
@@ -78,6 +82,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "CZ527",
@@ -94,6 +99,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "CZ75",
@@ -125,6 +131,7 @@
           "Chance": 0.4000000059604645,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "FNX45",
@@ -156,6 +163,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "Expansion_Kedr",
@@ -170,6 +178,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -178,6 +187,7 @@
           "Chance": 0.800000011920929,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -188,6 +198,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "Winchester70",
@@ -202,6 +213,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -210,6 +222,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -220,6 +233,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -228,6 +242,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -236,6 +251,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -244,6 +260,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -252,6 +269,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -260,6 +278,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -268,6 +287,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -276,6 +296,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -284,6 +305,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -292,6 +314,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -300,6 +323,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -308,6 +332,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -318,6 +343,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -326,6 +352,7 @@
           "Chance": 0.25,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -334,6 +361,7 @@
           "Chance": 0.25,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -342,6 +370,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -350,6 +379,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -358,6 +388,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -366,6 +397,7 @@
           "Chance": 0.800000011920929,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -374,6 +406,7 @@
           "Chance": 0.8999999761581421,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -382,6 +415,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -390,6 +424,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -398,6 +433,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -406,6 +442,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -414,6 +451,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -422,6 +460,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -430,6 +469,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -438,6 +478,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -446,6 +487,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -454,6 +496,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -462,6 +505,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -470,6 +514,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -478,6 +523,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -486,6 +532,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -494,6 +541,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -502,6 +550,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -510,6 +559,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -518,6 +568,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -526,6 +577,7 @@
           "Chance": 1,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -534,6 +586,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -549,6 +602,7 @@
           "Chance": 0.3799999952316284,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "FirstAidKit",
@@ -717,6 +771,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -725,6 +780,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -733,6 +789,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -741,6 +798,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -749,6 +807,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -757,6 +816,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -765,6 +825,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -773,6 +834,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -781,6 +843,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -789,6 +852,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -797,6 +861,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -805,6 +870,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -813,6 +879,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -821,6 +888,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -829,6 +897,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -837,6 +906,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -845,6 +915,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -853,6 +924,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -861,6 +933,7 @@
           "Chance": 0.019999999552965164,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -869,6 +942,7 @@
           "Chance": 0.23999999463558197,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "MedicalScrubsHat_White",
@@ -888,6 +962,7 @@
           "Chance": 0.23999999463558197,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "MedicalScrubsPants_White",
@@ -907,6 +982,7 @@
           "Chance": 0.23999999463558197,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "MedicalScrubsShirt_White",
@@ -926,6 +1002,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -934,6 +1011,7 @@
           "Chance": 0.23999999463558197,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "SurgicalGloves_LightBlue",
@@ -956,6 +1034,7 @@
           "Chance": 2.440000057220459,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "FirstAidKit",
@@ -1090,6 +1169,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1098,6 +1178,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1106,6 +1187,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1114,6 +1196,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1122,6 +1205,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1130,6 +1214,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1138,6 +1223,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1146,6 +1232,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1154,6 +1241,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1162,6 +1250,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1172,6 +1261,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "AirborneMask",
@@ -1188,6 +1278,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "GP5GasMask",
@@ -1202,6 +1293,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         }
       ],
@@ -1318,6 +1410,7 @@
           "Chance": 0.800000011920929,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1326,6 +1419,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1334,6 +1428,7 @@
           "Chance": 0.25,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1342,6 +1437,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1350,6 +1446,7 @@
           "Chance": 0.5,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1358,6 +1455,7 @@
           "Chance": 0.4000000059604645,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1366,6 +1464,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1374,6 +1473,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1382,6 +1482,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1390,6 +1491,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1398,6 +1500,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1406,6 +1509,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1414,6 +1518,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1422,6 +1527,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1430,6 +1536,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1438,6 +1545,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1446,6 +1554,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1454,6 +1563,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1462,6 +1572,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1470,6 +1581,7 @@
           "Chance": 0.18000000715255737,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1478,6 +1590,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1486,6 +1599,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1494,6 +1608,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1502,6 +1617,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1510,6 +1626,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1518,6 +1635,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1526,6 +1644,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1534,6 +1653,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1542,6 +1662,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1550,6 +1671,7 @@
           "Chance": 0.25,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1558,6 +1680,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1566,6 +1689,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1574,6 +1698,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -1582,6 +1707,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         }
       ],
@@ -1713,6 +1839,7 @@
           "Chance": 0.11999999731779099,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "AK101",
@@ -1785,6 +1912,7 @@
           "Chance": 0.4950000047683716,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "AK74",
@@ -1856,6 +1984,7 @@
           "Chance": 0.550000011920929,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "AKS74U",
@@ -1875,6 +2004,7 @@
           "Chance": 1.2999999523162842,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "AKM",
@@ -1946,6 +2076,7 @@
           "Chance": 0.44999998807907104,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "Expansion_M16",
@@ -1971,6 +2102,7 @@
           "Chance": 0.5899999737739563,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "M4A1",
@@ -2010,6 +2142,7 @@
           "Chance": 0.23999999463558197,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "FAL",
@@ -2028,6 +2161,7 @@
           "Chance": 0.2800000011920929,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": [
             {
               "Name": "SVD",
@@ -2042,6 +2176,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2050,6 +2185,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2058,6 +2194,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2066,6 +2203,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2074,6 +2212,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2084,6 +2223,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2094,6 +2234,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2102,6 +2243,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2110,6 +2252,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2120,6 +2263,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2128,6 +2272,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2136,6 +2281,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2144,6 +2290,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2152,6 +2299,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2160,6 +2308,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2168,6 +2317,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2178,6 +2328,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2188,6 +2339,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2198,6 +2350,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2206,6 +2359,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2214,6 +2368,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2222,6 +2377,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2230,6 +2386,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2238,6 +2395,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2246,6 +2404,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2254,6 +2413,7 @@
           "Chance": 0.20000000298023224,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2262,6 +2422,7 @@
           "Chance": 0.05999999865889549,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2270,6 +2431,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2278,6 +2440,7 @@
           "Chance": 0.30000001192092896,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2286,6 +2449,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2294,6 +2458,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2302,6 +2467,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2310,6 +2476,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2318,6 +2485,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2326,6 +2494,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2334,6 +2503,7 @@
           "Chance": 0.15000000596046448,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2342,6 +2512,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2350,6 +2521,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2358,6 +2530,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2366,6 +2539,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2374,6 +2548,7 @@
           "Chance": 0.05999999865889549,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2382,6 +2557,7 @@
           "Chance": 0.09000000357627869,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2390,6 +2566,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2398,6 +2575,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2406,6 +2584,7 @@
           "Chance": 0.05999999865889549,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2414,6 +2593,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2422,6 +2602,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2430,6 +2611,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2438,6 +2620,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2446,6 +2629,7 @@
           "Chance": 0.11999999731779099,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2454,6 +2638,7 @@
           "Chance": 0.07000000029802322,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2462,6 +2647,7 @@
           "Chance": 0.10999999940395355,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2470,6 +2656,7 @@
           "Chance": 0.07000000029802322,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2478,6 +2665,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2486,6 +2674,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2494,6 +2683,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2502,6 +2692,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2510,6 +2701,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2518,6 +2710,7 @@
           "Chance": 0.07999999821186066,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2526,6 +2719,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2534,6 +2728,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2542,6 +2737,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2550,6 +2746,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2558,6 +2755,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2566,6 +2764,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2574,6 +2773,7 @@
           "Chance": 0.019999999552965164,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2582,6 +2782,7 @@
           "Chance": 0.699999988079071,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2590,6 +2791,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2603,6 +2805,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2611,6 +2814,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2622,6 +2826,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2633,6 +2838,7 @@
           "Chance": 0.05000000074505806,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2641,6 +2847,7 @@
           "Chance": 0.10000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2652,6 +2859,7 @@
           "Chance": 0.010000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2663,6 +2871,7 @@
           "Chance": 0.020000000298023225,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2674,6 +2883,7 @@
           "Chance": 0.010000000149011612,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2682,6 +2892,7 @@
           "Chance": 0.15000000074505807,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         },
         {
@@ -2690,6 +2901,7 @@
           "Chance": 0.15000000074505807,
           "QuantityPercent": -1,
           "Max": -1,
+          "Min": 0,
           "Variants": []
         }
       ],
