@@ -1,21 +1,22 @@
 {
-    "m_Version": 10,
-    "DisplayName": "Farmers Market",
-    "MinRequiredReputation": 0,
-    "MaxRequiredReputation": 2147483647,
-    "TraderIcon": "Can Of Beans Big",
-    "Currencies": [
-        "expansionbanknotehryvnia"
-    ],
-    "Categories": [
-        "Gardening",
-        "Food",
-		"Cooking",
-        "Fruit_And_Vegetables"
-    ],
-    "Items": {
-		"smallgascanister": 1,
-		"mediumgascanister": 1,
-        "largegascanister": 1
-	}
+  "m_Version": 10,
+  "DisplayName": "Farmers Market",
+  "MinRequiredReputation": 0,
+  "MaxRequiredReputation": 2147483647,
+  "TraderIcon": "Can Of Beans Big",
+  "Currencies": [
+    "expansionbanknotehryvnia"
+  ],
+  "Categories": [
+    "Gardening",
+    "Food",
+    "Drinks",
+    "Cooking",
+    "Fruit_And_Vegetables"
+  ],
+  "Items": {
+    "smallgascanister": 1,
+    "mediumgascanister": 1,
+    "largegascanister": 1
+  }
 }
