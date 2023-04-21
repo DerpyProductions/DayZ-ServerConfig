@@ -1,3 +1,7 @@
+<!-- .......................................... -->  
+<!-- add to econemycore.xml & cfgrandompreset.xml -->
+<!-- .......................................... -->  
+
 <ce folder="expansion_ce">
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
