@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 
-	<!--Ammoboxes-->
+	<!-- Ammo-Boxes -->
    <type name="AmmoBox_00buck_10rnd">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>

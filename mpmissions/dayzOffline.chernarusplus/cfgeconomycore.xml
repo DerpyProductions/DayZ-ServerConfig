@@ -39,7 +39,30 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
+	<ce folder="db_split">
+    <!-- Vanilla Types Split -->
+        <file name="VT_Ammo.xml" type="types" />
+        <file name="VT_Animals.xml" type="types" />
+        <file name="VT_Attachments.xml" type="types" />
+        <file name="VT_Base.xml" type="types" />
+        <file name="VT_Civ_Clothing.xml" type="types" />
+        <file name="VT_Components.xml" type="types" />
+        <file name="VT_Containers.xml" type="types" />
+        <file name="VT_Drinks.xml" type="types" />
+        <file name="VT_Explosives.xml" type="types" />
+        <file name="VT_Food.xml" type="types" />
+        <file name="VT_Life_Only.xml" type="types" />
+        <file name="VT_Medical.xml" type="types" />
+        <file name="VT_Melee.xml" type="types" />
+        <file name="VT_Mil_Clothing.xml" type="types" />
+        <file name="VT_Seasonal.xml" type="types" />
+        <file name="VT_Tools.xml" type="types" />
+        <file name="VT_Vehicles.xml" type="types" />
+        <file name="VT_Weapons.xml" type="types" />
+        <file name="VT_Zombies.xml" type="types" />
+    </ce>
 	<ce folder="CustomTypes">
+	<!-- Mod Types -->
 		  <file name="BLThings_types.xml" type="types" />
 		  <file name="CP_cannabisplus_types.xml" type="types" />
 		  <file name="mmg_storage.xml" type="types" />

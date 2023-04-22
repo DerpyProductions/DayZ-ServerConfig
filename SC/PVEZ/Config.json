@@ -17,8 +17,8 @@
         "Protect_Clothing_And_Cargo": 1,
         "Allow_Damage_Between_PVP_and_PVE": 1,
         "Damage_Types_Sent_Back_To_The_Attacker": {
-            "Weapon_Damage": 0,
-            "Explosive_Damage": 0,
+            "Weapon_Damage": 1,
+            "Explosive_Damage": 1,
             "Vehicle_Damage": 0,
             "Fist_Fight_Damage": 0
         }
