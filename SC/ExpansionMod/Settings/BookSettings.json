@@ -47,7 +47,7 @@
         },
         {
           "RuleParagraph": "4.1.",
-          "RuleText": "Have Fun, Run Faster, Survive Longer!"
+          "RuleText": "Have Fun!"
         },
         {
           "RuleParagraph": "4.2.",
@@ -170,13 +170,13 @@
           "DescriptionText": "You will find ATMs at every Tader. Look out for the blue Lockers."
         },
         {
+          "DescriptionText": "There are hostile AI at the Repair Station, Bandit Camp Skalka and in some other random locations in PVP Zones. Watch out, they are no joke!"
+        },
+        {
           "DescriptionText": "If you encounter any Bugs or Problems with the Trader, report them in the proper Discord Channel."
         },
         {
           "DescriptionText": "If you have any Questions, feel free to ask them in Global Chat or Discord."
-        },
-        {
-          "DescriptionText": "..."
         }
       ]
     },
@@ -184,7 +184,7 @@
       "CategoryName": "Mod Info",
       "Descriptions": [
         {
-          "DescriptionText": "Have a look at your Controls. You will find a lot of Expansion specific settings. "
+          "DescriptionText": "Have a look at your Controls. You will find a lot of Expansion specific settings."
         },
         {
           "DescriptionText": "..."

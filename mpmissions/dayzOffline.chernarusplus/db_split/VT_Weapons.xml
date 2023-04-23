@@ -85,7 +85,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="AKS74U">
         <nominal>20</nominal>
@@ -133,7 +132,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="Aug">
         <nominal>5</nominal>
@@ -209,7 +207,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="SSG82">
         <nominal>15</nominal>
@@ -238,7 +235,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
 	<!--Rifles-->
     <type name="Repeater">

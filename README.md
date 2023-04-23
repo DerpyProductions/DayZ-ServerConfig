@@ -11,6 +11,9 @@ WIP ...
 
 ToDo:
 - change trader outfit/NPC at GreenMountain
+- LANDROVER LESS SPAWN
+- less sword spawns
+- launcher ammo seperate categorie (no buy at normapl trader!)
 
 
 
@@ -23,48 +26,70 @@ MOD ID's:
 <!-- add to econemycore.xml & cfgrandompreset.xml -->
 <!-- .......................................... -->  
 
+<ce folder="db_split">
+    <!-- Vanilla Types Split -->
+        <file name="VT_Ammo.xml" type="types" />
+        <file name="VT_Animals.xml" type="types" />
+        <file name="VT_Attachments.xml" type="types" />
+        <file name="VT_Base.xml" type="types" />
+        <file name="VT_Civ_Clothing.xml" type="types" />
+        <file name="VT_Components.xml" type="types" />
+        <file name="VT_Containers.xml" type="types" />
+        <file name="VT_Drinks.xml" type="types" />
+        <file name="VT_Explosives.xml" type="types" />
+        <file name="VT_Food.xml" type="types" />
+        <file name="VT_Life_Only.xml" type="types" />
+        <file name="VT_Medical.xml" type="types" />
+        <file name="VT_Melee.xml" type="types" />
+        <file name="VT_Mil_Clothing.xml" type="types" />
+        <file name="VT_Seasonal.xml" type="types" />
+        <file name="VT_Tools.xml" type="types" />
+        <file name="VT_Vehicles.xml" type="types" />
+        <file name="VT_Weapons.xml" type="types" />
+        <file name="VT_Zombies.xml" type="types" />
+    </ce>
+
 <ce folder="expansion_ce">
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
 
-
-	<ce folder="CustomTypes">
-		  <file name="BLThings_types.xml" type="types" />
-		  <file name="CP_cannabisplus_types.xml" type="types" />
-		  <file name="mmg_storage.xml" type="types" />
-		  <file name="mmg_types_ADMINGEAR.xml" type="types" />
-		  <file name="mmg_types_alpine.xml" type="types" />
-		  <file name="mmg_types_atacs.xml" type="types" />
-		  <file name="mmg_types_black.xml" type="types" />
-		  <file name="mmg_types_carbines.xml" type="types" />
-		  <file name="mmg_types_dark_woodland.xml" type="types" />
-		  <file name="mmg_types_erdl.xml" type="types" />
-		  <file name="mmg_types_green.xml" type="types" />
-		  <file name="mmg_types_multicam.xml" type="types" />
-		  <file name="mmg_types_multicam_tropic.xml" type="types" />
-		  <file name="mmg_types_multicamblack.xml" type="types" />
-		  <file name="mmg_types_NBC+NVG.xml" type="types" />
-		  <file name="mmg_types_patches.xml" type="types" />
-		  <file name="mmg_types_police.xml" type="types" />
-		  <file name="mmg_types_tan.xml" type="types" />
-		  <file name="mmg_types_ucp.xml" type="types" />
-		  <file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
-		  <file name="MMGCC_types.xml" type="types" />
-		  <file name="RUSForma_Types.xml" type="types" />
-		  <file name="SNAFU_types.xml" type="types" />
-		  <file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
-		  <file name="swords_types.xml" type="types" />
-		  <file name="swords_spawnabletypes.xml" type="spawnabletypes" />
-		  <file name="Lootchest_types.xml" type="types" />
-		  <file name="Lootchest_cfgspawnabletypes.xml" type="spawnabletypes" />
+<ce folder="db_custom">
+	<!-- Mod Types -->
+		<file name="BL_BoomLayThings_types.xml" type="types" />
+		<file name="CJ_LootChest-CJ187_types.xml" type="types" />
+		<file name="CJ_LootChest-CJ187_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="CP_CannabisPlus_types.xml" type="types" />
+		<file name="MMG_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="MMG_Storage.xml" type="types" />
+		<file name="MMG_types_ADMINGEAR.xml" type="types" />
+		<file name="MMG_types_alpine.xml" type="types" />
+		<file name="MMG_types_atacs.xml" type="types" />
+		<file name="MMG_types_black.xml" type="types" />
+		<file name="MMG_types_carbines.xml" type="types" />
+		<file name="MMG_types_dark_woodland.xml" type="types" />
+		<file name="MMG_types_erdl.xml" type="types" />
+		<file name="MMG_types_green.xml" type="types" />
+		<file name="MMG_types_multicam.xml" type="types" />
+		<file name="MMG_types_multicam_tropic.xml" type="types" />
+		<file name="MMG_types_multicamblack.xml" type="types" />
+		<file name="MMG_types_NBC+NVG.xml" type="types" />
+		<file name="MMG_types_patches.xml" type="types" />
+		<file name="MMG_types_police.xml" type="types" />
+		<file name="MMG_types_tan.xml" type="types" />
+		<file name="MMG_types_ucp.xml" type="types" />
+		<file name="MMGCC_CivilianClothing_types.xml" type="types" />
+		<file name="RUSForma_Types.xml" type="types" />
+		<file name="SLC_Swords_types.xml" type="types" />
+		<file name="SLC_Swords_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
-	
 	
 	cfg_randompresets
 	
-	<cargo chance="0.15" name="toolsHermit">
+<cargo chance="0.15" name="toolsHermit">
 				<item name="WeaponCleaningKit" chance="0.10" />
 				<item name="Matchbox" chance="0.15" />
 				<item name="CanOpener" chance="0.05" />
@@ -122,27 +147,3 @@ MOD ID's:
 
 
 
-		https://opendayz.net/threads/dayz-types-categorized-1-20-complete-vanilla.22847/
-
-	<ce folder="db_split">
-    <!-- Vanilla Types Split -->
-        <file name="VT_Ammo.xml" type="types" />
-        <file name="VT_Animals.xml" type="types" />
-        <file name="VT_Attachments.xml" type="types" />
-        <file name="VT_Base.xml" type="types" />
-        <file name="VT_Civ_Clothing.xml" type="types" />
-        <file name="VT_Components.xml" type="types" />
-        <file name="VT_Containers.xml" type="types" />
-        <file name="VT_Drinks.xml" type="types" />
-        <file name="VT_Explosives.xml" type="types" />
-        <file name="VT_Food.xml" type="types" />
-        <file name="VT_Life_Only.xml" type="types" />
-        <file name="VT_Medical.xml" type="types" />
-        <file name="VT_Melee.xml" type="types" />
-        <file name="VT_Mil_Clothing.xml" type="types" />
-        <file name="VT_Seasonal.xml" type="types" />
-        <file name="VT_Tools.xml" type="types" />
-        <file name="VT_Vehicles.xml" type="types" />
-        <file name="VT_Weapons.xml" type="types" />
-        <file name="VT_Zombies.xml" type="types" />
-    </ce>

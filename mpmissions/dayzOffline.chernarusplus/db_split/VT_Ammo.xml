@@ -680,7 +680,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="Mag_AKM_30Rnd">
         <nominal>5</nominal>
@@ -790,7 +789,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
-        <value name="Tier5"/>
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>30</nominal>

@@ -3075,30 +3075,6 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "SNAFU_Bipod",
-                      "Chance": 1,
-                      "Quantity": {
-                        "Min": 0,
-                        "Max": 0
-                      },
-                      "Health": [
-                        {
-                          "Min": 0.7,
-                          "Max": 1,
-                          "Zone": ""
-                        }
-                      ],
-                      "InventoryAttachments": [],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    }
-                  ]
-                },
-                {
-                  "SlotName": "",
-                  "Items": [
-                    {
                       "ClassName": "SNAFUM98B_Mag",
                       "Chance": 1,
                       "Quantity": {
