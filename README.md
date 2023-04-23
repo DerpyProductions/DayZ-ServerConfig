@@ -12,7 +12,6 @@ WIP ...
 ToDo:
 - change trader outfit/NPC at GreenMountain
 - LANDROVER LESS SPAWN
-- less sword spawns
 - launcher ammo seperate categorie (no buy at normapl trader!)
 
 
