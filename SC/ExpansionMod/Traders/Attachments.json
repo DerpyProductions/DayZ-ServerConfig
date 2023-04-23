@@ -9,6 +9,7 @@
     ],
     "Categories": [
         "Ammo",
+        "Ammo_Launcher:2",
 		"Ammo_Boxes",
 		"Magazines",
         "Muzzles",
