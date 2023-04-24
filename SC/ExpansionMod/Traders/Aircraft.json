@@ -8,9 +8,9 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Helicopters",
+        "Aircraft_Helicopters",
 		"Aircraft_Parts:3",
-		"Batteries:3"
+		"Electronics_Batteries:3"
     ],
     "Items": {
 		"expansionhelicopterbattery": 1

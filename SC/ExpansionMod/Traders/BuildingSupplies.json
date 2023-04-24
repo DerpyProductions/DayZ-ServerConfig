@@ -8,14 +8,14 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Containers",
-    "Tents",
-    "Furnishings",
-    "Gardening",
-    "WeaponRacks",
-	  "Garage",
-    "Decoration",
-    "Flags"
+    "BB_Containers",
+    "BB_Decoration",
+    "BB_Flags",
+    "BB_Furnishings",
+    "BB_Garage",
+    "BB_Gardening",
+    "BB_Tents",
+    "BB_WeaponRacks"
   ],
   "Items": {}
 }
