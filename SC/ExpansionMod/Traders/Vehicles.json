@@ -8,10 +8,10 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Cars",
+    "Vehicle_Cars",
     "RUSForma_Vehicles",
     "Vehicle_Parts:3",
-	"Vehicle_Wheels:3",
+	  "Vehicle_Wheels:3",
     "RUSForma_Parts:3"
   ],
   "Items": {}

@@ -8,15 +8,15 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Ammo",
-        "Ammo_Launcher:2",
-		"Ammo_Boxes",
-		"Magazines",
-        "Muzzles",
-        "Bayonets",
-        "Optics",
-        "Buttstocks",
-        "Handguards"
+        "WPA_Ammo",
+        "WPA_Ammo_Launcher:2",
+		"WPA_Ammo_Boxes",
+		"WPA_Magazines",
+        "WPA_Muzzles",
+        "WPA_Bayonets",
+        "WPA_Optics",
+        "WPA_Buttstocks",
+        "WPA_Handguards"
     ],
     "Items": {
         "universallight": 1,
