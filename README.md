@@ -15,7 +15,8 @@ WIP ...
 ToDo:
 - change trader outfit/NPC at GreenMountain
 - LANDROVER LESS SPAWN
-- launcher ammo seperate categorie (no buy at normapl trader!)
+- trader rework part 2
+repair station expoxy gub on top of table
 
 
 
