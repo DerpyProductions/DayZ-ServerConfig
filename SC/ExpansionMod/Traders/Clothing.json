@@ -8,12 +8,12 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Blouses_And_Suits",
-        "Coats_And_Jackets",
-        "Shirts_And_TShirts",
-        "Skirts_And_Dresses",
-        "Pants_And_Shorts",
-        "Boots_And_Shoes"
+        "C_Blouses_And_Suits",
+        "C_Coats_And_Jackets",
+        "C_Shirts_And_TShirts",
+        "C_Skirts_And_Dresses",
+        "C_Pants_And_Shorts",
+        "C_Boots_And_Shoes"
     ],
     "Items": {}
 }

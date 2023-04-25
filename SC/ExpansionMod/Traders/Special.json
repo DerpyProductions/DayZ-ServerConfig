@@ -8,11 +8,11 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Explosives_And_Grenades:2",
-        "Ammo_Launcher:2",
-		"Launchers:2",
-		"RepairKits:2",
-		"Navigation"
+        "SP_Explosives_And_Grenades:2",
+        "SP_Ammo_Launcher:2",
+		"SP_Launchers:2",
+		"BC_RepairKits:2",
+		"SP_Navigation"
     ],
     "Items": {    }
 }

@@ -8,19 +8,19 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Helmets",
-        "Caps",
-        "Hats_And_Hoods",
-        "Armbands",
-        "Backpacks",
-        "Eyewear",
-        "Gloves",
-        "Bandanas",
-        "Masks",
-        "Vests",
-        "Holsters_And_Pouches",
-        "Ghillies",
-        "Belts"
+        "CA_Helmets",
+        "CA_Caps",
+        "CA_Hats_And_Hoods",
+        "CA_Armbands",
+        "CA_Backpacks",
+        "CA_Eyewear",
+        "CA_Gloves",
+        "CA_Bandanas",
+        "CA_Masks",
+        "CA_Vests",
+        "CA_Holsters_And_Pouches",
+        "CA_Ghillies",
+        "CA_Belts"
     ],
     "Items": {}
 }

@@ -8,8 +8,8 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Fishing",
-		"Fish"
+        "F_Fishing",
+		"F_Fish"
     ],
     "Items": {}
 }

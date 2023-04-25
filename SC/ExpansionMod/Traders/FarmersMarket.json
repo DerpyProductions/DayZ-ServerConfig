@@ -8,11 +8,11 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Gardening",
-    "Food",
-    "Drinks",
-    "Cooking",
-    "Fruit_And_Vegetables"
+    "BB_Gardening",
+    "FM_Food",
+    "FM_Drinks",
+    "FM_Cooking",
+    "FM_Fruit_And_Vegetables"
   ],
   "Items": {
     "smallgascanister": 1,

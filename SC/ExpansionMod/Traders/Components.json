@@ -8,14 +8,14 @@
         "expansionbanknotehryvnia"
     ],
     "Categories": [
-        "Tools:1",
-        "Supplies:1",
-        "Locks:1",
+        "BC_Tools:1",
+        "BC_Supplies:1",
+        "BC_Locks:1",
         "Electronics:1",
         "Navigation:2",
-        "Lights:1",
-		"RepairKits:1",
-        "Spraycans:1"
+        "BC_Lights:1",
+		"BC_RepairKits:1",
+        "BC_Spraycans:1"
     ],
     "Items": {
         "nvgoggles": 3,

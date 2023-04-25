@@ -8,17 +8,17 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Snafu_Ammo:1",
-    "Ammo_Launcher:2",
-    "Snafu_Bipods:1",
-    "Snafu_Extras:1",
-    "Snafu_Grips:1",
-    "Snafu_Handguards:1",
-    "Snafu_Mags:1",
-    "Snafu_Muzzel:1",
-    "Snafu_Scopes:1",
-    "Snafu_Stocks:1",
-    "Snafu_Suppressors:1"
+    "SNAFU_WPA_Ammo:1",
+    "WPA_Ammo_Launcher:2",
+    "SNAFU_WPA_Bipods:1",
+    "SNAFU_WPA_Extras:1",
+    "SNAFU_WPA_Grips:1",
+    "SNAFU_WPA_Handguards:1",
+    "SNAFU_WPA_Mags:1",
+    "SNAFU_WPA_Muzzel:1",
+    "SNAFU_WPA_Scopes:1",
+    "SNAFU_WPA_Stocks:1",
+    "SNAFU_WPA_Suppressors:1"
   ],
   "Items": {}
 }

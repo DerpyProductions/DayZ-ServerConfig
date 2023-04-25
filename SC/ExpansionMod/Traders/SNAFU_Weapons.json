@@ -8,16 +8,26 @@
     "expansionbanknotehryvnia"
   ],
   "Categories": [
-    "Snafu_Assault_Rifels:1",
-	"SLC_Melee_Weapons:1",
-    "Snafu_Machineguns:1",
-    "Snafu_Marksman:1",
-    "Snafu_MP:1",
-    "Snafu_PDW:1",
-    "Snafu_Pistols:1",
-    "Snafu_Rifels:1",
-    "Snafu_Shotguns:1",
-    "Snafu_Sniperrifel:1"
+    "SNAFU_WP_Assault_Rifels:1",
+	  "SLC_Melee_Weapons:1",
+    "SNAFU_WP_Machineguns:1",
+    "SNAFU_WP_Marksman:1",
+    "SNAFU_WP_MP:1",
+    "SNAFU_WP_PDW:1",
+    "SNAFU_WP_Pistols:1",
+    "SNAFU_WP_Rifels:1",
+    "SNAFU_WP_Shotguns:1",
+    "SNAFU_WP_Sniperrifel:1",
+    "SNAFU_WPA_Ammo:3",
+    "SNAFU_WPA_Bipods:3",
+    "SNAFU_WPA_Extras:3",
+    "SNAFU_WPA_Grips:3",
+    "SNAFU_WPA_Handguards:3",
+    "SNAFU_WPA_Mags:3",
+    "SNAFU_WPA_Muzzel:3",
+    "SNAFU_WPA_Scopes:3",
+    "SNAFU_WPA_Stocks:3",
+    "SNAFU_WPA_Suppressors:3"
   ],
   "Items": {}
 }
