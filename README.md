@@ -9,20 +9,12 @@ Test Server: 51.195.96.217
 
 WIP ...
 
-ToDo:
-- change trader outfit/NPC at GreenMountain
-- LANDROVER LESS SPAWN
-- launcher ammo seperate categorie (no buy at normapl trader!)
--key chain spawn or trader stock?
-
 !!!! Trading Zones: Don't override STOCK!!!!!
 
 
 ToDo:
 - change trader outfit/NPC at GreenMountain
-- LANDROVER LESS SPAWN
-- trader rework part 2
-repair station expoxy gub on top of table
+- AI Partols to PVP
 
 
 

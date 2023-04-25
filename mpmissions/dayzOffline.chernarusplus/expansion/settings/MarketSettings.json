@@ -12,7 +12,7 @@
   "UseWholeMapForATMPlayerList": 1,
   "SellPricePercent": 90,
   "NetworkBatchSize": 100,
-  "MaxVehicleDistanceToTrader": 75,
+  "MaxVehicleDistanceToTrader": 50,
   "MaxLargeVehicleDistanceToTrader": 744,
   "LargeVehicles": [
     "expansionlhd"
