@@ -15,12 +15,8 @@ WIP ...
 ToDo:
 - change trader outfit/NPC at GreenMountain
 - AI Partols to PVP
+- trader item list?? book / discord
 
-
-
-MOD ID's:
-
-@1559212036;@1564026768;@2545327648;@2572331007
 
 MOD ID's:
 

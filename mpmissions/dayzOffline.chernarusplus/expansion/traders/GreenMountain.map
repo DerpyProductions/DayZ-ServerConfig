@@ -1,6 +1,8 @@
-ExpansionTraderAIJose.Clothing|3705.86 402.002 5958.63|-15.391 0.000000 -0.000000|DressShoes_Brown,CivilianBelt,SlacksPants_Blue,ManSuit_Blue
-ExpansionTraderAIMaria.Clothing_Accessories|3708.19 402.002 5959.37|-51.0482 0.000000 -0.000000|QuiltedJacket_Violet,Breeches_Beetcheck,ThinFramesGlasses,JoggingShoes_Violet
-ExpansionTraderAIQuinn.Consumables|3724.55 402.585 5970.65|-79.5074 0.000000 0.000000|CargoPants_Black,Shirt_BlueCheckBright,SurgicalGloves_Blue,BaseballCap_Blue,AthleticShoes_Blue,CivilianBelt,DryBag_Blue
-ExpansionTraderAINaomi.Weapons|3691.91 402.1 5968.18|121.27 0.000000 -0.000000|HunterPants_Spring,HuntingJacket_Summer,Balaclava3Holes_Black,CowboyHat_black,CombatBoots_Green,MilitaryBelt,HuntingBag,Armband_Black
-ExpansionTraderAISeth.Attachments|3694.41 402.1 5969.31|165.552 0.000000 -0.000000|CargoPants_Green,M65Jacket_Khaki,UKAssVest_Black,WorkingGloves_Black,AviatorGlasses,PilotkaCap,TTSKOBoots,AssaultBag_Black
-ExpansionTraderAIJudy.Medicals|3729.029541 402.651 5969.476563|-62.680214 0.000000 -0.000000|MilitaryBoots_Black,ParamedicPants_Crimson,SurgicalGloves_Green,ParamedicJacket_Crimson,ParamedicPants_Blue
+ExpansionTraderAIJose.Clothing|3705.86 402.002 5958.63|-15.391 0.000000 -0.000000|DressShoes_Brown,CivilianBelt,SlacksPants_Blue,tacticalshirt_tan
+ExpansionTraderAIMaria.Clothing_Accessories|3708.19 402.002 5959.37|-51.0482 0.000000 -0.000000|QuiltedJacket_Violet,Breeches_Beetcheck,JoggingShoes_Violet
+ExpansionTraderAIQuinn.Consumables|3724.47 402.086 5971.12|-69.5084 0.000000 0.000000|CargoPants_Black,Shirt_BlueCheckBright,SurgicalGloves_Blue,BaseballCap_Blue,AthleticShoes_Blue,CivilianBelt,DryBag_Blue
+ExpansionTraderAIFrancis.Weapons|3691.91 402.1 5968.18|121.27 0.000000 -0.000000|HunterPants_Spring,HuntingJacket_Summer,CombatBoots_Green,MilitaryBelt,HuntingBag,Armband_Black,AKM+Mag_AKM_30Rnd+KobraOptic
+ExpansionTraderAISeth.Attachments|3694.41 402.1 5969.31|165.552 0.000000 -0.000000|CargoPants_Green,M65Jacket_Khaki,UKAssVest_Black,WorkingGloves_Black,AviatorGlasses,TTSKOBoots,AssaultBag_Black
+ExpansionTraderAIJudy.Medicals|3729.029541 402.086 5969.476563|-62.680214 0.000000 -0.000000|MilitaryBoots_Black,ParamedicPants_Crimson,SurgicalGloves_Green,ParamedicJacket_Crimson,ParamedicPants_Blue
+ExpansionTraderAIFrancis.BuildingSupplies|3695.64 402.012 5999.13|87.1006 0.000000 0.000000|jeans_blue,WorkingBoots_Brown,sweater_red
+ExpansionTraderAIManua.Components|3693.37 402.125 5998.38|148.827 0.000000 -0.000000|cargopants_grey,constructionhelmet_lime,hikingjacket_green,WorkingBoots_Brown,workinggloves_brown
