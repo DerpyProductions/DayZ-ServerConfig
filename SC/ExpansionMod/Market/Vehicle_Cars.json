@@ -140,7 +140,10 @@
                 "headlighth7",
                 "headlighth7"
             ],
-            "Variants": []
+            "Variants": [
+                "Truck_01_Covered_Blue",
+                "Truck_01_Covered_Orange"
+            ]
         },
         {
             "ClassName": "offroad_02",

@@ -15,7 +15,7 @@
     {
       "Container": "ExpansionAirdropContainer",
       "Usage": 0,
-      "Weight": 5,
+      "Weight": 10,
       "Loot": [
         {
           "Name": "AKS74U",
@@ -1828,7 +1828,7 @@
     {
       "Container": "ExpansionAirdropContainer_Military",
       "Usage": 0,
-      "Weight": 20,
+      "Weight": 5,
       "Loot": [
         {
           "Name": "AK101",
