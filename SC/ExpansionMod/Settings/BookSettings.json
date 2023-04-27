@@ -185,12 +185,14 @@
       "Descriptions": [
         {
           "DescriptionText": "Have a look at your Controls. You will find a lot of Expansion specific settings."
-        },
+        }
+      ]
+    },
+    {
+      "CategoryName": "Trading Zones",
+      "Descriptions": [
         {
-          "DescriptionText": "..."
-        },
-        {
-          "DescriptionText": "..."
+          "DescriptionText": "Have a look at the Map to find all Trading Zones. Most of the items are only available if they have been sold to the trader beforehand. Some items can only be sold (e.g. Car-Parts, Repair-Kits, Explosives ...). Other items (like Ammo) have an unlimited stock."
         }
       ]
     }

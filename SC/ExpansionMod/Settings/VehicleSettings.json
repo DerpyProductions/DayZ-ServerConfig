@@ -24,7 +24,7 @@
   "VehicleRoadKillDamageMultiplier": 0,
   "CollisionDamageIfEngineOff": 0,
   "CollisionDamageMinSpeedKmh": 30,
-  "CanChangeLock": 0,
+  "CanChangeLock": 1,
   "ChangeLockTools": [
     "Screwdriver"
   ],
@@ -37,9 +37,9 @@
   "DesyncInvulnerabilityTimeoutSeconds": 3,
   "DamagedEngineStartupChancePercent": 100,
   "EnableVehicleCovers": 1,
-  "AllowCoveringDEVehicles": 0,
+  "AllowCoveringDEVehicles": 1,
   "CanCoverWithCargo": 1,
-  "UseVirtualStorageForCoverCargo": 0,
+  "UseVirtualStorageForCoverCargo": 1,
   "VehicleAutoCoverTimeSeconds": 0,
   "VehicleAutoCoverRequireCamonet": 0,
   "EnableAutoCoveringDEVehicles": 0,

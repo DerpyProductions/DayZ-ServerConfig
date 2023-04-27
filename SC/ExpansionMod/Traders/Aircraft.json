@@ -12,7 +12,5 @@
 		"Aircraft_Parts:3",
 		"Electronics_Batteries:3"
     ],
-    "Items": {
-		"expansionhelicopterbattery": 1
-	}
+    "Items": {}
 }
