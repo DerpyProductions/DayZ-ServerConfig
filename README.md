@@ -9,13 +9,9 @@ Test Server: 51.195.96.217
 
 WIP ...
 
-!!!! Trading Zones: Don't override STOCK!!!!!
-
 
 ToDo:
-- change trader outfit/NPC at GreenMountain
 - AI Partols to PVP
-- trader item list?? book / discord
 
 
 MOD ID's:
