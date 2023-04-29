@@ -8,14 +8,14 @@
   "FollowTerrainFraction": 0.5,
   "Speed": 35,
   "Radius": 1,
-  "InfectedSpawnRadius": 50,
+  "InfectedSpawnRadius": 100,
   "InfectedSpawnInterval": 250,
   "ItemCount": -50,
   "Containers": [
     {
       "Container": "ExpansionAirdropContainer",
       "Usage": 0,
-      "Weight": 10,
+      "Weight": 5.0,
       "Loot": [
         {
           "Name": "AKS74U",
@@ -757,13 +757,13 @@
         "ZmbF_MilkMaidOld_Grey"
       ],
       "ItemCount": -15,
-      "InfectedCount": 5,
+      "InfectedCount": 10,
       "SpawnInfectedForPlayerCalledDrops": 0
     },
     {
       "Container": "ExpansionAirdropContainer_Medical",
       "Usage": 0,
-      "Weight": 10,
+      "Weight": 10.0,
       "Loot": [
         {
           "Name": "BandageDressing",
@@ -930,7 +930,7 @@
         {
           "Name": "AntiChemInjector",
           "Attachments": [],
-          "Chance": 0.019999999552965164,
+          "Chance": 0.19999999552965164,
           "QuantityPercent": -1,
           "Max": -1,
           "Min": 0,
@@ -1396,13 +1396,13 @@
         "ZmbM_PatientSkinny"
       ],
       "ItemCount": -25,
-      "InfectedCount": 15,
-      "SpawnInfectedForPlayerCalledDrops": 0
+      "InfectedCount": 20,
+      "SpawnInfectedForPlayerCalledDrops": 1
     },
     {
       "Container": "ExpansionAirdropContainer_Basebuilding",
       "Usage": 0,
-      "Weight": 15,
+      "Weight": 15.0,
       "Loot": [
         {
           "Name": "NailBox",
@@ -1410,7 +1410,7 @@
           "Chance": 0.800000011920929,
           "QuantityPercent": -1,
           "Max": -1,
-          "Min": 0,
+          "Min": 3,
           "Variants": []
         },
         {
@@ -1434,7 +1434,7 @@
         {
           "Name": "WoodenPlank",
           "Attachments": [],
-          "Chance": 0.5,
+          "Chance": 0.1,
           "QuantityPercent": -1,
           "Max": -1,
           "Min": 0,
@@ -1443,7 +1443,7 @@
         {
           "Name": "Fabric",
           "Attachments": [],
-          "Chance": 0.5,
+          "Chance": 0.25,
           "QuantityPercent": -1,
           "Max": -1,
           "Min": 0,
@@ -1709,8 +1709,237 @@
           "Max": -1,
           "Min": 0,
           "Variants": []
+        },
+
+
+
+
+        {
+          "Name": "bl_rain_collector_Kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_stove_barrel_Kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_special_item_Kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_coffee_machine",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_firewoodstorage",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_logstorage",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_solar_panel",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_old_fridge",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_greenhouse",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_pallet_box_4",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "bl_pallet_table_s",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_crate04_olive",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_grenade_case_green",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_supply_crate_wood",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_equipment_locker_green_kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_armored_cabinet_grey",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gun_rack_kit_green",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_lockable_gun_rack_kit_grey",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_toolwagon_red",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_army_box_medic",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_palette_storage",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_gear_stand_kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_greenhouse_kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_yellow_kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
+        },
+        {
+          "Name": "mmg_solo_locker_blue_kit",
+          "Attachments": [],
+          "Chance": 0.20000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
         }
-      ],
+],
       "Infected": [
         "ZmbM_HermitSkinny_Beige",
         "ZmbM_HermitSkinny_Black",
@@ -1822,13 +2051,13 @@
         "ZmbM_HeavyIndustryWorker"
       ],
       "ItemCount": -25,
-      "InfectedCount": 15,
-      "SpawnInfectedForPlayerCalledDrops": 0
+      "InfectedCount": 30,
+      "SpawnInfectedForPlayerCalledDrops": 1
     },
     {
       "Container": "ExpansionAirdropContainer_Military",
       "Usage": 0,
-      "Weight": 5,
+      "Weight": 5.0,
       "Loot": [
         {
           "Name": "AK101",
@@ -2916,7 +3145,7 @@
       ],
       "ItemCount": -25,
       "InfectedCount": 50,
-      "SpawnInfectedForPlayerCalledDrops": 0
+      "SpawnInfectedForPlayerCalledDrops": 1
     }
   ]
 }

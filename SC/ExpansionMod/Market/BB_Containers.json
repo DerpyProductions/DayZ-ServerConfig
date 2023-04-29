@@ -8,7 +8,7 @@
   "Items": [
     {
       "ClassName": "smallprotectorcase",
-      "MaxPriceThreshold": 240,
+      "MaxPriceThreshold": 440,
       "MinPriceThreshold": 240,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
@@ -19,7 +19,7 @@
     },
     {
       "ClassName": "ammobox",
-      "MaxPriceThreshold": 560,
+      "MaxPriceThreshold": 1560,
       "MinPriceThreshold": 560,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
@@ -46,7 +46,7 @@
     {
       "ClassName": "barrel_blue",
       "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
+      "MinPriceThreshold": 2000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -61,7 +61,7 @@
     {
       "ClassName": "seachest",
       "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
+      "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -72,7 +72,7 @@
     {
       "ClassName": "woodencrate",
       "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
+      "MinPriceThreshold": 500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -83,7 +83,7 @@
     {
       "ClassName": "expansiontoolbox",
       "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
+      "MinPriceThreshold": 1200,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -94,7 +94,7 @@
     {
       "ClassName": "expansionsafemini",
       "MaxPriceThreshold": 8000,
-      "MinPriceThreshold": 8000,
+      "MinPriceThreshold": 6000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -105,7 +105,7 @@
     {
       "ClassName": "expansionsafemedium",
       "MaxPriceThreshold": 12000,
-      "MinPriceThreshold": 12000,
+      "MinPriceThreshold": 10000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -116,7 +116,7 @@
     {
       "ClassName": "expansionsafelarge",
       "MaxPriceThreshold": 16000,
-      "MinPriceThreshold": 16000,
+      "MinPriceThreshold": 13000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -127,7 +127,7 @@
     {
       "ClassName": "mmg_crate04_olive",
       "MaxPriceThreshold": 4500,
-      "MinPriceThreshold": 4500,
+      "MinPriceThreshold": 3500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -143,7 +143,7 @@
     {
       "ClassName": "mmg_supply_crate_grey",
       "MaxPriceThreshold": 4500,
-      "MinPriceThreshold": 4500,
+      "MinPriceThreshold": 2500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -156,7 +156,7 @@
     {
       "ClassName": "mmg_army_box_green",
       "MaxPriceThreshold": 4500,
-      "MinPriceThreshold": 4500,
+      "MinPriceThreshold": 3500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -170,7 +170,7 @@
     {
       "ClassName": "mmg_military_case_green",
       "MaxPriceThreshold": 6500,
-      "MinPriceThreshold": 6500,
+      "MinPriceThreshold": 4500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -181,7 +181,7 @@
     {
       "ClassName": "mmg_weapon_crate_wood",
       "MaxPriceThreshold": 3500,
-      "MinPriceThreshold": 3500,
+      "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -192,7 +192,7 @@
     {
       "ClassName": "mmg_palette_storage",
       "MaxPriceThreshold": 6500,
-      "MinPriceThreshold": 6500,
+      "MinPriceThreshold": 2500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -203,7 +203,7 @@
     {
       "ClassName": "mmg_armored_cabinet_grey",
       "MaxPriceThreshold": 7500,
-      "MinPriceThreshold": 7500,
+      "MinPriceThreshold": 4500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -217,7 +217,7 @@
     {
       "ClassName": "mmg_old_safe_green",
       "MaxPriceThreshold": 8500,
-      "MinPriceThreshold": 8500,
+      "MinPriceThreshold": 5500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -230,7 +230,7 @@
     {
       "ClassName": "mmg_grenade_case_green",
       "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -241,7 +241,7 @@
     {
       "ClassName": "mmg_toolwagon_red",
       "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
+      "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,

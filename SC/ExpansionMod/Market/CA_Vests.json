@@ -161,6 +161,7 @@
             "SpawnAttachments": [],
             "Variants": [
                 "mm_combat_vest_green",
+                "mm_combat_vest_tan",
                 "mm_combat_vest_black"
             ]
         }

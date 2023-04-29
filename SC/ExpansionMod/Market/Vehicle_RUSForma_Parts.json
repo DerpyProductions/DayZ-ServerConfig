@@ -1074,7 +1074,7 @@
       "Variants": []
     },
     {
-      "ClassName": "uaz_469_hunter_doors_driver ",
+      "ClassName": "uaz_469_hunter_doors_driver",
       "MaxPriceThreshold": 1775,
       "MinPriceThreshold": 1775,
       "SellPricePercent": -1,

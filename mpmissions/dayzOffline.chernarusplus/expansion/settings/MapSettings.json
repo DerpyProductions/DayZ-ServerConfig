@@ -36,7 +36,7 @@
       "m_UID": "ServerMarker_Repair",
       "m_Visibility": 6,
       "m_Is3D": 1,
-      "m_Text": "Repair Station (AI Guards)",
+      "m_Text": "Repair Station (Hostile AI)",
       "m_IconName": "Hammer",
       "m_Color": -3662306,
       "m_Position": [
@@ -51,7 +51,7 @@
       "m_UID": "ServerMarker_BanditCamp_Skalka",
       "m_Visibility": 6,
       "m_Is3D": 1,
-      "m_Text": "Camp Skalka (AI Bandits)",
+      "m_Text": "Camp Skalka (Hostile AI)",
       "m_IconName": "Gun",
       "m_Color": -3662306,
       "m_Position": [
@@ -81,7 +81,7 @@
       "m_UID": "ServerMarker_Trader_Building",
       "m_Visibility": 6,
       "m_Is3D": 1,
-      "m_Text": "Basse Building & Supplies",
+      "m_Text": "Basse Building",
       "m_IconName": "Hammer",
       "m_Color": -13710223,
       "m_Position": [

@@ -10,7 +10,7 @@
     "Categories": [
         "Vehicle_Parts:2",
 		"Vehicle_Wheels:2",
-		"RUSForma_Parts:2",
+		"Vehicle_RUSForma_Parts:2",
 		"Vehicle_Liquids",
 		"Vehicle_Tools",
 		"Electronics_Batteries:2"

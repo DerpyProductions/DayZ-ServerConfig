@@ -175,6 +175,51 @@
 		<category name="vehiclesparts" />
 		<usage name="Industrial" />
 	</type>
+	<!-- Vehicle kamaz_4310rus_kung_blue -->
+	<type name="kamaz_4310rus_kung_blue">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+	<type name="kamaz_4310rus_orange">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+	<type name="kamaz_4310rus_doors_driver_blue">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>300</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="kamaz_4310rus_doors_codriver_blue">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>300</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
+	<type name="kamaz_4310rus_doors_hood_blue">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>300</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="vehiclesparts" />
+		<usage name="Industrial" />
+	</type>
 <!-- Vehicle kamaz_4310rus_kung_orange -->
 	<type name="kamaz_4310rus_kung_orange">
 		<lifetime>3888000</lifetime>
