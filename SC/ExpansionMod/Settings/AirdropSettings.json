@@ -8,7 +8,7 @@
   "FollowTerrainFraction": 0.5,
   "Speed": 35,
   "Radius": 1,
-  "InfectedSpawnRadius": 100,
+  "InfectedSpawnRadius": 70,
   "InfectedSpawnInterval": 250,
   "ItemCount": -50,
   "Containers": [
@@ -1938,6 +1938,15 @@
           "Max": -1,
           "Min": 0,
           "Variants": []
+        },
+        {
+          "Name": "rf_helipad_kit",
+          "Attachments": [],
+          "Chance": 0.05000000298023224,
+          "QuantityPercent": -1,
+          "Max": -1,
+          "Min": 0,
+          "Variants": []
         }
 ],
       "Infected": [
@@ -2050,7 +2059,7 @@
         "ZmbM_ConstrWorkerNormal_Grey",
         "ZmbM_HeavyIndustryWorker"
       ],
-      "ItemCount": -25,
+      "ItemCount": -30,
       "InfectedCount": 30,
       "SpawnInfectedForPlayerCalledDrops": 1
     },

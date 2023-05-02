@@ -11,7 +11,7 @@
       "SlotName": "Body",
       "Items": [
         {
-          "ClassName": "MMG_tactical_shirt_alpine",
+          "ClassName": "MMG_tactical_shirt_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -30,7 +30,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_operatorshirt_alpine",
+          "ClassName": "MMG_operatorshirt_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -49,7 +49,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_combatshirt_alpine",
+          "ClassName": "MMG_combatshirt_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -73,7 +73,7 @@
       "SlotName": "Face",
       "Items": [
         {
-          "ClassName": "MMG_facemask_alpine",
+          "ClassName": "MMG_facemask_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -92,7 +92,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_balaclava_alpine",
+          "ClassName": "MMG_balaclava_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -116,7 +116,7 @@
       "SlotName": "Legs",
       "Items": [
         {
-          "ClassName": "MMG_combatpants_alpine",
+          "ClassName": "MMG_combatpants_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -135,7 +135,7 @@
           "Sets": []
         },
         {
-          "ClassName": "mmg_tactical_pants_alpine",
+          "ClassName": "mmg_tactical_pants_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -159,7 +159,7 @@
       "SlotName": "Feet",
       "Items": [
         {
-          "ClassName": "MMG_boots_alpine",
+          "ClassName": "MMG_boots_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -183,7 +183,7 @@
       "SlotName": "Vest",
       "Items": [
         {
-          "ClassName": "MMG_MK_III_Armor_alpine",
+          "ClassName": "MMG_MK_III_Armor_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -201,7 +201,7 @@
               "SlotName": "",
               "Items": [
                 {
-                  "ClassName": "MMG_triple_magpouch_alpine",
+                  "ClassName": "MMG_triple_magpouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -214,7 +214,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_tactical_pouch_alpine",
+                  "ClassName": "MMG_tactical_pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -227,7 +227,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_Med_Pouch_alpine",
+                  "ClassName": "MMG_Med_Pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -260,7 +260,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_MK_V_Armor_alpine",
+          "ClassName": "MMG_MK_V_Armor_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -278,7 +278,7 @@
               "SlotName": "",
               "Items": [
                 {
-                  "ClassName": "MMG_mk5_grenade_pouch_alpine",
+                  "ClassName": "MMG_mk5_grenade_pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -362,7 +362,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_double_magpouch_alpine",
+                  "ClassName": "MMG_double_magpouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -375,7 +375,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_double_magpouch_alpine",
+                  "ClassName": "MMG_double_magpouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -388,7 +388,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_sheath_alpine",
+                  "ClassName": "MMG_sheath_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -401,7 +401,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_Holster_alpine",
+                  "ClassName": "MMG_Holster_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -421,7 +421,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_tt_Vest_alpine",
+          "ClassName": "MMG_tt_Vest_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -439,7 +439,7 @@
               "SlotName": "",
               "Items": [
                 {
-                  "ClassName": "MMG_double_magpouch_alpine",
+                  "ClassName": "MMG_double_magpouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -452,7 +452,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_double_magpouch_alpine",
+                  "ClassName": "MMG_double_magpouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -465,7 +465,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_Med_Pouch_alpine",
+                  "ClassName": "MMG_Med_Pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -478,7 +478,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_tactical_pouch_alpine",
+                  "ClassName": "MMG_tactical_pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -491,7 +491,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_bottle_alpine",
+                  "ClassName": "MMG_bottle_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -537,7 +537,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_JPC_Vest_alpine",
+          "ClassName": "MMG_JPC_Vest_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -555,7 +555,7 @@
               "SlotName": "",
               "Items": [
                 {
-                  "ClassName": "MMG_triple_magpouch_alpine",
+                  "ClassName": "MMG_triple_magpouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -568,7 +568,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_Med_Pouch_alpine",
+                  "ClassName": "MMG_Med_Pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -581,7 +581,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_ammo_pouch_alpine",
+                  "ClassName": "MMG_ammo_pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -594,7 +594,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_sheath_alpine",
+                  "ClassName": "MMG_sheath_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -607,7 +607,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_bottle_alpine",
+                  "ClassName": "MMG_bottle_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -645,7 +645,7 @@
       "SlotName": "Headgear",
       "Items": [
         {
-          "ClassName": "MMG_tactical_helmet_alpine",
+          "ClassName": "MMG_tactical_helmet_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -708,7 +708,7 @@
           "Sets": []
         },
         {
-          "ClassName": "MMG_striker_helmet_alpine",
+          "ClassName": "MMG_striker_helmet_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -795,7 +795,7 @@
       "SlotName": "Gloves",
       "Items": [
         {
-          "ClassName": "mmg_tactical_gloves_alpine",
+          "ClassName": "mmg_tactical_gloves_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -876,7 +876,7 @@
       "SlotName": "Hips",
       "Items": [
         {
-          "ClassName": "MMG_falcon_b1_belt_alpine",
+          "ClassName": "MMG_falcon_b1_belt_black",
           "Chance": 1.0,
           "Quantity": {
             "Min": 0.0,
@@ -894,7 +894,7 @@
               "SlotName": "",
               "Items": [
                 {
-                  "ClassName": "MMG_Holster_alpine",
+                  "ClassName": "MMG_Holster_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -932,7 +932,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_tactical_pouch_alpine",
+                  "ClassName": "MMG_tactical_pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -945,7 +945,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_Med_Pouch_alpine",
+                  "ClassName": "MMG_Med_Pouch_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -958,7 +958,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_sheath_alpine",
+                  "ClassName": "MMG_sheath_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -985,7 +985,7 @@
                   "Sets": []
                 },
                 {
-                  "ClassName": "MMG_bottle_alpine",
+                  "ClassName": "MMG_bottle_black",
                   "Chance": 0.75,
                   "Quantity": {
                     "Min": 0.0,
@@ -1010,7 +1010,7 @@
                       "SlotName": "",
                       "Items": [
                         {
-                          "ClassName": "mmg_tactical_gloves_alpine",
+                          "ClassName": "mmg_tactical_gloves_black",
                           "Chance": 0.75,
                           "Quantity": {
                             "Min": 0.0,
@@ -1095,7 +1095,7 @@
           "SlotName": "Back",
           "Items": [
             {
-              "ClassName": "MMG_carrier_backpack_alpine",
+              "ClassName": "MMG_carrier_backpack_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -1154,7 +1154,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_mmps_bag_alpine",
+              "ClassName": "MMG_mmps_bag_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -1213,7 +1213,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_supplybag_alpine",
+              "ClassName": "MMG_supplybag_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -1272,7 +1272,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_camelback_alpine",
+              "ClassName": "MMG_camelback_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -1331,7 +1331,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_assault_pack_alpine",
+              "ClassName": "MMG_assault_pack_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2089,7 +2089,7 @@
           "SlotName": "Back",
           "Items": [
             {
-              "ClassName": "MMG_carrier_backpack_alpine",
+              "ClassName": "MMG_carrier_backpack_black",
               "Chance": 1.000,
               "Quantity": {
                 "Min": 0,
@@ -2148,7 +2148,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_mmps_bag_alpine",
+              "ClassName": "MMG_mmps_bag_black",
               "Chance": 1.000,
               "Quantity": {
                 "Min": 0,
@@ -2207,7 +2207,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_supplybag_alpine",
+              "ClassName": "MMG_supplybag_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2266,7 +2266,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_assault_pack_alpine",
+              "ClassName": "MMG_assault_pack_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2325,7 +2325,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_camelback_alpine",
+              "ClassName": "MMG_camelback_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2657,7 +2657,7 @@
           "SlotName": "Back",
           "Items": [
             {
-              "ClassName": "MMG_carrier_backpack_alpine",
+              "ClassName": "MMG_carrier_backpack_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2716,7 +2716,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_mmps_bag_alpine",
+              "ClassName": "MMG_mmps_bag_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2775,7 +2775,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_supplybag_alpine",
+              "ClassName": "MMG_supplybag_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2834,7 +2834,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_assault_pack_alpine",
+              "ClassName": "MMG_assault_pack_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,
@@ -2893,7 +2893,7 @@
               "Sets": []
             },
             {
-              "ClassName": "MMG_camelback_alpine",
+              "ClassName": "MMG_camelback_black",
               "Chance": 1,
               "Quantity": {
                 "Min": 0,

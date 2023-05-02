@@ -6,14 +6,14 @@
   "GarageStoreMode": 1,
   "GarageRetrieveMode": 1,
   "MaxStorableVehicles": 5,
-  "VehicleSearchRadius": 25,
+  "VehicleSearchRadius": 50,
   "MaxDistanceFromStoredPosition": 150,
   "CanStoreWithCargo": 1,
   "UseVirtualStorageForCargo": 0,
   "NeedKeyToStore": 0,
   "EntityWhitelist": [
     "ExpansionParkingMeter",
-	"bldr_sign_parking"
+    "bldr_sign_parking"
   ],
   "EnableGroupFeatures": 1,
   "GroupStoreMode": 2,
@@ -23,8 +23,8 @@
   "MaxStorableTier1": 2,
   "MaxStorableTier2": 4,
   "MaxStorableTier3": 5,
-  "MaxRangeTier1": 25,
-  "MaxRangeTier2": 35,
-  "MaxRangeTier3": 50,
+  "MaxRangeTier1": 50,
+  "MaxRangeTier2": 75,
+  "MaxRangeTier3": 100,
   "ParkingMeterEnableFlavor": 1
 }

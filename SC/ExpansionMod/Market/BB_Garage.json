@@ -4,13 +4,24 @@
     "Icon": "Car 2",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 10.0,
+    "InitStockPercent": 1.0,
     "Items": [
         {
             "ClassName": "ExpansionParkingMeterKit",
             "MaxPriceThreshold": 6100,
             "MinPriceThreshold": 5300,
             "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rf_helipad_kit",
+            "MaxPriceThreshold": 160000,
+            "MinPriceThreshold": 125000,
+            "SellPricePercent": 15,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

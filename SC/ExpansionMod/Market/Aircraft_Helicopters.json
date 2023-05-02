@@ -42,8 +42,8 @@
         },
         {
             "ClassName": "expansionuh1h",
-            "MaxPriceThreshold": 3400000,
-            "MinPriceThreshold": 2700000,
+            "MaxPriceThreshold": 4000000,
+            "MinPriceThreshold": 3700000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

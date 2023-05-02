@@ -1,8 +1,8 @@
 {
     "Enabled": 1,
-    "Weight": 154.0,
+    "Weight": 134.0,
     "MissionMaxTime": 1200,
-    "MissionName": "Random_Myshkinko",
+    "MissionName": "Random_Gorka",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
@@ -11,9 +11,9 @@
     "Speed": 25.0,
     "Container": "Random",
     "DropLocation": {
-        "x": 2036.0,
-        "z": 7491.0,
-        "Name": "Myshkinko",
+        "x": 9600.0,
+        "z": 8753.0,
+        "Name": "Gorka",
         "Radius": 100.0
     },
     "Loot": [],

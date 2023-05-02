@@ -11,9 +11,11 @@ WIP ...
 
 
 ToDo:
-- AI Partols to PVP
 
-
+upload:
+-market: bb_garage
+-custoim types and cfgeconemycore
+-object:greenmountain.map
 
 MOD ID's:
 

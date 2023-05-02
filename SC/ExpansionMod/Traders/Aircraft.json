@@ -9,8 +9,12 @@
     ],
     "Categories": [
         "Aircraft_Helicopters",
-		"Aircraft_Parts:3",
+		"Aircraft_Parts",
 		"Electronics_Batteries:3"
     ],
-    "Items": {}
+    "Items": {
+        "rf_helipad_kit": 0,
+		"ExpansionParkingMeterKit": 0,
+		"ExpansionCircuitBoard_MK1": 0
+    }
 }
