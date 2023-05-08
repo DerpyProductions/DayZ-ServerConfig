@@ -1,6 +1,6 @@
 {
     "EnableDebug": 0,
-    "DeleteLogs": 0,
+    "DeleteLogs": 1,
     "MaxSpareMags": 1,
     "RandomQuantity": 0,
     "LootChestsLocations": [
@@ -49,7 +49,7 @@
                 "1691.022583 456.617462 14221.329102|162.999771 0 0"
             ],
             "keyclass": "CJ_Key2",
-            "openable": 1,
+            "openable": 0,
             "chest": [
                 "CJ_LootChest_Olive_Large"
             ],
@@ -80,7 +80,7 @@
                 "1690.969727 448.389740 14210.279297|-134.999619 0 0"
             ],
             "keyclass": "CJ_Key3",
-            "openable": 2,
+            "openable": 0,
             "chest": [
                 "CJ_LootChest_Tan_Large"
             ],

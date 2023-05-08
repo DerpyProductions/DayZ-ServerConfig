@@ -10,7 +10,7 @@
   "ATMPartyLockerEnabled": 1,
   "MaxPartyDepositMoney": 10000000,
   "UseWholeMapForATMPlayerList": 1,
-  "SellPricePercent": 70,
+  "SellPricePercent": 50,
   "NetworkBatchSize": 100,
   "MaxVehicleDistanceToTrader": 50,
   "MaxLargeVehicleDistanceToTrader": 744,

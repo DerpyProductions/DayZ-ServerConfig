@@ -74,7 +74,7 @@
 	<!--SoftToys-->
     <type name="Bear_Beige">
         <nominal>25</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -88,7 +88,7 @@
     </type>
     <type name="Bear_Dark">
         <nominal>25</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -102,7 +102,7 @@
     </type>
     <type name="Bear_Pink">
         <nominal>25</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -116,7 +116,7 @@
     </type>
     <type name="Bear_White">
         <nominal>25</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>

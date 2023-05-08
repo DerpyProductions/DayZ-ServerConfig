@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "ExpansionParkingMeterKit",
-            "MaxPriceThreshold": 6100,
-            "MinPriceThreshold": 5300,
+            "MaxPriceThreshold": 16100,
+            "MinPriceThreshold": 15300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
 		{
             "ClassName": "ExpansionCircuitBoard_MK1",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 1300,
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -41,9 +41,9 @@
         },
 		{
             "ClassName": "ExpansionCircuitBoard_MK2",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 2300,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 51000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": 40.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -52,9 +52,9 @@
         },
 		{
             "ClassName": "ExpansionCircuitBoard_MK3",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 4300,
-            "SellPricePercent": -1.0,
+            "MaxPriceThreshold": 85000,
+            "MinPriceThreshold": 79000,
+            "SellPricePercent": 40.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
