@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "expansionigniterplug",
-            "MaxPriceThreshold": 320,
-            "MinPriceThreshold": 260,
+            "MaxPriceThreshold": 1320,
+            "MinPriceThreshold": 1260,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "expansionhydraulichoses",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

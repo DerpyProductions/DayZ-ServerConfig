@@ -99,7 +99,13 @@
       ],
       "Radius": 1500,
       "Items": [
-        "Fireplace"
+        "Fireplace",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap"
       ],
       "IsWhitelist": 1,
       "CustomMessage": ""
