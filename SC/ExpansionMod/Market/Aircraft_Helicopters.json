@@ -8,7 +8,21 @@
     "Items": [
         {
             "ClassName": "expansiongyrocopter",
-            "MaxPriceThreshold": 1500000,
+            "MaxPriceThreshold": 500000,
+            "MinPriceThreshold": 350000,
+            "SellPricePercent": 10.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "sparkplug"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "expansionbiggyrocopter",
+            "MaxPriceThreshold": 750000,
             "MinPriceThreshold": 700000,
             "SellPricePercent": 10.0,
             "MaxStockThreshold": 100,
@@ -24,7 +38,7 @@
             "ClassName": "expansionmh6",
             "MaxPriceThreshold": 3500000,
             "MinPriceThreshold": 2900000,
-            "SellPricePercent": 10.0,
+            "SellPricePercent": 5.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -42,9 +56,9 @@
         },
         {
             "ClassName": "expansionuh1h",
-            "MaxPriceThreshold": 4000000,
-            "MinPriceThreshold": 3700000,
-            "SellPricePercent": 10.0,
+            "MaxPriceThreshold": 8000000,
+            "MinPriceThreshold": 7700000,
+            "SellPricePercent": 5.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
@@ -62,9 +76,9 @@
         },
         {
             "ClassName": "expansionmerlin",
-            "MaxPriceThreshold": 4500000,
-            "MinPriceThreshold": 3700000,
-            "SellPricePercent": 10.0,
+            "MaxPriceThreshold": 15000000,
+            "MinPriceThreshold": 13000000,
+            "SellPricePercent": 5.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,

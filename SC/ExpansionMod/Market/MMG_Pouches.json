@@ -20,6 +20,20 @@
         "mmg_dump_pouch_green"
       ]
     },
+	{
+      "ClassName": "mmg_holster_pouch_black",
+      "MaxPriceThreshold": 850,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mmg_holster_pouch_tan",
+        "mmg_holster_pouch_green"
+      ]
+    },
     {
       "ClassName": "MMG_Mag_Pouch_Black",
       "MaxPriceThreshold": 350,
@@ -144,7 +158,8 @@
         "MMG_tactical_pouch_alpine",
         "MMG_tactical_pouch_erdl",
         "MMG_tactical_pouch_multicamblack",
-        "MMG_tactical_pouch_dark_woodlan",
+		"MMG_tactical_pouch_multicam",
+        "MMG_tactical_pouch_dark_woodland",
         "MMG_tactical_pouch_ucp",
         "MMG_tactical_pouch_atacs",
         "MMG_tactical_pouch_multicam_tropic",
@@ -240,7 +255,6 @@
       "Variants": [
         "MMG_sheath_olive",
         "MMG_sheath_tan",
-        "MMG_sheath_mcb_digital",
         "MMG_sheath_alpine",
         "MMG_sheath_erdl",
         "MMG_sheath_multicamblack",

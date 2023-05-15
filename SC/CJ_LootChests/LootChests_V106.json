@@ -1,6 +1,6 @@
 {
-    "EnableDebug": 0,
-    "DeleteLogs": 1,
+    "EnableDebug": 1,
+    "DeleteLogs": 0,
     "MaxSpareMags": 1,
     "RandomQuantity": 0,
     "LootChestsLocations": [
@@ -30,7 +30,8 @@
                 "NailBox",
 				"WeaponCleaningKit",
                 "CombatKnife",
-                "Rag",
+                "battery9v",
+				"battery9v",
                 "HandSaw",
                 "Hammer"
             ]
@@ -62,6 +63,7 @@
 				"LC_Table_Weapons_3",
 				"LC_Table_Weapons_3",
                 "BandageDressing",
+				"battery9v",
 				"WeaponCleaningKit",
                 "TacticalBaconCan",
                 "NVGoggles"
@@ -94,6 +96,7 @@
 				"LC_Table_Weapons_3",
                 "WeaponCleaningKit",
 				"WeaponCleaningKit",
+				"battery9v",
 				"NVGoggles"
             ]
         },
