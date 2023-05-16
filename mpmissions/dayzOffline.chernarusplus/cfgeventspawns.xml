@@ -596,7 +596,7 @@
 		<pos x="4124" z="10551" />
 		<pos x="5344" z="9881" />
 		<pos x="10415" z="8911" />
-		<pos x="11876" z="12530" />
+		<!-- <pos x="11876" z="12530" /> Heli Trader Krasno -->
 		<pos x="3721" z="8920" />
 		<pos x="6338" z="7800" />
 		<pos x="4625" z="10467" />
@@ -611,7 +611,7 @@
 		<pos x="4372" z="4643" />
 		<pos x="9494" z="8820" />
 		<pos x="3082" z="7979" />
-		<pos x="3710" z="5993" />
+		<!-- <pos x="3710" z="5993" /> Green Mountain-->
 		<pos x="11507" z="14472" />
 		<pos x="10942" z="13392" />
 		<pos x="3339" z="15187" />
@@ -1575,7 +1575,7 @@
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor"/>
 	</event>
 
-    <event name="VehicleTransitBus" />
+    <!--<event name="VehicleTransitBus" />-->
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />

@@ -34,7 +34,7 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Grey"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Green"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Lime"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Red"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_White"/>
