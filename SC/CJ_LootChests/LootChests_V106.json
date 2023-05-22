@@ -37,6 +37,33 @@
             ]
         },
         {
+            "name": "Cannabis Boys",
+            "number": 1,
+            "pos": [
+				"1067.85 12.375 2838.72|-135.0 1.88726 3.07612"
+            ],
+            "keyclass": "",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Brown_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "CP_CannabisSeedsPackSkunk",
+				"CP_CannabisSeedsPackSkunk",
+                "CP_DryPost_Kit",
+                "CP_Workbench_Kit",
+                "CP_PlasticWrapper",
+				"CP_Bagger",
+                "CP_CannabisSeedsPackFuture",
+                "CP_CannabisSeedsPackFuture",
+				"CP_Relief_Balm",
+                "CP_CigarettePack_CannabisBlackFrost",
+                "CigarettePack_Partyzanka"
+            ]
+        },
+        {
             "name": "Tisy Headquarter 2nd Floor",
             "number": 1,
             "pos": [

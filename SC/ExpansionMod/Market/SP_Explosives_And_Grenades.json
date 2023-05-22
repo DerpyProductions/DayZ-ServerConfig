@@ -74,8 +74,30 @@
         },
         {
             "ClassName": "plastic_explosive",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 3600,
+            "MinPriceThreshold": 3300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "ClaymoreMine",
+            "MaxPriceThreshold": 6600,
+            "MinPriceThreshold": 6300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LandMineTrap",
+            "MaxPriceThreshold": 6400,
+            "MinPriceThreshold": 6100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

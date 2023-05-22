@@ -376,7 +376,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "offroad_02_trunk_rust"
+            ]
         },
         {
             "ClassName": "offroad_02_door_1_1",
@@ -387,7 +389,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "offroad_02_door_1_1_rust"
+            ]
         },
         {
             "ClassName": "offroad_02_door_1_2",
@@ -398,7 +402,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "offroad_02_door_1_2_rust"
+            ]
         },
         {
             "ClassName": "offroad_02_door_2_1",
@@ -409,7 +415,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "offroad_02_door_2_1_rust"
+            ]
         },
         {
             "ClassName": "offroad_02_door_2_2",
@@ -420,7 +428,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+                "offroad_02_door_2_2_rust"
+            ]
         },
         {
             "ClassName": "expansiontractordoorsdriver",

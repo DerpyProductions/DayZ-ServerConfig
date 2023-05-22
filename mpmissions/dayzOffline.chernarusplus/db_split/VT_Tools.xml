@@ -629,7 +629,7 @@
     </type>
     <type name="PortableGasLamp">
         <nominal>40</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>864000</lifetime>
         <restock>0</restock>
         <min>30</min>
         <quantmin>-1</quantmin>
@@ -642,7 +642,7 @@
     </type>
     <type name="PortableGasStove">
         <nominal>40</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>864000</lifetime>
         <restock>0</restock>
         <min>30</min>
         <quantmin>-1</quantmin>

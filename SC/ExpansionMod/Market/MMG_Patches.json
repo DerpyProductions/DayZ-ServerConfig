@@ -83,6 +83,17 @@
       "SpawnAttachments": [],
       "Variants": []
     },
+	{
+      "ClassName": "MMG_patch_fabric_medic",
+      "MaxPriceThreshold": 50,
+      "MinPriceThreshold": 50,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
     {
       "ClassName": "MMG_patch_rubber_pilot",
       "MaxPriceThreshold": 50,

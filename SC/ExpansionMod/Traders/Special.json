@@ -12,7 +12,8 @@
         "SP_Ammo_Launcher:2",
 		"SP_Launchers:2",
 		"BC_RepairKits:2",
-		"SP_Navigation"
+		"SP_Navigation",
+        "Electronics_NVG"
     ],
     "Items": {    }
 }

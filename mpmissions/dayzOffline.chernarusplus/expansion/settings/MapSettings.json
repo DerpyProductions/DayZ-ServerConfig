@@ -47,6 +47,21 @@
       "m_Locked": 0,
       "m_Persist": 1
     },
+    {
+      "m_UID": "ServerMarker_Cannabis",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Growers Camp (Hostile AI)",
+      "m_IconName": "Gun",
+      "m_Color": -3662306,
+      "m_Position": [
+        1067.85,
+        12.375,
+        2838.72
+      ],
+      "m_Locked": 0,
+      "m_Persist": 1
+    },
 	{
       "m_UID": "ServerMarker_BanditCamp_Skalka",
       "m_Visibility": 6,

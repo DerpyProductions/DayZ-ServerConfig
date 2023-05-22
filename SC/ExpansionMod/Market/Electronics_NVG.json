@@ -1,0 +1,40 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Nightvision",
+    "Icon": "Batteries",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "nvgoggles",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "mmg_gp_nvg_black",
+            "MaxPriceThreshold": 2900,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": [
+                "mmg_gp_nvg_tan",
+                "mmg_gp_nvg_green",
+                "mmg_gp_nvg_grey"
+            ]
+        }
+    ]
+}

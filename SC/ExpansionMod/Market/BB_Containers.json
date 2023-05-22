@@ -8,14 +8,28 @@
   "Items": [
     {
       "ClassName": "smallprotectorcase",
-      "MaxPriceThreshold": 440,
-      "MinPriceThreshold": 240,
+      "MaxPriceThreshold": 540,
+      "MinPriceThreshold": 440,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+      "ClassName": "WaterproofBag_Orange",
+      "MaxPriceThreshold": 470,
+      "MinPriceThreshold": 340,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "WaterproofBag_Yellow",
+        "WaterproofBag_Green"
+      ]
     },
     {
       "ClassName": "ammobox",
