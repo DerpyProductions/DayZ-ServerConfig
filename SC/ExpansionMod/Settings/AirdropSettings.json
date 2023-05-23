@@ -241,7 +241,7 @@
               {
                   "Name": "ExpansionGPS",
                   "Attachments": [],
-                  "Chance": 0.05000000074505806,
+                  "Chance": 0.25000000074505806,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
@@ -259,7 +259,7 @@
               {
                   "Name": "PeachesCan",
                   "Attachments": [],
-                  "Chance": 0.10000000149011612,
+                  "Chance": 0.50000000149011612,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
@@ -268,7 +268,7 @@
               {
                   "Name": "BakedBeansCan",
                   "Attachments": [],
-                  "Chance": 0.10000000149011612,
+                  "Chance": 0.30000000149011612,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
@@ -277,7 +277,7 @@
               {
                   "Name": "SpaghettiCan",
                   "Attachments": [],
-                  "Chance": 0.10000000149011612,
+                  "Chance": 0.20000000149011612,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
@@ -295,7 +295,7 @@
               {
                   "Name": "TunaCan",
                   "Attachments": [],
-                  "Chance": 0.10000000149011612,
+                  "Chance": 0.40000000149011612,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
@@ -430,16 +430,7 @@
                   "Variants": []
               },
               {
-                  "Name": "AmmoBox_9x39_20Rnd",
-                  "Attachments": [],
-                  "Chance": 0.5,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "AmmoBox_9x19_25Rnd",
+                  "Name": "ExpansionGPS",
                   "Attachments": [],
                   "Chance": 1.0,
                   "QuantityPercent": -1,
@@ -448,16 +439,7 @@
                   "Variants": []
               },
               {
-                  "Name": "AmmoBox_762x39Tracer_20Rnd",
-                  "Attachments": [],
-                  "Chance": 0.5,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "AmmoBox_762x39_20Rnd",
+                  "Name": "AntiChemInjector",
                   "Attachments": [],
                   "Chance": 1.0,
                   "QuantityPercent": -1,
@@ -466,126 +448,9 @@
                   "Variants": []
               },
               {
-                  "Name": "AmmoBox_45ACP_25Rnd",
+                  "Name": "AntiChemInjector",
                   "Attachments": [],
                   "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "AmmoBox_308WinTracer_20Rnd",
-                  "Attachments": [],
-                  "Chance": 0.5,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "AmmoBox_308Win_20Rnd",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "AmmoBox_12gaSlug_10Rnd",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "AmmoBox_12gaRubberSlug_10Rnd",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_9x39",
-                  "Attachments": [],
-                  "Chance": 0.5,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_762x39Tracer",
-                  "Attachments": [],
-                  "Chance": 0.5,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_762x39",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_45ACP",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_308WinTracer",
-                  "Attachments": [],
-                  "Chance": 0.5,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_308Win",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_12gaSlug",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_12gaRubberSlug",
-                  "Attachments": [],
-                  "Chance": 1.0,
-                  "QuantityPercent": -1,
-                  "Max": -1,
-                  "Min": 0,
-                  "Variants": []
-              },
-              {
-                  "Name": "Ammo_12gaPellets",
-                  "Attachments": [],
-                  "Chance": 0.5,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
@@ -598,8 +463,7 @@
                       "BandageDressing",
                       "BandageDressing",
                       "BandageDressing",
-                      "BandageDressing",
-                      "BandageDressing"
+                      "AntiChemInjector"
                   ],
                   "Chance": 0.3799999952316284,
                   "QuantityPercent": -1,
@@ -610,7 +474,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "BandageDressing",
-                              "SalineBagIV"
+                              "SalineBagIV",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       },
@@ -618,7 +483,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "CharcoalTablets",
-                              "Morphine"
+                              "Morphine",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       },
@@ -626,7 +492,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "Epinephrine",
-                              "StartKitIV"
+                              "StartKitIV",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       },
@@ -634,7 +501,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "Morphine",
-                              "SalineBagIV"
+                              "SalineBagIV",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       },
@@ -642,7 +510,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "PainkillerTablets",
-                              "Epinephrine"
+                              "Epinephrine",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       },
@@ -650,7 +519,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "TetracyclineAntiBiotics",
-                              "Morphine"
+                              "Morphine",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       },
@@ -658,7 +528,8 @@
                           "Name": "FirstAidKit",
                           "Attachments": [
                               "BandageDressing",
-                              "VitaminBottle"
+                              "VitaminBottle",
+                              "AntiChemInjector"
                           ],
                           "Chance": 0.13157899677753449
                       }
@@ -758,7 +629,7 @@
               "ZmbF_MilkMaidOld_Green",
               "ZmbF_MilkMaidOld_Grey"
           ],
-          "ItemCount": 15,
+          "ItemCount": 25,
           "InfectedCount": 10,
           "SpawnInfectedForPlayerCalledDrops": 0
       },
