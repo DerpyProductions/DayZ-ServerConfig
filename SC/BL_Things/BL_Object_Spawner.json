@@ -19,7 +19,7 @@
         },
         {
             "ObjDescription": "Military",
-            "ObjName": "BarrelHoles_Red",
+            "ObjName": "BarrelHoles_bl_stove",
             "position": [
                 8079.48,
                 455.46,
@@ -34,7 +34,7 @@
         },
         {
             "ObjDescription": "Aircraft",
-            "ObjName": "BarrelHoles_Red",
+            "ObjName": "BarrelHoles_bl_stove",
             "position": [
                 11867.3,
                 140.0,
@@ -49,7 +49,7 @@
         },
         {
             "ObjDescription": "Fish",
-            "ObjName": "BarrelHoles_Red",
+            "ObjName": "BarrelHoles_bl_stove",
             "position": [
                 14377.8,
                 3.3124,
@@ -64,7 +64,7 @@
         },
         {
             "ObjDescription": "Farmers",
-            "ObjName": "BarrelHoles_Red",
+            "ObjName": "BarrelHoles_bl_stove",
             "position": [
                 6960.44,
                 296.74,
@@ -79,7 +79,7 @@
         },
         {
             "ObjDescription": "Black",
-            "ObjName": "BarrelHoles_Red",
+            "ObjName": "BarrelHoles_bl_stove",
             "position": [
                 609.184,
                 391.84,
@@ -94,14 +94,14 @@
         },
         {
             "ObjDescription": "GreenMountain",
-            "ObjName": "BarrelHoles_Red",
+            "ObjName": "BarrelHoles_bl_stove",
             "position": [
                 3703.04,
-                401.99,
+                401.95,
                 5958.53
             ],
             "orientation": [
-                0.0,
+                -200,
                 0.0001,
                 0.0
             ],

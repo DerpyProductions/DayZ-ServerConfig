@@ -254,9 +254,9 @@
             ]
         },
         {
-            "ClassName": "expansion_ammo_arrowbolt",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "ClassName": "Ammo_HuntingBolt",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

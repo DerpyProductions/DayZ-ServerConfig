@@ -6,7 +6,7 @@
   "GarageStoreMode": 1,
   "GarageRetrieveMode": 1,
   "MaxStorableVehicles": 10,
-  "VehicleSearchRadius": 50,
+  "VehicleSearchRadius": 75,
   "MaxDistanceFromStoredPosition": 150,
   "CanStoreWithCargo": 1,
   "UseVirtualStorageForCargo": 0,

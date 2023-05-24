@@ -7,6 +7,39 @@
     "InitStockPercent": 0.0,
     "Items": [
         {
+            "ClassName": "Flag_Crook",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Flag_Rex",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 375,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Flag_Zagorky",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 275,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "flag_chernarus",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 175,

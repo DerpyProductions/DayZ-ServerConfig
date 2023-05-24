@@ -339,17 +339,6 @@
             "Variants": []
         },
         {
-            "ClassName": "greathelm",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 120,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "zsh3pilothelmet",
             "MaxPriceThreshold": 260,
             "MinPriceThreshold": 130,

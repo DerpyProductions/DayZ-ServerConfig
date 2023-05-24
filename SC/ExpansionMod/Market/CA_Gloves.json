@@ -132,6 +132,35 @@
                 "mm_fingerless_gloves_black",
                 "mm_fingerless_gloves_grey"
             ]
+        },
+        {
+            "ClassName": "WoolGlovesFingerless_Black",
+            "MaxPriceThreshold": 164,
+            "MinPriceThreshold": 132,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "WoolGlovesFingerless_Green",
+                "WoolGlovesFingerless_Tan"
+            ]
+        },
+        {
+            "ClassName": "WoolGloves_Black",
+            "MaxPriceThreshold": 194,
+            "MinPriceThreshold": 142,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "WoolGloves_Green",
+                "WoolGloves_Tan",
+                "WoolGloves_White"
+            ]
         }
     ]
 }

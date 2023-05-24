@@ -51,6 +51,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="VT_Drinks.xml" type="types" />
         <file name="VT_Explosives.xml" type="types" />
         <file name="VT_Food.xml" type="types" />
+		<file name="VT_Historical.xml" type="types" />
         <file name="VT_Life_Only.xml" type="types" />
         <file name="VT_Medical.xml" type="types" />
         <file name="VT_Melee.xml" type="types" />
