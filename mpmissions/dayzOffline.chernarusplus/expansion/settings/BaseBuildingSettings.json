@@ -45,7 +45,7 @@
   "RememberCode": 1,
   "CanCraftTerritoryFlagKit": 1,
   "SimpleTerritory": 1,
-  "AutomaticFlagOnCreation": 0,
+  "AutomaticFlagOnCreation": 1,
   "GetTerritoryFlagKitAfterBuild": 0,
   "BuildZoneRequiredCustomMessage": "",
   "Zones": [
@@ -312,7 +312,7 @@
   "ZonesAreNoBuildZones": 1,
   "CodelockAttachMode": 2,
   "DismantleFlagMode": -1,
-  "FlagMenuMode": 2,
+  "FlagMenuMode": 1,
   "OverrideVanillaEntityPlacement": 0,
   "EnableVirtualStorage": 1,
   "VirtualStorageExcludedContainers": [

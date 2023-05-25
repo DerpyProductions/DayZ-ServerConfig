@@ -8,8 +8,8 @@
   "Items": [
     {
       "ClassName": "CigarettePack_Chernamorka",
-      "MaxPriceThreshold": 700,
-      "MinPriceThreshold": 500,
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -22,8 +22,8 @@
     },
     {
       "ClassName": "CP_CigarettePack_CannabisSkunk",
-      "MaxPriceThreshold": 900,
-      "MinPriceThreshold": 700,
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 60000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "CP_CannabisBagSkunk",
-      "MaxPriceThreshold": 1150,
-      "MinPriceThreshold": 1150,
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 4500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -60,8 +60,8 @@
     },
     {
       "ClassName": "CP_CannabisBrickSkunk",
-      "MaxPriceThreshold": 25000,
-      "MinPriceThreshold": 25000,
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "BearPelt",
-            "MaxPriceThreshold": 3800,
-            "MinPriceThreshold": 3250,
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 6250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5000,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "GoatPelt",
-            "MaxPriceThreshold": 1160,
-            "MinPriceThreshold": 980,
+            "MaxPriceThreshold": 3160,
+            "MinPriceThreshold": 1980,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5000,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "DeerPelt",
-            "MaxPriceThreshold": 1360,
-            "MinPriceThreshold": 1120,
+            "MaxPriceThreshold": 3360,
+            "MinPriceThreshold": 2120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5000,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
         {
             "ClassName": "WolfPelt",
-            "MaxPriceThreshold": 2450,
-            "MinPriceThreshold": 2150,
+            "MaxPriceThreshold": 4450,
+            "MinPriceThreshold": 4150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5000,
             "MinStockThreshold": 1,
@@ -74,8 +74,8 @@
         },
         {
             "ClassName": "CowPelt",
-            "MaxPriceThreshold": 1100,
-            "MinPriceThreshold": 980,
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 1980,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5000,
             "MinStockThreshold": 1,
@@ -85,8 +85,8 @@
         },
         {
             "ClassName": "SheepPelt",
-            "MaxPriceThreshold": 1250,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 3250,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5000,
             "MinStockThreshold": 1,
