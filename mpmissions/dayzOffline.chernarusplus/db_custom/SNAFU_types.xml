@@ -5800,23 +5800,10 @@
         <value name="Tier4"/>
     </type>
     <type name="GCGN_BenelliM4">
-        <nominal>30</nominal>
+        <nominal>5</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="GCGN_M1Garand_FlashHider">
-        <nominal>30</nominal>
-        <restock>0</restock>
-        <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5826,10 +5813,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_B">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5839,10 +5826,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_M">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5852,10 +5839,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_S">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5865,10 +5852,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_U">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5878,10 +5865,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_50bmg_Suppressor_W">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5891,10 +5878,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_AKEOTech_EXPS3">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5904,10 +5891,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_AWM_GUN">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5917,10 +5904,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_EOTech_EXPS3">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5930,10 +5917,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Kabar">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5943,10 +5930,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_PL14HQP">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5956,10 +5943,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_PL14HQP_Mag">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5969,10 +5956,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Black">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5982,10 +5969,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Blue">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5995,10 +5982,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Brown">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6008,10 +5995,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Green">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6021,10 +6008,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Purple">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6034,10 +6021,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Red">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6047,10 +6034,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Tur">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6060,10 +6047,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFU_Shotgunchoke_Yellow">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6073,10 +6060,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFUAR15_SPR_Black_GUN">
-        <nominal>30</nominal>
+        <nominal>10</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6086,10 +6073,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFUAR15_SPR_Tan_GUN">
-        <nominal>30</nominal>
+        <nominal>2</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6099,10 +6086,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SNAFUVSSK_5rdMag">
-        <nominal>30</nominal>
+        <nominal>3</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6112,10 +6099,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SR3_Vikhr_Gun">
-        <nominal>30</nominal>
+        <nominal>5</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6125,10 +6112,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SR3_Vikhr_Mag">
-        <nominal>30</nominal>
+        <nominal>10</nominal>
         <restock>0</restock>
         <lifetime>7200</lifetime>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

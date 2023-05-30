@@ -5,7 +5,7 @@
   "PlayerTagsIcon": "Persona",
   "PlayerTagsColor": -1,
   "PlayerNameColor": -1,
-  "OnlyInSafeZones": 1,
+  "OnlyInSafeZones": 0,
   "OnlyInTerritories": 0,
   "ShowPlayerItemInHands": 0,
   "ShowNPCTags": 0,

@@ -141,7 +141,9 @@
 			"MinStockThreshold": 1,
 			"QuantityPercent": -1,
 			"SpawnAttachments": [],
-			"Variants": []
+			"Variants": [
+				"bl_rain_collector_Kit"
+			]
 		},
 		{
 			"ClassName": "bl_workbench_Kit",

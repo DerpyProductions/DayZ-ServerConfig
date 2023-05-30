@@ -22,8 +22,8 @@
     },
     {
       "ClassName": "CP_CigarettePack_CannabisSkunk",
-      "MaxPriceThreshold": 60000,
-      "MinPriceThreshold": 60000,
+      "MaxPriceThreshold": 120000,
+      "MinPriceThreshold": 120000,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,

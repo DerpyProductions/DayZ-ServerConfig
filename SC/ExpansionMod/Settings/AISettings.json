@@ -1,6 +1,6 @@
 {
   "m_Version": 5,
-  "AccuracyMin": 0.50,
+  "AccuracyMin": 0.60,
   "AccuracyMax": 0.80,
   "ThreatDistanceLimit": 1000,
   "DamageMultiplier": 1,

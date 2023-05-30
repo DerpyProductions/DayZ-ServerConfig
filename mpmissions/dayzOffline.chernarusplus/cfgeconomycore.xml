@@ -69,6 +69,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="CJ_LootChest-CJ187_types.xml" type="types" />
 		<file name="CJ_LootChest-CJ187_cfgspawnabletypes.xml" type="spawnabletypes" />
 		<file name="CP_CannabisPlus_types.xml" type="types" />
+		<file name="HM_Machines_types.xml" type="types" />
 		<file name="HeliPad_types.xml" type="types" />
 		<file name="MMG_cfgspawnabletypes.xml" type="spawnabletypes" />
 		<file name="MMG_Storage.xml" type="types" />

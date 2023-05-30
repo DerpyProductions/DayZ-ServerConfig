@@ -9,14 +9,18 @@ Test Server: 51.195.96.217
 
 WIP ...
 
+Info
 
-ToD
+- Changed the pricing at the Black Trader. Cannabis production is now more profitable
+- Added two new Mod as requested: Recycler and Laundry Maschine. Have a look at the Workshop pages to learn about the functionality:
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2976244400
+https://steamcommunity.com/sharedfiles/filedetails/?id=2977778411
 
 
 MOD ID's:
 
-@1559212036;@1564026768;@2545327648;@2572331007;@2116157322;@2793893086;@2792983824;@2831742849;@1932611410;@2536888090;@2443122116;@2663169692;@2950964578;@2800339728;@1832448183;@2860643107;@2921256386;@2827018523;@2345073965
+@1559212036;@1564026768;@2545327648;@2572331007;@2116157322;@2793893086;@2792983824;@2831742849;@1932611410;@2536888090;@2443122116;@2663169692;@2950964578;@2800339728;@1832448183;@2860643107;@2921256386;@2827018523;@2345073965;@2976244400;@2977778411
 
 
 <!-- .......................................... -->  
@@ -58,6 +62,7 @@ MOD ID's:
 		<file name="CJ_LootChest-CJ187_cfgspawnabletypes.xml" type="spawnabletypes" />
 		<file name="CP_CannabisPlus_types.xml" type="types" />
 		<file name="HeliPad_types.xml" type="types" />
+		<file name="HM_Machines_types.xml" type="types" />
 		<file name="MMG_cfgspawnabletypes.xml" type="spawnabletypes" />
 		<file name="MMG_Storage.xml" type="types" />
 		<file name="MMG_types_ADMINGEAR.xml" type="types" />

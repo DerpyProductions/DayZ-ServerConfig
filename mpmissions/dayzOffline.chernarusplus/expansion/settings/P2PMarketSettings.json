@@ -1,9 +1,9 @@
 {
     "m_Version": 2,
-    "Enabled": 0,
-    "MaxListingTime": 691200,
-    "MaxListings": 20,
-    "ListingOwnerDiscountPercent": 70,
+    "Enabled": 1,
+    "MaxListingTime": 1209600,
+    "MaxListings": 50,
+    "ListingOwnerDiscountPercent": 90,
     "ListingPricePercent": 5,
     "ExcludedClassNames": [
         "SurvivorBase",
@@ -586,5 +586,5 @@
             ]
         }
     ],
-    "SalesDepositTime": 691200
+    "SalesDepositTime": 604800
 }

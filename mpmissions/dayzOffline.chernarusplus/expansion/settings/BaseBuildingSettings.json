@@ -37,7 +37,7 @@
   "DestroyFlagOnDismantle": 0,
   "DismantleOutsideTerritory": 1,
   "DismantleInsideTerritory": 0,
-  "DismantleAnywhere": 0,
+  "DismantleAnywhere": 1,
   "CodelockActionsAnywhere": 0,
   "CodeLockLength": 4,
   "DoDamageWhenEnterWrongCodeLock": 1,
@@ -316,6 +316,23 @@
   "OverrideVanillaEntityPlacement": 0,
   "EnableVirtualStorage": 1,
   "VirtualStorageExcludedContainers": [
-    "ExpansionAirdropContainerBase"
+    "ExpansionAirdropContainerBase",
+    "CJ_LootChest_Brown_Large",
+    "CJ_LootChest_Olive_Large",
+    "CJ_LootChest_Tan_Large",
+    "CJ_LootChest_Camo_Large",
+    "mmg_trashcontainer_green_static",
+    "mmg_trashcontainer_orange_static",
+    "bl_snackomat_TRADER",
+    "mmg_trashcan_red",
+    "mmg_trashcan_yellow",
+    "mmg_trashcan_green",
+    "bl_rain_collector",
+    "bl_old_fridge",
+    "mmg_fridge_minsk_beige",
+    "mmg_fridge_minsk_blue",
+    "bl_coffee_machine",
+    "bl_solar_panel",
+    "mmg_grenade_case_green"
   ]
 }
