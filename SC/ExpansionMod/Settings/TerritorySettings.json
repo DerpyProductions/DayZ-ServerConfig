@@ -5,6 +5,6 @@
   "TerritorySize": 150,
   "TerritoryPerimeterSize": 150,
   "MaxMembersInTerritory": 5,
-  "MaxTerritoryPerPlayer": 2,
+  "MaxTerritoryPerPlayer": 3,
   "TerritoryAuthenticationRadius": 150
 }
