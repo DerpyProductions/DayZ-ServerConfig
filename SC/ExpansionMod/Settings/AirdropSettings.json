@@ -1543,14 +1543,14 @@
               {
                   "Name": "ExpansionCamoTentKit",
                   "Attachments": [],
-                  "Chance": 0.25,
+                  "Chance": 0.0925,
                   "QuantityPercent": -1,
                   "Max": -1,
                   "Min": 0,
                   "Variants": []
               },
               {
-                  "Name": "MediumTent",
+                  "Name": "HM_Barrel_Kit",
                   "Attachments": [],
                   "Chance": 0.20000000298023225,
                   "QuantityPercent": -1,
@@ -1558,6 +1558,51 @@
                   "Min": 0,
                   "Variants": []
               },
+              {
+                "Name": "HM_Printer_Kit",
+                "Attachments": [],
+                "Chance": 0.020000000298023225,
+                "QuantityPercent": -1,
+                "Max": -1,
+                "Min": 0,
+                "Variants": []
+            },
+            {
+                "Name": "HM_WashMachine_Kit",
+                "Attachments": [],
+                "Chance": 0.09200000298023225,
+                "QuantityPercent": -1,
+                "Max": -1,
+                "Min": 0,
+                "Variants": []
+            },
+            {
+                "Name": "HM_Recycler_Kit",
+                "Attachments": [],
+                "Chance": 0.08000000298023225,
+                "QuantityPercent": -1,
+                "Max": -1,
+                "Min": 0,
+                "Variants": []
+            },
+            {
+                "Name": "HM_Container_Kit",
+                "Attachments": [],
+                "Chance": 0.050000000298023225,
+                "QuantityPercent": -1,
+                "Max": -1,
+                "Min": 0,
+                "Variants": []
+            },
+            {
+                "Name": "MediumTent",
+                "Attachments": [],
+                "Chance": 0.20000000298023225,
+                "QuantityPercent": -1,
+                "Max": -1,
+                "Min": 0,
+                "Variants": []
+            },
               {
                   "Name": "LargeTent",
                   "Attachments": [],
@@ -1603,6 +1648,15 @@
                   "Min": 0,
                   "Variants": []
               },
+              {
+                "Name": "expansionstove",
+                "Attachments": [],
+                "Chance": 0.20000000298023225,
+                "QuantityPercent": -1,
+                "Max": -1,
+                "Min": 0,
+                "Variants": []
+            },
               {
                   "Name": "bl_special_item_Kit",
                   "Attachments": [],

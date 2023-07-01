@@ -24,10 +24,10 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_Arcade_Kit">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -119,10 +119,10 @@
 	
 	//LAUNDRY MACHINE//
 	<type name="HM_Detergent">
-		<nominal>4</nominal>
+		<nominal>6</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>2</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -155,7 +155,7 @@
 		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>1´2</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -222,10 +222,10 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_Trash_Kit">
-		<nominal>20</nominal>
+		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>10</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -257,7 +257,7 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_PSU">
-		<nominal>5</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
 		<min>2</min>
@@ -268,10 +268,10 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_GPU">
-		<nominal>4</nominal>
+		<nominal>6</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>2</min>
+		<min>4</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -279,10 +279,10 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_PC_Kit">
-		<nominal>7</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>3</min>
+		<min>2</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -374,10 +374,10 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_MilitaryCrate_Kit">
-		<nominal>20</nominal>
+		<nominal>2</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>10</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -561,10 +561,10 @@
 	
 	//REPAIR PLUS//
 	<type name="HM_Rasp">
-		<nominal>10</nominal>
+		<nominal>5</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>5</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -575,10 +575,10 @@
 	
 	//SIMPLE PAINT//
 	<type name="HM_Spraycan_Multi">
-		<nominal>10</nominal>
+		<nominal>5</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>5</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
