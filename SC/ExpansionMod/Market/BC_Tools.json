@@ -29,17 +29,6 @@
             "Variants": []
         },
         {
-            "ClassName": "whetstone",
-            "MaxPriceThreshold": 550,
-            "MinPriceThreshold": 420,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "hammer",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 337,

@@ -1,0 +1,287 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Helicopters (Arma 2)",
+    "Icon": "Helicopter",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 2.0,
+    "Items": [
+        {
+            "ClassName": "ext_mh6",
+            "MaxPriceThreshold": 3750000,
+            "MinPriceThreshold": 2500000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "ext_ah1z",
+            "MaxPriceThreshold": 7500000,
+            "MinPriceThreshold": 5000000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_ah1z_door_1_1",
+                "ext_ah1z_door_2_1",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ah64d",
+            "MaxPriceThreshold": 7500000,
+            "MinPriceThreshold": 5000000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_aw159",
+            "MaxPriceThreshold": 3900000,
+            "MinPriceThreshold": 2600000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_aw159_frontwheel",
+                "ext_aw159_frontwheel",
+                "ext_aw159_backwheel",
+                "ext_aw159_backwheel",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ch_47f",
+            "MaxPriceThreshold": 15000000,
+            "MinPriceThreshold": 10000000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka52",
+            "MaxPriceThreshold": 7500000,
+            "MinPriceThreshold": 5000000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_ka52_door_1_1",
+                "ext_tac_radio",
+                "ext_ka52_door_2_1",
+                "ext_ka52backwheel",
+                "ext_ka52backwheel",
+                "ext_ka52frontwheel",
+                "ext_ka52frontwheel"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka60",
+            "MaxPriceThreshold": 7000000,
+            "MinPriceThreshold": 4600000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_ka60_door",
+                "ext_ka60_frontwheel",
+                "ext_ka60_frontwheel",
+                "ext_ka60_backwheel",
+                "ext_ka60_backwheel",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3",
+            "MaxPriceThreshold": 14000000,
+            "MinPriceThreshold": 9300000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_merlinhc3_backwheel",
+                "ext_merlinhc3_cargo_door",
+                "ext_merlinhc3_door_1_1",
+                "ext_merlinhc3_door_2_1",
+                "ext_merlinhc3_frontwheel",
+                "ext_merlinhc3_frontwheel",
+                "ext_merlinhc3_backwheel",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi171",
+            "MaxPriceThreshold": 11000000,
+            "MinPriceThreshold": 7300000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_mi8door",
+                "ext_mi8frontwheel",
+                "ext_mi8frontwheel",
+                "ext_mi8backwheel",
+                "ext_mi8backwheel",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi24",
+            "MaxPriceThreshold": 8000000,
+            "MinPriceThreshold": 5300000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_mi24_door_1_1",
+                "ext_mi24_door_1_2",
+                "ext_mi24_door_2_1",
+                "ext_mi24_door_2_2",
+                "ext_mi24_door_cargo_1",
+                "ext_mi24_door_cargo_2",
+                "ext_mi24_wheel_1_1",
+                "ext_mi24_wheel_1_2",
+                "ext_mi24_wheel_2_1",
+                "ext_mi24_wheel_2_2",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi8",
+            "MaxPriceThreshold": 10000000,
+            "MinPriceThreshold": 6650000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_mi8door",
+                "ext_mi8frontwheel",
+                "ext_mi8frontwheel",
+                "ext_mi8backwheel",
+                "ext_mi8backwheel",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi8_attack",
+            "MaxPriceThreshold": 11000000,
+            "MinPriceThreshold": 7300000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionigniterplug",
+                "expansionhelicopterbattery",
+                "expansionhydraulichoses",
+                "ext_mi8frontwheel",
+                "ext_mi8frontwheel",
+                "ext_mi8backwheel",
+                "ext_mi8backwheel",
+                "ext_mi8door",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh1y",
+            "MaxPriceThreshold": 7250000,
+            "MinPriceThreshold": 4800000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_uh1y_door_1_1",
+                "ext_uh1y_door_2_1",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh60m",
+            "MaxPriceThreshold": 14000000,
+            "MinPriceThreshold": 9300000,
+            "SellPricePercent": 5,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_uh60m_door_1_1",
+                "ext_uh60m_door_1_2",
+                "ext_uh60m_door_2_1",
+                "ext_uh60m_door_2_2",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        }
+    ]
+}

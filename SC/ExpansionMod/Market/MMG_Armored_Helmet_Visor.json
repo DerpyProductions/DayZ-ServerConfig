@@ -35,6 +35,20 @@
       ]
     },
     {
+      "ClassName": "MMG_tactical_visor_black",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 220,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "MMG_tactical_visor_tan",
+        "MMG_tactical_visor_green"
+      ]
+    },
+    {
       "ClassName": "MMG_tactical_helmet_black",
       "MaxPriceThreshold": 2500,
       "MinPriceThreshold": 1750,
@@ -53,7 +67,7 @@
         "MMG_tactical_helmet_dark_woodland",
         "MMG_tactical_helmet_ucp",
         "MMG_tactical_helmet_multicam_tropic",
-        "MMG_tactical_helmet_multicam_atacs",
+        "MMG_tactical_helmet_atacs",
         "MMG_tactical_helmet_police"
       ]
     },

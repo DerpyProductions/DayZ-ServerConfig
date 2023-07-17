@@ -246,8 +246,7 @@
             "weapon": "SNAFUDVL10M2",
             "magazine": "SNAFUDVL10M2_5rdMag",
             "attachments": [
-                "SNAFU_AtlasBipod",
-				"SNAFUKivaari_338_Supp"
+                "SNAFU_AtlasBipod"
             ],
             "optic": "SNAFU_HuntingOptic",
             "opticbattery": 0
@@ -296,6 +295,17 @@
             "optic": "ACOGOptic_6x",
             "opticbattery": 0
         },
+        {
+            "defname": "LC_predefined_Kivaari",
+            "weapon": "SNAFUKivaari_Tan_GUN",
+            "magazine": "SNAFUKivaari_25rdMag",
+            "attachments": [
+                "SNAFUKivaari_338_Supp",
+                "SNAFU_ModBipod"
+            ],
+            "optic": "SNAFU_Tango6T_Black",
+            "opticbattery": 1
+        },
 		{
             "defname": "LC_predefined_VR80_Gun",
             "weapon": "VR80_Gun",
@@ -327,6 +337,19 @@
             "opticbattery": 1
         },
 		{
+            "defname": "LC_predefined_SNAFU_SR25_Gun",
+            "weapon": "SNAFU_SR25_Gun",
+            "magazine": "SNAFU_SR25_Mag",
+            "attachments": [
+                "SNAFU_AFG_02_Black",
+                "SNAFU_Agram_Suppressor_Black",
+                "SNAFU_ModBipod",
+                "UniversalLight"
+            ],
+            "optic": "SNAFU_HNightforce",
+            "opticbattery": 1
+        },
+        {
             "defname": "LC_predefined_SNAFUHoneyBadger_Black",
             "weapon": "SNAFUHoneyBadger_Black",
             "magazine": "SNAFUHoneyBadger_30rdMag_Black",
@@ -370,7 +393,9 @@
 				"LC_predefined_VR80_Gun",
 				"LC_predefined_SNAFU_MP9_GUN",
 				"LC_predefined_SN_Auto_Shotgun",
-				"LC_predefined_SNAFUHoneyBadger_Black"
+				"LC_predefined_SNAFUHoneyBadger_Black",
+                "LC_predefined_Kivaari",
+                "LC_predefined_SNAFU_SR25_Gun"
             ]
         },
         {

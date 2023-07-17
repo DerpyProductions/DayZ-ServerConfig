@@ -133,6 +133,17 @@
 			"Variants": []
 		},
 		{
+			"ClassName": "bl_special_item_Kit",
+			"MaxPriceThreshold": 3500,
+			"MinPriceThreshold": 2200,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
 			"ClassName": "bl_rain_collector_prefab_Kit",
 			"MaxPriceThreshold": 3500,
 			"MinPriceThreshold": 2500,
@@ -160,50 +171,6 @@
 			"ClassName": "bl_repairbench_Kit",
 			"MaxPriceThreshold": 3200,
 			"MinPriceThreshold": 2500,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "bl_pallet_box_4_Kit",
-			"MaxPriceThreshold": 3000,
-			"MinPriceThreshold": 2900,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "bl_pallet_box_3_Kit",
-			"MaxPriceThreshold": 2500,
-			"MinPriceThreshold": 2200,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "bl_pallet_box_2_Kit",
-			"MaxPriceThreshold": 1900,
-			"MinPriceThreshold": 1700,
-			"SellPricePercent": -1.0,
-			"MaxStockThreshold": 100,
-			"MinStockThreshold": 1,
-			"QuantityPercent": -1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "bl_pallet_box_1_Kit",
-			"MaxPriceThreshold": 1700,
-			"MinPriceThreshold": 1500,
 			"SellPricePercent": -1.0,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,
@@ -314,6 +281,28 @@
 			"ClassName": "bl_pallet",
 			"MaxPriceThreshold": 500,
 			"MinPriceThreshold": 400,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "HM_Locker_Kit",
+			"MaxPriceThreshold": 3500,
+			"MinPriceThreshold": 2300,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "HM_Shelf_Kit",
+			"MaxPriceThreshold": 5500,
+			"MinPriceThreshold": 5100,
 			"SellPricePercent": -1.0,
 			"MaxStockThreshold": 100,
 			"MinStockThreshold": 1,

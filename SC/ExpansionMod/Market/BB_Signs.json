@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Signs",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 1,
+  "Items": [
+    {
+      "ClassName": "ExpansionCone",
+      "MaxPriceThreshold": 1540,
+      "MinPriceThreshold": 1350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionSignDanger",
+      "MaxPriceThreshold": 3540,
+      "MinPriceThreshold": 2850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionSignDanger2",
+      "MaxPriceThreshold": 2750,
+      "MinPriceThreshold": 1950,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionSignDanger3",
+      "MaxPriceThreshold": 2750,
+      "MinPriceThreshold": 2350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionSignRoadBarrier",
+      "MaxPriceThreshold": 3750,
+      "MinPriceThreshold": 3350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

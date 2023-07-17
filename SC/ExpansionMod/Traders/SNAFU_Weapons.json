@@ -29,5 +29,8 @@
     "SNAFU_WPA_Stocks:3",
     "SNAFU_WPA_Suppressors:3"
   ],
-  "Items": {}
+  "Items": {
+        "universallight": 3,
+        "tlrlight": 3
+  }
 }

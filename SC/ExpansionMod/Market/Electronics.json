@@ -150,7 +150,7 @@
             "Variants": []
         },
         {
-            "ClassName": "HM_WashMachine_Box",
+            "ClassName": "HM_WashMachine_Kit",
             "MaxPriceThreshold": 28000,
             "MinPriceThreshold": 26800,
             "SellPricePercent": -1.0,
@@ -161,9 +161,75 @@
             "Variants": []
         },
         {
-            "ClassName": "HM_RecyclerMachine_Box",
+            "ClassName": "HM_PC_Kit",
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 17300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_GPU",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 16300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_PSU",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 3300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_GPU",
             "MaxPriceThreshold": 9000,
             "MinPriceThreshold": 7300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Printer_Kit",
+            "MaxPriceThreshold": 29000,
+            "MinPriceThreshold": 27300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Resin",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Detergent",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

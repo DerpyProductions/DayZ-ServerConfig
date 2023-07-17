@@ -91,7 +91,7 @@
   "EnableGenerators": 0,
   "EnableLighthouses": 1,
   "EnableHUDNightvisionOverlay": 1,
-  "DisableMagicCrosshair": 0,
+  "DisableMagicCrosshair": 1,
   "EnableAutoRun": 1,
   "UnlimitedStamina": 1,
   "UseDeathScreen": 1,

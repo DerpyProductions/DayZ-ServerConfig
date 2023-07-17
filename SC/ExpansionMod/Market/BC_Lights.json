@@ -159,7 +159,9 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+                "battery9v"
+            ],
             "Variants": []
         },
         {
@@ -170,8 +172,21 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Barrel_Kit",
+            "MaxPriceThreshold": 3240,
+            "MinPriceThreshold": 2120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        }    
     ]
 }

@@ -10,11 +10,12 @@
     "Categories": [
         "Aircraft_Helicopters",
 		"Aircraft_Parts",
-		"Electronics_Batteries:3"
+        "EXT_Helicopters",
+        "EXT_Parts_Helicopters",
+        "Electronics_Batteries:3",
+        "BB_Garage",
+        "EXT_Spraycans",
+        "BC_Spraycans"
     ],
-    "Items": {
-        "rf_helipad_kit": 0,
-		"ExpansionParkingMeterKit": 0,
-		"ExpansionCircuitBoard_MK1": 0
-    }
+    "Items": {}
 }

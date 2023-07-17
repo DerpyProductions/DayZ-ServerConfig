@@ -15,7 +15,11 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+          "HM_Tag1_Case",
+          "HM_Tag2_Case",
+          "HM_Tag3_Case"
+      ]
     },
     {
       "ClassName": "WaterproofBag_Orange",
@@ -92,7 +96,11 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": []
+      "Variants": [
+          "HM_Tag1_Crate",
+          "HM_Tag2_Crate",
+          "HM_Tag3_Crate"
+      ]
     },
     {
       "ClassName": "expansiontoolbox",
@@ -254,6 +262,17 @@
     },
     {
       "ClassName": "mmg_toolwagon_red",
+      "MaxPriceThreshold": 6500,
+      "MinPriceThreshold": 4700,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HM_AmmoCrate_Kit",
       "MaxPriceThreshold": 2500,
       "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
@@ -262,6 +281,94 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
-    }
+    },
+    {
+      "ClassName": "HM_MilitaryCrate_Kit",
+      "MaxPriceThreshold": 5500,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HM_ToolBox_Kit",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 2700,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HM_Trolley_Kit",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "HM_AirDrop_Kit",
+      "MaxPriceThreshold": 9500,
+      "MinPriceThreshold": 7900,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+			"ClassName": "bl_pallet_box_4_Kit",
+			"MaxPriceThreshold": 3000,
+			"MinPriceThreshold": 2900,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "bl_pallet_box_3_Kit",
+			"MaxPriceThreshold": 2500,
+			"MinPriceThreshold": 2200,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "bl_pallet_box_2_Kit",
+			"MaxPriceThreshold": 1900,
+			"MinPriceThreshold": 1700,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "bl_pallet_box_1_Kit",
+			"MaxPriceThreshold": 1700,
+			"MinPriceThreshold": 1500,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
   ]
 }

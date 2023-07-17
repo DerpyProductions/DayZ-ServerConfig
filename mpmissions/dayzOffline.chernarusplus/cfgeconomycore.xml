@@ -62,7 +62,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
         <file name="VT_Weapons.xml" type="types" />
         <file name="VT_Zombies.xml" type="types" />
     </ce>
-	
 	<ce folder="db_custom">
 	<!-- Mod Types -->
 		<file name="BL_BoomLayThings_types.xml" type="types" />
@@ -95,5 +94,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="SLC_Swords_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="SNAFU_types.xml" type="types" />
 		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="ext_types.xml" type="types" />
+		<file name="ext_covers_types.xml" type="types" />
 	</ce>
 </economycore>

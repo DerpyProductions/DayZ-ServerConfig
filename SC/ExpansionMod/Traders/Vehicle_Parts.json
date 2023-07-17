@@ -10,11 +10,12 @@
     "Categories": [
         "Vehicle_Parts:2",
 		"Vehicle_Wheels:2",
-		"Vehicle_RUSForma_Parts:2",
+		"Vehicle_RUSForma_Parts:3",
 		"Vehicle_Liquids",
 		"Vehicle_Tools",
 		"Electronics_Batteries:2",
-        "BC_Spraycans:1"
+        "BC_Spraycans",
+        "BB_Garage"
     ],
     "Items": {
 		"expansionhydraulichoses": 2,

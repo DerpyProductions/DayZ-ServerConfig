@@ -18,17 +18,6 @@
             "Variants": []
         },
         {
-            "ClassName": "SR3_Vikhr_Supp",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "SNAFU_Normalized_Suppressor_Green",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
@@ -96,6 +85,17 @@
         },
         {
             "ClassName": "SNAFU_LStandardized_Suppressor_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_LStandardized_Suppressor_Green",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,

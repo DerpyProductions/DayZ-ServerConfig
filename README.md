@@ -9,18 +9,36 @@ Test Server: 51.195.96.217
 
 WIP ...
 
+
+ToDo:
+- remove SNAFU weapons / mags etc. (old ones)
+- add weapons damage Mod (after update)
+- add race track (test bevorhand): dze loader mod needed
+- AI loadout mmg green/olive & TAN (snafu)
+- loadout SNAFU (specifie weapon sets)
+- loot chest: add more cool weapons variants
+- P2P trader: bug fixes, vehicle spawn positions?
+
+
+restet Msg.
+say -1 Server restart in 5 Minutes. Mod Update (RUS-Forma)
+say -1 Server will restart now! Mod Update ...
+say -1 Server will be back online in 5-10 Minutes
+
+
+
 Info
 
-- Changed the pricing at the Black Trader. Cannabis production is now more profitable
-- Added two new Mod as requested: Recycler and Laundry Maschine. Have a look at the Workshop pages to learn about the functionality:
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2976244400
-https://steamcommunity.com/sharedfiles/filedetails/?id=2977778411
+Tutorial
+
+
+
 
 
 MOD ID's:
 
-@1559212036;@1564026768;@2545327648;@2572331007;@2116157322;@2793893086;@2792983824;@2831742849;@1932611410;@2536888090;@2443122116;@2663169692;@2950964578;@2800339728;@1832448183;@2860643107;@2921256386;@2827018523;@2345073965;@2976244400;@2977778411
+@1559212036;@1564026768;@2545327648;@2572331007;@2116157322;@2793893086;@2792983824;@2831742849;@1932611410;@2536888090;@2443122116;@2663169692;@2950964578;@2800339728;@1832448183;@2860643107;@2921256386;@2827018523;@2345073965;@2976244400;@2977778411;@1646187754;@2982956046;@2651195301
 
 
 <!-- .......................................... -->  
@@ -311,58 +329,58 @@ MOD ID's:
 <!-- add to cfg_randompresets.xml  -->
 <!-- .......................................... -->  	
 <cargo chance="0.15" name="toolsHermit">
-				<item name="WeaponCleaningKit" chance="0.10" />
-				<item name="Matchbox" chance="0.15" />
-				<item name="CanOpener" chance="0.05" />
-				<item name="Rope" chance="0.07" />
-				<item name="Rag" chance="0.07" />
-				<item name="CJ_Key1" chance="0.01" />
-				<item name="CJ_Key2" chance="0.01" />
-				<item name="Hatchet" chance="0.07" />
-				<item name="StoneKnife" chance="0.1" />
-				<item name="HuntingKnife" chance="0.08" />
-				<item name="PurificationTablets" chance="0.05" />
-				<item name="CharcoalTablets" chance="0.05" />
+				< name="WeaponCleaningKit" chance="0.10" />
+				< name="Matchbox" chance="0.15" />
+				< name="CanOpener" chance="0.05" />
+				< name="Rope" chance="0.07" />
+				< name="Rag" chance="0.07" />
+				< name="CJ_Key1" chance="0.01" />
+				< name="CJ_Key2" chance="0.01" />
+				< name="Hatchet" chance="0.07" />
+				< name="StoneKnife" chance="0.1" />
+				< name="HuntingKnife" chance="0.08" />
+				< name="PurificationTablets" chance="0.05" />
+				< name="CharcoalTablets" chance="0.05" />
 		</cargo>
 		<cargo chance="0.25" name="toolsPolice">
-				<item name="Battery9V" chance="0.1" />
-				<item name="PersonalRadio" chance="0.1" />
-				<item name="Flashlight" chance="0.15" />
-				<item name="Roadflare" chance="0.2" />
-				<item name="CombatKnife" chance="0.05" />
-				<item name="Morphine" chance="0.05" />
-				<item name="CJ_Key1" chance="0.01" />
-				<item name="CJ_Key2" chance="0.01" />
-				<item name="BandageDressing" chance="0.05" />
+				< name="Battery9V" chance="0.1" />
+				< name="PersonalRadio" chance="0.1" />
+				< name="Flashlight" chance="0.15" />
+				< name="Roadflare" chance="0.2" />
+				< name="CombatKnife" chance="0.05" />
+				< name="Morphine" chance="0.05" />
+				< name="CJ_Key1" chance="0.01" />
+				< name="CJ_Key2" chance="0.01" />
+				< name="BandageDressing" chance="0.05" />
 		</cargo>
 		<cargo chance="0.35" name="toolsIndustrial">
-				<item name="Pipe" chance="0.07" />
-				<item name="Hatchet" chance="0.07" />
-				<item name="Crowbar" chance="0.07" />
-				<item name="Rope" chance="0.1" />
-				<item name="DuctTape" chance="0.1" />
-				<item name="CJ_Key2" chance="0.01" />
-				<item name="Battery9V" chance="0.2" />
-				<item name="Flashlight" chance="0.2" />
+				< name="Pipe" chance="0.07" />
+				< name="Hatchet" chance="0.07" />
+				< name="Crowbar" chance="0.07" />
+				< name="Rope" chance="0.1" />
+				< name="DuctTape" chance="0.1" />
+				< name="CJ_Key2" chance="0.01" />
+				< name="Battery9V" chance="0.2" />
+				< name="Flashlight" chance="0.2" />
 		</cargo>
 		<cargo chance="0.1" name="mixArmy">
-				<item name="SodaCan_Cola" chance="0.05" />
-				<item name="SodaCan_Pipsi" chance="0.05" />
-				<item name="SodaCan_Spite" chance="0.05" />
-				<item name="TunaCan" chance="0.1" />
-				<item name="SardinesCan" chance="0.05" />
-				<item name="CJ_Key3" chance="0.01" />
-				<item name="PeachesCan" chance="0.05" />
-				<item name="SpaghettiCan" chance="0.05" />
-				<item name="BakedBeansCan" chance="0.05" />
-				<item name="TacticalBaconCan" chance="0.1" />
-				<item name="Canteen" chance="0.1" />
-				<item name="Ammo_45ACP" chance="0.2" />
-				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
-				<item name="Ammo_762x39" chance="0.2" />
-				<item name="AmmoBox_762x39_20Rnd" chance="0.05" />
-				<item name="Ammo_762x54" chance="0.2" />
-				<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
+				< name="SodaCan_Cola" chance="0.05" />
+				< name="SodaCan_Pipsi" chance="0.05" />
+				< name="SodaCan_Spite" chance="0.05" />
+				< name="TunaCan" chance="0.1" />
+				< name="SardinesCan" chance="0.05" />
+				< name="CJ_Key3" chance="0.01" />
+				< name="PeachesCan" chance="0.05" />
+				< name="SpaghettiCan" chance="0.05" />
+				< name="BakedBeansCan" chance="0.05" />
+				< name="TacticalBaconCan" chance="0.1" />
+				< name="Canteen" chance="0.1" />
+				< name="Ammo_45ACP" chance="0.2" />
+				< name="AmmoBox_45ACP_25Rnd" chance="0.05" />
+				< name="Ammo_762x39" chance="0.2" />
+				< name="AmmoBox_762x39_20Rnd" chance="0.05" />
+				< name="Ammo_762x54" chance="0.2" />
+				< name="AmmoBox_762x54_20Rnd" chance="0.05" />
 		</cargo>
 
 

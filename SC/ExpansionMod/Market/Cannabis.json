@@ -41,9 +41,9 @@
     },
     {
       "ClassName": "CP_CannabisBagSkunk",
-      "MaxPriceThreshold": 4500,
-      "MinPriceThreshold": 4500,
-      "SellPricePercent": -1,
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": 10,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
@@ -79,8 +79,8 @@
     },
     {
       "ClassName": "CP_Relief_Balm",
-      "MaxPriceThreshold": 700,
-      "MinPriceThreshold": 500,
+      "MaxPriceThreshold": 1700,
+      "MinPriceThreshold": 1500,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,

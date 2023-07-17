@@ -214,6 +214,105 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "GasMask_Filter",
+            "MaxPriceThreshold": 4600,
+            "MinPriceThreshold": 3400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Medical_Bag",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Emebandage",
+            "MaxPriceThreshold": 4600,
+            "MinPriceThreshold": 3400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_IFAK",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_IFAK_Black",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Propital_Red",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Propital_Green",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_Golden_Star",
+            "MaxPriceThreshold": 2600,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HM_AI2",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 50,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

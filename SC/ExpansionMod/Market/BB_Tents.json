@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Tents",
+    "DisplayName": "Tents & Container",
     "Icon": "Tent",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -89,6 +89,17 @@
 			"QuantityPercent": -1,
 			"SpawnAttachments": [],
 			"Variants": []
-		}
+		},
+		{
+			"ClassName": "HM_Container_Kit",
+			"MaxPriceThreshold": 175000,
+			"MinPriceThreshold": 150000,
+			"SellPricePercent": 25,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		} 
     ]
 }

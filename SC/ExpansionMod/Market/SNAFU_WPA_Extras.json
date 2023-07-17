@@ -80,7 +80,9 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": 0,
-            "SpawnAttachments": [],
+            "SpawnAttachments": [
+                "battery9v"
+            ],
             "Variants": []
         },
         {
@@ -129,17 +131,6 @@
         },
         {
             "ClassName": "SNAFU_Kabar",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFU_Kabar_BK",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,

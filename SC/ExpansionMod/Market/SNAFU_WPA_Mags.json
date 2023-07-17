@@ -65,17 +65,6 @@
             "Variants": []
         },
         {
-            "ClassName": "SR3_Vikhr_Mag",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "SNAFU_SR3Vikhr_Mag",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
@@ -255,50 +244,6 @@
             "ClassName": "SNAFUM24_Mag",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFUAR15_SPR_30RND_Mag",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFUAR15_SPR_40RND_Mag",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFUAR15_SPR_60RND_Mag",
-            "MaxPriceThreshold": 900,
-            "MinPriceThreshold": 700,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SNAFUAR15_SPR_100RND_Mag",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -618,17 +563,6 @@
             "ClassName": "GCGN_M249_Mag",
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "GCGN_Vityaz_30Rnd",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -73,9 +73,20 @@
             "Variants": []
         },
         {
-            "ClassName": "HM_Detergent",
-            "MaxPriceThreshold": 360,
-            "MinPriceThreshold": 345,
+            "ClassName": "HM_Rasp",
+            "MaxPriceThreshold": 1260,
+            "MinPriceThreshold": 945,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "whetstone",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 420,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

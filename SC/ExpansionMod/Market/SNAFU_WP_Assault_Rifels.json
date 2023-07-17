@@ -22,19 +22,6 @@
             ]
         },
         {
-            "ClassName": "SNAFUAR15_SPR_Black_GUN",
-            "MaxPriceThreshold": 5750,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": [
-                "SNAFUAR15_SPR_Tan_GUN"
-            ]
-        },
-        {
             "ClassName": "SNAFU_ADAR_Modular16_GUN",
             "MaxPriceThreshold": 5750,
             "MinPriceThreshold": 4500,
@@ -60,17 +47,6 @@
         },
         {
             "ClassName": "SNAFU_AR15SPRTAN",
-            "MaxPriceThreshold": 5750,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "GCGN_M4A1",
             "MaxPriceThreshold": 5750,
             "MinPriceThreshold": 4500,
             "SellPricePercent": -1.0,
@@ -253,17 +229,6 @@
             ]
         },
         {
-            "ClassName": "M4_6933_Gun",
-            "MaxPriceThreshold": 5750,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "SCAR_Gun",
             "MaxPriceThreshold": 5750,
             "MinPriceThreshold": 4500,
@@ -401,17 +366,6 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "SR3_Vikhr_Gun",
-            "MaxPriceThreshold": 5750,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
