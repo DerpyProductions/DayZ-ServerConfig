@@ -47,11 +47,17 @@
             "chest": [
                 "CJ_LootChest_Brown_Large"
             ],
-            "lootrandomize": 0.0,
+            "lootrandomize": 0.5,
             "light": 0,
             "loot": [
+                "CP_CannabisSeedsPackBlue",
+                "CP_CannabisSeedsPackKush",
                 "CP_CannabisSeedsPackSkunk",
-				"CP_CannabisSeedsPackSkunk",
+                "CP_CannabisSeedsPackStardawg",
+                "CP_CannabisSeedsPackFuture",
+                "CP_CannabisSeedsPackS1",
+                "CP_CannabisSeedsPackNomad",
+                "CP_CannabisSeedsPackBlackFrost",
                 "CP_Workbench_Kit",
                 "CP_PlasticWrapper",
 				"CP_Bagger",
@@ -59,6 +65,8 @@
                 "CP_CannabisSeedsPackFuture",
 				"CP_Relief_Balm",
                 "CP_CigarettePack_CannabisBlackFrost",
+                "CigarettePack_Partyzanka",
+                "CigarettePack_Partyzanka",
                 "CigarettePack_Partyzanka"
             ]
         },

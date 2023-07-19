@@ -354,18 +354,6 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "ext_tac_radio",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [
-				"battery9v"
-				],
-            "Variants": []
         }
     ]
 }

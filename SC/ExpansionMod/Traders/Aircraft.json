@@ -17,5 +17,7 @@
         "EXT_Spraycans",
         "BC_Spraycans"
     ],
-    "Items": {}
+    "Items": {
+        "ext_tac_radio":1
+    }
 }

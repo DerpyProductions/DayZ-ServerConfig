@@ -1479,16 +1479,16 @@
 			<item name="HeadlightH7" chance="0.40" />
         </attachments>
 		<attachments chance="1.00">
-			<item name="ExpansionMerlinFrontWheel" chance="0.30" />
+			<item name="ExpansionMerlinFrontWheel" chance="1.00" />
         </attachments>
 		<attachments chance="1.00">
-			<item name="ExpansionMerlinFrontWheel" chance="0.30" />
+			<item name="ExpansionMerlinFrontWheel" chance="1.00" />
         </attachments>
 		<attachments chance="1.00">
-			<item name="ExpansionMerlinBackWheel" chance="0.30" />
+			<item name="ExpansionMerlinBackWheel" chance="1.00" />
         </attachments>
 		<attachments chance="1.00">
-			<item name="ExpansionMerlinBackWheel" chance="0.30" />
+			<item name="ExpansionMerlinBackWheel" chance="1.00" />
         </attachments>
 	</type>
 	<type name="ExpansionUh1h">
@@ -2972,7 +2972,7 @@
             <item name="EXT_MI24_door_2_2" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_1" chance="0.50" />
+            <item name="EXT_MI24_door_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_cargo_1" chance="0.50" />
@@ -2981,16 +2981,16 @@
             <item name="EXT_MI24_door_cargo_2" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3034,16 +3034,16 @@
             <item name="EXT_MI24_door_cargo_2_Chernarus" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3087,16 +3087,16 @@
             <item name="EXT_MI24_door_cargo_2_ION" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3140,16 +3140,16 @@
             <item name="EXT_MI24_door_cargo_2_Takistan" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3193,16 +3193,16 @@
             <item name="EXT_MI24_door_cargo_2_UN" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3246,16 +3246,16 @@
             <item name="EXT_MI24_door_cargo_2_ACR" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_1_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_1_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_1" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_wheel_2_2" chance="0.50" />
+            <item name="EXT_MI24_wheel_2_2" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3362,16 +3362,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3400,16 +3400,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3438,16 +3438,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3476,16 +3476,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_FrontWheel" chance="0.50" />
+            <item name="EXT_AW159_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_AW159_BackWheel" chance="0.50" />
+            <item name="EXT_AW159_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3598,16 +3598,16 @@
             <item name="EXT_KA52_door_2_1" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52FrontWheel" chance="0.50" />
+            <item name="EXT_KA52Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52FrontWheel" chance="0.50" />
+            <item name="EXT_KA52Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52BackWheel" chance="0.50" />
+            <item name="EXT_KA52Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52BackWheel" chance="0.50" />
+            <item name="EXT_KA52Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3642,16 +3642,16 @@
             <item name="EXT_KA52_door_2_1_Black" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52FrontWheel" chance="0.50" />
+            <item name="EXT_KA52Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52FrontWheel" chance="0.50" />
+            <item name="EXT_KA52Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52BackWheel" chance="0.50" />
+            <item name="EXT_KA52Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52BackWheel" chance="0.50" />
+            <item name="EXT_KA52Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3686,16 +3686,16 @@
             <item name="EXT_KA52_door_2_1_Woodland" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52FrontWheel" chance="0.50" />
+            <item name="EXT_KA52Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52FrontWheel" chance="0.50" />
+            <item name="EXT_KA52Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52BackWheel" chance="0.50" />
+            <item name="EXT_KA52Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA52BackWheel" chance="0.50" />
+            <item name="EXT_KA52Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -3724,16 +3724,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA60_FrontWheel" chance="0.50" />
+            <item name="EXT_KA60_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA60_FrontWheel" chance="0.50" />
+            <item name="EXT_KA60_Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA60_BackWheel" chance="0.50" />
+            <item name="EXT_KA60_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_KA60_BackWheel" chance="0.50" />
+            <item name="EXT_KA60_Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_KA60_Door" chance="0.50" />
@@ -3765,16 +3765,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door" chance="0.50" />
@@ -3794,16 +3794,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_ACR" chance="0.50" />
@@ -3823,16 +3823,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_Chedaki" chance="0.50" />
@@ -3852,16 +3852,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_Chernarus" chance="0.50" />
@@ -3881,16 +3881,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_Civilian" chance="0.50" />
@@ -3910,16 +3910,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_RAF" chance="0.50" />
@@ -3939,16 +3939,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_Takistan" chance="0.50" />
@@ -3968,16 +3968,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_Mi8Door_UnitedNations" chance="0.50" />
@@ -3997,16 +3997,16 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8FrontWheel" chance="0.50" />
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_Mi8BackWheel" chance="0.50" />
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="Wrench" chance="1.00" />
@@ -4169,7 +4169,7 @@
             <item name="HeadlightH7" chance="0.25" />
         </attachments>
         <attachments chance="1.00">
-            <item name="ext_merlinhc3_backwheel" chance="0.50" />
+            <item name="ext_merlinhc3_backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="ext_merlinhc3_cargo_door" chance="0.50" />
@@ -4181,13 +4181,13 @@
             <item name="ext_merlinhc3_door_2_1" chance="0.50" />
         </attachments>
 		<attachments chance="1.00">
-            <item name="ext_merlinhc3_frontwheel" chance="0.50" />
+            <item name="ext_merlinhc3_frontwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
-            <item name="ext_merlinhc3_frontwheel" chance="0.50" />
+            <item name="ext_merlinhc3_frontwheel" chance="1.00" />
         </attachments>
 		<attachments chance="1.00">
-            <item name="ext_merlinhc3_backwheel" chance="0.50" />
+            <item name="ext_merlinhc3_backwheel" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="ext_tac_radio" chance="0.75" />

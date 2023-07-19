@@ -96,11 +96,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-          "HM_Tag1_Crate",
-          "HM_Tag2_Crate",
-          "HM_Tag3_Crate"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "expansiontoolbox",

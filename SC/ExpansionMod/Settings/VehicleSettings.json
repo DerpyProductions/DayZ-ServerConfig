@@ -14,7 +14,7 @@
   "PickLockChancePercent": 40,
   "PickLockTimeSeconds": 120,
   "PickLockToolDamagePercent": 10,
-  "EnableWindAerodynamics": 0,
+  "EnableWindAerodynamics": 1,
   "EnableTailRotorDamage": 1,
   "Towing": 1,
   "EnableHelicopterExplosions": 1,
