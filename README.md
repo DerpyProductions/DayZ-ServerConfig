@@ -20,12 +20,14 @@ ToDo:
 - Heli spawn in the Woodsd (Ai Camp)
 
 
+
 Ideas:
 - Hunting quests: specific types (as a quest row; bring back pelts?)
 - Radio emergency frequency
 
 Bugs
 - ARFARF Base despawn
+- FlagPole: creation with Flag
 - Virtual Garage: blocked by world items (e.g. heli pad)
 - Closed Barrels in RUS Vehicles (Garage storage)
 - Sledgehammer quest

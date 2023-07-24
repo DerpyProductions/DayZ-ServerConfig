@@ -233,6 +233,27 @@
       ]
     },
     {
+      "CategoryName": "Fortifications",
+      "Results": [
+        "BF_DoorBarricadeKit",
+        "BF_WindowBarricadeKit",
+        "BF_WindowBarricadeMedKit",
+        "BF_SlottedPlank"
+      ]
+    },
+    {
+      "CategoryName": "MMG Storage",
+      "Results": [
+        "mmg_craftable_tent_kit",
+        "mmg_gun_rack_planks",
+        "mmg_old_table",
+        "mmg_wall_shelf_wood",
+        "mmg_gun_wall_kit_wooden",
+        "mmg_gun_wall_kit_metal",
+        "mmg_supply_crate_wood"
+      ]
+    },
+    {
       "CategoryName": "#STR_BLThings",
       "Results": [
         "bl_old_crate",
