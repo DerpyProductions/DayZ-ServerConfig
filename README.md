@@ -9,7 +9,6 @@ Test Server: 51.195.96.217
 
 ToDo:
 - P2P trader: test Vehicle spawn position
-- Book: HM MAchine infos
 - Ai Loadout: more randomised loot
 - Add Aircraft carrier back in
 - Test Wind Simulation
@@ -18,7 +17,6 @@ ToDo:
 - CJ Loot Chest: more randomised Loot
 - Add Boltensteins Race Track DZE
 - Heli spawn in the Woodsd (Ai Camp)
-
 
 
 Ideas:
