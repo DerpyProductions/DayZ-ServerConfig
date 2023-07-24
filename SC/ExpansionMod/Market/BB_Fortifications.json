@@ -41,8 +41,8 @@
     },
     {
       "ClassName": "BF_SlottedPlank",
-      "MaxPriceThreshold": 2750,
-      "MinPriceThreshold": 1350,
+      "MaxPriceThreshold": 2550,
+      "MinPriceThreshold": 1950,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
