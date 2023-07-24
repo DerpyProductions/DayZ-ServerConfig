@@ -9,14 +9,15 @@ Test Server: 51.195.96.217
 
 ToDo:
 - P2P trader: test Vehicle spawn position
-- Ai Loadout: more randomised loot
 - Add Aircraft carrier back in
 - Test Wind Simulation
 - Add Expansion Gate Kit??
+
+Additions:
+- Ai Loadout: more randomised loot
 - More airdrop types (with guards?)
 - CJ Loot Chest: more randomised Loot
 - Add Boltensteins Race Track DZE
-
 
 Ideas:
 - Hunting quests: specific types (as a quest row; bring back pelts?)
@@ -31,7 +32,7 @@ Bugs
 - Sledgehammer quest
 
 New Mods:
-- SNAFU Damage Mod (wait for Mod update)
+- SNAFU Damage Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3005415985 
 - Mining: https://steamcommunity.com/sharedfiles/filedetails/?id=2794626429&searchtext=
 
 
