@@ -18,6 +18,7 @@ Additions:
 - More airdrop types (with guards?)
 - CJ Loot Chest: more randomised Loot
 - Add Boltensteins Race Track DZE
+- Fishing Village to tisy
 
 Ideas:
 - Hunting quests: specific types (as a quest row; bring back pelts?)
