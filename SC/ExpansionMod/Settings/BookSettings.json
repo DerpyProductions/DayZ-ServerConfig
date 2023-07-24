@@ -240,7 +240,7 @@
       ]
     },
     {
-      "CategoryName": "^Building Fortifications",
+      "CategoryName": "Building Fortifications",
       "Results": [
         "BF_DoorBarricadeKit",
         "BF_WindowBarricadeKit",
