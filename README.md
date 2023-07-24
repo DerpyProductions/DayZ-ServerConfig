@@ -24,7 +24,7 @@ Ideas:
 - Radio emergency frequency
 
 Bugs
-- Ai Waypoints Kamensk (water!)
+- Ai Waypoints Kamensk (water?!)
 - ARFARF Base despawn
 - FlagPole: creation with Flag
 - Virtual Garage: blocked by world items (e.g. heli pad)
