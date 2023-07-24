@@ -16,7 +16,6 @@ ToDo:
 - More airdrop types (with guards?)
 - CJ Loot Chest: more randomised Loot
 - Add Boltensteins Race Track DZE
-- Heli spawn in the Woodsd (Ai Camp)
 
 
 Ideas:
@@ -24,6 +23,7 @@ Ideas:
 - Radio emergency frequency
 
 Bugs
+- Ai Waypoints Kamensk (water!)
 - ARFARF Base despawn
 - FlagPole: creation with Flag
 - Virtual Garage: blocked by world items (e.g. heli pad)
@@ -31,14 +31,8 @@ Bugs
 - Sledgehammer quest
 
 New Mods:
-- Kamensk mine DZW install
 - SNAFU Damage Mod (wait for Mod update)
-- Fortifications mod
-
-
-
-Info
-Tutoria
+- Mining: https://steamcommunity.com/sharedfiles/filedetails/?id=2794626429&searchtext=
 
 
 

@@ -1,6 +1,269 @@
 {
     "Triggers":
 	[
-		
+		{ 	
+			"Position": [ 7039.88, 352.306, 14563.7],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 15, 5.6, 10.8 ],
+			"EyeAccommodation": 1,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{ 	
+			"Position": [ 7039.1, 351.752, 14581.1 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 15, 5.6, 10.8 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":
+			[
+				{			
+					"Position": [ 7038.03, 351.752, 14574.5 ],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 7039.83, 351.752, 14574.7 ],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 7040.92, 351.752, 14576.2 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 7037.98, 351.752, 14580.8 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{			
+					"Position": [ 7037.95, 351.752, 14581.4 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7043.53 , 351.752, 14576.4 ],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7043.27 , 351.752, 14579.6 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7042.28, 351.752, 14585.2 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7037.62, 351.84, 14584.8 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 1,
+					"Radius": -1
+				}
+			]
+		},
+		{ 	
+			"Position": [ 7037.1, 352.229, 14591.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 11, 30, 11 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7037.38, 361.747, 14586.5 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 26, 7, 26 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7049.91, 361.713, 14597.7 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 26, 7, 26 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7044.38, 361.702, 14616.8 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 30, 7, 30 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7032.89, 361.689, 14606.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 26, 10, 26 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7021.41, 361.658, 14616.4 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 26, 14, 26 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7032.55, 354.147, 14616.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 26, 15, 26 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 7048.16, 361.767, 14644.4 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 19, 12, 19 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7042.83, 361.767, 14648.7 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 19, 12, 19 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7030.64, 361.758, 14647.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 14, 12, 14 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},		
+		{ 	
+			"Position": [ 7040.02, 361.669, 14631.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 18, 8, 18 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7030.51, 361.80, 14630.9 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 8, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7019.39, 362.12, 14639.2 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 10, 6, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7050.92, 361.9, 14637.4 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 10, 8, 10 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7035.57, 354.218, 14632.4 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 20, 8, 20 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 7044.72, 354.329, 14633.3 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 17, 5, 17 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": []
+		},	
+		{
+			"Position": [ 7014.95, 369.407, 14637 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 8.7, 12, 7.8 ],
+			"EyeAccommodation": 0,
+			"Breadcrumbs":
+			[
+				{			
+					"Position": [ 7019.96, 371.2, 14642.8 ],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7013.98, 371.852, 14643.8 ],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7014.24, 371.852, 14641.6 ],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7019.63, 371.852, 14642 ],
+					"EyeAccommodation": 0.34,
+					"UseRaycast": 1,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7019.78, 371.852, 14637.4 ],
+					"EyeAccommodation": 0.45,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7014.85, 369.407, 14637.4 ],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7014.59, 369.407, 14639.3 ],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7019.19, 366.83, 14640 ],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7019.3 , 366.83, 14637.5 ],
+					"EyeAccommodation": 0.075,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7014.65, 364.386, 14637.4 ],
+					"EyeAccommodation": 0.055,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7014.44, 364.386, 14638.9 ],
+					"EyeAccommodation": 0.025,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [ 7016.53, 363.616, 14640.7 ],
+					"EyeAccommodation": 0.0,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		}
 	]
 }

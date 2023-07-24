@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
+	<!-- PunchedCard Zombies -->
+	<type name="ZmbM_usSoldier_Officer_Convoy">
+		<attachments chance="1.00">
+			<item name="MedicalScrubsHat_Green" chance="1.0" />
+		</attachments>
+		<cargo preset="foodArmy" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.4" />
+		</cargo>
+	</type>
 	<!-- Vanilla Tweaks -->
 	<type name="MP5K">
 		<attachments chance="0.05">

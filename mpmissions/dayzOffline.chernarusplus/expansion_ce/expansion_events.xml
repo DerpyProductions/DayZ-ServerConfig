@@ -110,7 +110,7 @@
         </children>
     </event>
     <event name="VehicleTractor">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <min>1</min>
         <max>5</max>
         <lifetime>300</lifetime>
@@ -123,9 +123,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionTractor"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionTractor_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionTractor_Green"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionTractor"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="ExpansionTractor_Blue"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="ExpansionTractor_Green"/>
         </children>
     </event>
     <event name="VehicleLandRover">

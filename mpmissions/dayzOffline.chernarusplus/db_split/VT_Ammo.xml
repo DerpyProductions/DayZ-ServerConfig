@@ -1152,6 +1152,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Unique"/>
+        <usage name="Underground"/>
     </type>
     <type name="Ammo_40mm_Smoke_Black">
         <nominal>10</nominal>

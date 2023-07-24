@@ -64,6 +64,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     </ce>
 	<ce folder="db_custom">
 	<!-- Mod Types -->
+		<file name="KM_PunchedCard.xml" type="types" />
 		<file name="BL_BoomLayThings_types.xml" type="types" />
 		<file name="BF_Fortifications.xml" type="types" />
 		<file name="CJ_LootChest-CJ187_types.xml" type="types" />

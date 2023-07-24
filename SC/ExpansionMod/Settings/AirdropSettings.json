@@ -2088,7 +2088,8 @@
                 "ZmbM_ConstrWorkerNormal_Black",
                 "ZmbM_ConstrWorkerNormal_Green",
                 "ZmbM_ConstrWorkerNormal_Grey",
-                "ZmbM_HeavyIndustryWorker"
+                "ZmbM_HeavyIndustryWorker",
+                "ZmbM_usSoldier_Officer_Convoy"
             ],
             "ItemCount": 25,
             "InfectedCount": 30,
@@ -3182,7 +3183,13 @@
                 "ZmbM_PatrolNormal_PautRev",
                 "ZmbM_PatrolNormal_Autumn",
                 "ZmbM_PatrolNormal_Flat",
-                "ZmbM_PatrolNormal_Summer"
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_usSoldier_Officer_Desert",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_NBC_Grey",
+                "ZmbM_usSoldier_Officer_Convoy"
             ],
             "ItemCount": 20,
             "InfectedCount": 50,
