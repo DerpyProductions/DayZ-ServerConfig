@@ -46,6 +46,10 @@
           "RuleText": "Use the virtual Garage for your Vehicles. Garages are located at every Gas Station."
         },
         {
+          "RuleParagraph": "3.3.",
+          "RuleText": "Please don't rush through or over a PVP Zone with AI spawn locations (particularly Tisy, NWAF and Bandit Camp Skalka) in a Vehicle. This triggers the AI spawn unnecessarily and severely degrades server performance!"
+        },
+        {
           "RuleParagraph": "4.1.",
           "RuleText": "Have Fun!"
         },
@@ -185,6 +189,9 @@
       "Descriptions": [
         {
           "DescriptionText": "Have a look at your Controls. You will find a lot of Expansion specific settings."
+        },
+        {
+          "DescriptionText": "To test out the Machines included in the Hunters Mod go to the Green Mountain Trading Zone and bring a Car/Truck Battery (and Detergent) with you."
         }
       ]
     },
@@ -233,7 +240,7 @@
       ]
     },
     {
-      "CategoryName": "Fortifications",
+      "CategoryName": "^Building Fortifications",
       "Results": [
         "BF_DoorBarricadeKit",
         "BF_WindowBarricadeKit",
