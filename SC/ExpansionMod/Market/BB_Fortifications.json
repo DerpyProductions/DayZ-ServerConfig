@@ -1,0 +1,54 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Fortifications",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 3,
+  "Items": [
+    {
+      "ClassName": "BF_DoorBarricadeKit",
+      "MaxPriceThreshold": 11540,
+      "MinPriceThreshold": 9350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BF_WindowBarricadeKit",
+      "MaxPriceThreshold": 4540,
+      "MinPriceThreshold": 3350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BF_WindowBarricadeMedKit",
+      "MaxPriceThreshold": 3750,
+      "MinPriceThreshold": 3350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BF_SlottedPlank",
+      "MaxPriceThreshold": 1750,
+      "MinPriceThreshold": 1350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
