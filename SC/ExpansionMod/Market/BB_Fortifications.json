@@ -4,12 +4,12 @@
   "Icon": "Deliver",
   "Color": "FBFCFEFF",
   "IsExchange": 0,
-  "InitStockPercent": 3,
+  "InitStockPercent": 15,
   "Items": [
     {
       "ClassName": "BF_DoorBarricadeKit",
-      "MaxPriceThreshold": 11540,
-      "MinPriceThreshold": 9350,
+      "MaxPriceThreshold": 1540,
+      "MinPriceThreshold": 550,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
     },
     {
       "ClassName": "BF_WindowBarricadeKit",
-      "MaxPriceThreshold": 4540,
-      "MinPriceThreshold": 3350,
+      "MaxPriceThreshold": 1240,
+      "MinPriceThreshold": 350,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
     },
     {
       "ClassName": "BF_WindowBarricadeMedKit",
-      "MaxPriceThreshold": 3750,
-      "MinPriceThreshold": 3350,
+      "MaxPriceThreshold": 2750,
+      "MinPriceThreshold": 2050,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
       "MinStockThreshold": 1,
@@ -41,7 +41,7 @@
     },
     {
       "ClassName": "BF_SlottedPlank",
-      "MaxPriceThreshold": 1750,
+      "MaxPriceThreshold": 2750,
       "MinPriceThreshold": 1350,
       "SellPricePercent": -1,
       "MaxStockThreshold": 100,
