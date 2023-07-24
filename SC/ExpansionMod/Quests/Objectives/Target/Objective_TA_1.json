@@ -2,7 +2,7 @@
     "ConfigVersion": 18,
     "ID": 1,
     "ObjectiveType": 2,
-    "ObjectiveText": "Kill 10 Infected with a sledgehammer",
+    "ObjectiveText": "Kill 1 Infected with a sledgehammer",
     "TimeLimit": -1,
     "Position": [
         2596.699951171875,
@@ -11,7 +11,7 @@
     ],
     "MaxDistance": 150.0,
     "Target": {
-        "Amount": 10,
+        "Amount": 1,
         "ClassNames": [
             "ZmbM_CitizenASkinny_Base",
             "ZmbM_CitizenASkinny_LT_Base",

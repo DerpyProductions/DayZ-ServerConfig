@@ -23,7 +23,8 @@
     "WPA_Bayonets:3",
     "WPA_Optics:3",
     "WPA_Buttstocks:3",
-    "WPA_Handguards:3"
+    "WPA_Handguards:3",
+    "Electronics_Batteries:3"
   ],
   "Items": {
     "expansionammorpg": 3,

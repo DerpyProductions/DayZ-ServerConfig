@@ -18,7 +18,8 @@
     "SNAFU_WPA_Muzzel:1",
     "SNAFU_WPA_Scopes:1",
     "SNAFU_WPA_Stocks:1",
-    "SNAFU_WPA_Suppressors:1"
+    "SNAFU_WPA_Suppressors:1",
+    "Electronics_Batteries:3"
   ],
   "Items": {}
 }

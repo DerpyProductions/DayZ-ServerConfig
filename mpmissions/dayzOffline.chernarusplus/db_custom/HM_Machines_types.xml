@@ -73,7 +73,7 @@
 	//3D PRINTER//
 	<type name="HM_Resin">
 		<nominal>25</nominal>
-		<lifetime>3888000</lifetime>
+		<lifetime>14400</lifetime>
 		<restock>240</restock>
 		<min>15</min>
 		<quantmin>-1</quantmin>
@@ -106,10 +106,10 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_Printer_Kit">
-		<nominal>2</nominal>
+		<nominal>5</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
-		<min>1</min>
+		<min>2</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -120,7 +120,7 @@
 	//LAUNDRY MACHINE//
 	<type name="HM_Detergent">
 		<nominal>15</nominal>
-		<lifetime>3888000</lifetime>
+		<lifetime>14400</lifetime>
 		<restock>240</restock>
 		<min>5</min>
 		<quantmin>-1</quantmin>
@@ -152,7 +152,7 @@
 		<category name="containers" />
 	</type>	
 	<type name="HM_WashMachine_Kit">
-		<nominal>2</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>240</restock>
 		<min>1</min>

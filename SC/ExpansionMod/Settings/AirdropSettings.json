@@ -1388,7 +1388,7 @@
                 {
                     "Name": "Fabric",
                     "Attachments": [],
-                    "Chance": 0.25,
+                    "Chance": 0.05,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -1397,7 +1397,7 @@
                 {
                     "Name": "Hammer",
                     "Attachments": [],
-                    "Chance": 0.4000000059604645,
+                    "Chance": 0.3000000059604645,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -1433,7 +1433,7 @@
                 {
                     "Name": "Crowbar",
                     "Attachments": [],
-                    "Chance": 0.30000001192092898,
+                    "Chance": 0.10000001192092898,
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Min": 0,
@@ -1502,6 +1502,24 @@
                     "Min": 0,
                     "Variants": []
                 },
+				{
+                    "Name": "ExpansionCircuitBoard_MK2",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "ExpansionCircuitBoard_MK3",
+                    "Attachments": [],
+                    "Chance": 0.070000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
                 {
                     "Name": "ExpansionHescoKit",
                     "Attachments": [],
@@ -1523,7 +1541,7 @@
                 {
                     "Name": "ExpansionCamoBoxKit",
                     "Attachments": [],
-                    "Chance": 0.18000000715255738,
+                    "Chance": 0.08000000715255738,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1550,7 +1568,7 @@
                 {
                   "Name": "expansionstove",
                   "Attachments": [],
-                  "Chance": 0.20000000298023225,
+                  "Chance": 0.10000000298023225,
                   "QuantityPercent": -1,
                   "Max": 1,
                   "Min": 0,
@@ -1595,7 +1613,7 @@
                 {
                     "Name": "ExpansionSafeMini",
                     "Attachments": [],
-                    "Chance": 0.20000000298023225,
+                    "Chance": 0.10000000298023225,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1604,7 +1622,7 @@
                 {
                     "Name": "ExpansionSafeMedium",
                     "Attachments": [],
-                    "Chance": 0.15000000596046449,
+                    "Chance": 0.05000000596046449,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1613,7 +1631,7 @@
                 {
                     "Name": "ExpansionSafeLarge",
                     "Attachments": [],
-                    "Chance": 0.10000000149011612,
+                    "Chance": 0.05000000149011612,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1622,7 +1640,7 @@
                 {
                     "Name": "ExpansionCamoTentKit",
                     "Attachments": [],
-                    "Chance": 0.15,
+                    "Chance": 0.05,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1667,7 +1685,7 @@
                 {
                     "Name": "bl_rain_collector_Kit",
                     "Attachments": [],
-                    "Chance": 0.20000000298023225,
+                    "Chance": 0.10000000298023225,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1676,7 +1694,7 @@
                 {
                     "Name": "bl_stove_prefab_Kit",
                     "Attachments": [],
-                    "Chance": 0.20000000298023225,
+                    "Chance": 0.10000000298023225,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1685,59 +1703,14 @@
                 {
                     "Name": "bl_special_item_Kit",
                     "Attachments": [],
-                    "Chance": 0.20000000298023225,
+                    "Chance": 0.10000000298023225,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
                     "Variants": []
                 },
                 {
-                    "Name": "bl_coffee_machine",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "bl_firewoodstorage",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "bl_logstorage",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "bl_solar_panel",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "bl_old_fridge",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "bl_greenhouse",
+                    "Name": "bl_coffee_machine_Kit",
                     "Attachments": [],
                     "Chance": 0.10000000298023225,
                     "QuantityPercent": -1,
@@ -1746,7 +1719,16 @@
                     "Variants": []
                 },
                 {
-                    "Name": "bl_pallet_box_4",
+                    "Name": "bl_firewoodstorage_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000298023225,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "bl_logstorage_Kit",
                     "Attachments": [],
                     "Chance": 0.20000000298023225,
                     "QuantityPercent": -1,
@@ -1755,7 +1737,43 @@
                     "Variants": []
                 },
                 {
-                    "Name": "bl_pallet_table_s",
+                    "Name": "bl_solar_panel_Kit",
+                    "Attachments": [],
+                    "Chance": 0.20000000298023225,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "bl_old_fridge_Kit",
+                    "Attachments": [],
+                    "Chance": 0.20000000298023225,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "bl_greenhouse_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000298023225,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "bl_pallet_box_4_Kit",
+                    "Attachments": [],
+                    "Chance": 0.20000000298023225,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "bl_pallet_table_s_Kit",
                     "Attachments": [],
                     "Chance": 0.20000000298023225,
                     "QuantityPercent": -1,
@@ -1774,15 +1792,6 @@
                 },
                 {
                     "Name": "mmg_grenade_case_green",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": 1,
-                    "Min": 0,
-                    "Variants": []
-                },
-                {
-                    "Name": "mmg_supply_crate_wood",
                     "Attachments": [],
                     "Chance": 0.20000000298023225,
                     "QuantityPercent": -1,
@@ -1844,10 +1853,10 @@
                     "Min": 0,
                     "Variants": []
                 },
-                {
-                    "Name": "mmg_palette_storage",
+				{
+                    "Name": "ExpansionParkingMeterKit",
                     "Attachments": [],
-                    "Chance": 0.20000000298023225,
+                    "Chance": 0.07000000298023225,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,
@@ -1875,6 +1884,96 @@
                     "Name": "rf_helipad_kit",
                     "Attachments": [],
                     "Chance": 0.05000000447034836,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_Barrel_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_Printer_Kit",
+                    "Attachments": [],
+                    "Chance": 0.050000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_WashMachine_Kit",
+                    "Attachments": [],
+                    "Chance": 0.050000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_AmmoCrate_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_MilitaryCrate_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_ToolBox_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_Trolley_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_AirDrop_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_Locker_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
+                    "QuantityPercent": -1,
+                    "Max": 1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "HM_Shelf_Kit",
+                    "Attachments": [],
+                    "Chance": 0.10000000149011612,
                     "QuantityPercent": -1,
                     "Max": 1,
                     "Min": 0,

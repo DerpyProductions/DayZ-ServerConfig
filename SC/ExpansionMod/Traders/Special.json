@@ -13,7 +13,11 @@
 		"SP_Launchers:2",
 		"BC_RepairKits:2",
 		"SP_Navigation",
-        "Electronics_NVG"
+        "Electronics_NVG",
+        "Electronics_Batteries:3"
     ],
-    "Items": {    }
+    "Items": { 
+        "handcuffkeys": 1,
+		"handcuffs": 1
+       }
 }

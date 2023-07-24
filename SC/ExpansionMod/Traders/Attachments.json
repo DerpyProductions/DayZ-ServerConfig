@@ -16,7 +16,8 @@
         "WPA_Bayonets",
         "WPA_Optics",
         "WPA_Buttstocks",
-        "WPA_Handguards"
+        "WPA_Handguards",
+        "Electronics_Batteries:3"
     ],
     "Items": {
         "universallight": 1,

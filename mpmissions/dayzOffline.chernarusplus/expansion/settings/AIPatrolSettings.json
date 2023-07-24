@@ -1,1257 +1,1941 @@
 {
-    "m_Version": 13,
+    "m_Version": 15,
     "Enabled": 1,
-    "DespawnTime": 600.0,
-    "RespawnTime": -1.0,
-    "MinDistRadius": 250.0,
-    "MaxDistRadius": 500.0,
-    "DespawnRadius": 1000.0,
-    "AccuracyMin": -1.0,
-    "AccuracyMax": -1.0,
-    "ThreatDistanceLimit": -1.0,
-    "DamageMultiplier": -1.0,
+    "DespawnTime": 600,
+    "RespawnTime": -1,
+    "MinDistRadius": 250,
+    "MaxDistRadius": 500,
+    "DespawnRadius": 1000,
+    "AccuracyMin": -1,
+    "AccuracyMax": -1,
+    "ThreatDistanceLimit": -1,
+    "DamageMultiplier": -1,
     "ObjectPatrols": [],
     "Patrols": [
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 1.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": -4,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 200.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 5.0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special Antenna Patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [622.495972, 501.799927, 13688.900391],
-                [626.196472, 501.680328, 13712.715820],
-                [606.633606, 501.687500, 13722.675781],
-                [585.236206, 501.673706, 13716.901367],
-                [556.334167, 501.945587, 13671.222656],
-                [575.970764, 501.913116, 13642.583008],
-                [594.499451, 501.799438, 13629.708984],
-                [617.816711, 501.893677, 13642.897461],
-                [621.380127, 501.897430, 13663.355469],
-                [634.264954, 501.690674, 13678.805664]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 50.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special Antenna inside 1",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [603.869995, 502.697052, 13677.900391]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 50.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special Antenna inside 2",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [595.593018, 501.897003, 13660.200195]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 50.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.5,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special Antenna inside 3",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [606.307007, 502.696014, 13660.900391]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 250.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 400,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special Watchtower north_east",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1734.44, 461.721, 14266.1]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 200.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 400,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special Watchtower south_east",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1849.540039, 446.443054, 14029.200195]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": -3,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 200.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special east Wall shet patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1903.953613, 425.201569, 14072.020508],
-                [1849.007813, 438.335144, 14144.375977],
-                [1810.552490, 448.843109, 14232.150391],
-                [1779.425415, 450.497681, 14254.927734],
-                [1754.181152, 451.679993, 14296.317383],
-                [1737.773682, 451.712891, 14299.658203],
-                [1761.339600, 451.680115, 14316.069336],
-                [1748.094727, 451.675629, 14351.521484],
-                [1735.302124, 450.604065, 14401.274414],
-                [1710.835938, 449.876007, 14426.753906],
-                [1692.427734, 449.762604, 14440.852539],
-                [1682.372803, 448.949951, 14493.589844],
-                [1700.591675, 445.720825, 14505.050781],
-                [1960.771851, 420.983673, 14040.577148]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 150.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.25,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special east Wall shet inside",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1805.690552, 447.970276, 14210.346680]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.2,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": -2,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 250.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 300,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.5,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special barrier south",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [2122.33, 411.69, 13772.5]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 100.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 400,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.25,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special transformer house inside",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1028.35, 471.166, 13913.8]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.5,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": -3,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 400.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 400,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special transformer patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1047.897705, 470.288544, 13890.671875],
-                [1029.810181, 470.713165, 13876.680664],
-                [1062.422485, 470.005219, 13900.465820],
-                [1094.216064, 469.450470, 13924.102539],
-                [1074.223145, 469.822144, 13909.938477],
-                [1060.631836, 470.270599, 13921.336914],
-                [1051.305176, 470.247375, 13903.197266],
-                [1037.696289, 470.529663, 13905.502930]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": 1,
-            "Behaviour": "HALT",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "JOG",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 200.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": 400,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.25,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Special transformer guardhouse",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1030.91, 470.897, 13870.0]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGSNAFULoadout_tan",
-            "NumberOfAI": -4,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.85,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Tisy Main Patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1684.990845, 451.830078, 14255.475586],
-                [1695.801270, 448.053619, 14221.755859],
-                [1697.548950, 449.370728, 14200.708984],
-                [1669.904175, 451.843109, 14191.031250],
-                [1684.794556, 451.829987, 14145.036133],
-                [1694.192383, 451.830017, 14117.592773],
-                [1711.471436, 451.829956, 14115.793945],
-                [1699.553345, 451.829956, 14105.282227],
-                [1702.713623, 451.829956, 14088.108398],
-                [1693.604736, 451.829956, 14085.157227],
-                [1662.077271, 451.829987, 14214.283203],
-                [1654.069946, 451.829956, 14248.063477],
-                [1675.873291, 451.829987, 14276.517578]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGERDLLoadout",
-            "NumberOfAI": -4,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "NAWF Center ATC Patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [4697.777832, 339.089508, 10475.118164],
-                [4689.179199, 339.094849, 10473.487305],
-                [4668.533691, 339.099548, 10474.807617],
-                [4654.003418, 339.099457, 10472.300781],
-                [4639.062012, 339.099609, 10466.895508],
-                [4646.456543, 339.094330, 10456.043945],
-                [4657.779785, 339.090942, 10456.238281],
-                [4662.931641, 339.094391, 10443.842773],
-                [4679.984375, 339.099548, 10431.249023],
-                [4688.418457, 339.098297, 10423.756836],
-                [4676.173828, 339.099609, 10410.503906],
-                [4661.021484, 339.099487, 10411.135742],
-                [4624.098145, 339.099518, 10396.783203],
-                [4602.770020, 339.100006, 10430.299805],
-                [4584.453125, 339.099396, 10468.183594],
-                [4674.155762, 339.097290, 10516.398438],
-                [4696.522461, 339.145813, 10519.217773]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGATACSLoadout",
-            "NumberOfAI": -3,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Kamensk Patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [8005.525879, 339.881287, 14657.874023],
-                [8002.564941, 339.909882, 14613.445313],
-                [7975.946289, 338.974640, 14607.753906],
-                [7943.142578, 337.903046, 14603.870117],
-                [7906.493164, 336.997589, 14597.930664]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGDarkWoodlandLoadout",
-            "NumberOfAI": -3,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.75,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "NWAF North Hill",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [4117.560059, 379.648010, 11706.299805],
-                [4079.270020, 379.540009, 11730.099609],
-                [4054.129883, 379.454071, 11766.425781],
-                [4027.739990, 376.084015, 11745.500000],
-                [4021.664551, 376.039490, 11736.261719],
-                [4029.329102, 376.040741, 11729.095703],
-                [4037.510010, 376.040009, 11702.799805],
-                [4057.370850, 376.022919, 11688.223633]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.4,
-            "LoadoutFile": "MMGSNAFULoadout",
-            "NumberOfAI": 4,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Bandits Skala house",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-				[5642.562988, 360.522278, 14534.000977],
-				[5653.100586, 360.780914, 14531.120117],
-				[5658.426270, 360.208984, 14526.330078],
-				[5663.557617, 359.297729, 14523.185547],
-				[5669.013672, 359.994080, 14525.429688],
-				[5671.931152, 361.240509, 14531.246094],
-				[5671.931152, 361.240509, 14531.246094],
-				[5679.231445, 362.047180, 14536.514648],
-				[5680.473633, 362.368958, 14549.529297],
-				[5677.896973, 364.776001, 14563.507813],
-				[5667.444824, 364.814545, 14565.449219],
-				[5652.602539, 363.925079, 14565.766602],
-				[5659.177246, 368.616669, 14580.627930],
-				[5673.226074, 367.388519, 14574.198242],
-				[5679.123047, 362.948273, 14553.987305],
-				[5693.277344, 362.226654, 14538.143555],
-				[5675.701660, 361.836578, 14535.470703],
-				[5662.086914, 361.306885, 14536.160156],
-				[5650.320313, 360.984222, 14535.830078]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.4,
-            "LoadoutFile": "MMGSNAFULoadout",
-            "NumberOfAI": 2,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Bandits Skala woods",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [5717.508789, 392.906647, 14646.190430],
-                [5805.734375, 405.858521, 14664.065430],
-                [5806.821289, 423.636475, 14701.534180],
-                [5726.856934, 415.589691, 14701.697266],
-                [5672.642578, 412.221039, 14702.583008],
-                [5603.783691, 402.066528, 14697.809570],
-                [5605.785645, 389.892548, 14660.059570],
-                [5668.029785, 400.137451, 14676.524414]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0,
-            "LoadoutFile": "BanditAK",
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.85,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Cannabis Boys Tower",
-            "UseRandomWaypointAsStartPoint": 0,
-            "Waypoints": [
-				[1068.449951, 16.972601, 2829.659912]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 1,
-            "LoadoutFile": "BanditAK",
-            "NumberOfAI": 2,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Cannabis Boys Patrol Back",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-				[1042.800049, 9.864221, 2880.229980],
-                [1054.878174, 11.882061, 2867.877930],
-                [1073.951050, 13.598166, 2868.265869],
-                [1080.581787, 14.747449, 2888.014648],
-                [1064.971802, 14.349912, 2911.258545],
-                [1052.440308, 13.508300, 2899.067383],
-                [1060.699707, 13.558166, 2883.209717]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.5,
-            "LoadoutFile": "BanditAK",
-            "NumberOfAI": 2,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Cannabis Boys Patrol Woods",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1121.127563, 14.180087, 2801.355957],
-                [1150.863647, 19.120331, 2853.016846],
-                [1104.066528, 17.424114, 2891.267334],
-                [1081.609619, 14.810863, 2872.401123],
-                [1109.902954, 17.116951, 2853.806152],
-                [1106.515747, 15.285277, 2824.957764]                
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.5,
-            "LoadoutFile": "BanditAK",
-            "NumberOfAI": -4,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "Cannabis Boys Patrol Center",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [1058.894043, 9.473178, 2819.358154],
-                [1077.109497, 12.866141, 2825.649414],
-                [1086.519653, 13.085517, 2839.298584],
-                [1074.931274, 13.215758, 2845.717041]
-            ]
-        },
-		{
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "MMGDarkWoodlandLoadout",
-            "NumberOfAI": -3,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 500.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": -2.0,
-            "MaxDistRadius": -2.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.25,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "NWAF South Patrol",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    4729.62451171875,
-                    339.1000061035156,
-                    9483.4375
-                ],
-                [
-                    4730.81005859375,
-                    339.1000061035156,
-                    9569.3701171875
-                ],
-                [
-                    4693.22705078125,
-                    339.1000061035156,
-                    9596.4365234375
-                ],
-                [
-                    4661.58984375,
-                    339.1000061035156,
-                    9638.58984375
-                ],
-                [
-                    4582.28857421875,
-                    339.1000061035156,
-                    9649.3603515625
-                ],
-                [
-                    4582.2919921875,
-                    339.1000061035156,
-                    9531.259765625
-                ],
-                [
-                    4624.123046875,
-                    339.1000061035156,
-                    9522.9638671875
-                ],
-                [
-                    4644.73583984375,
-                    339.1000061035156,
-                    9534.3408203125
-                ],
-                [
-                    4646.05810546875,
-                    339.1000061035156,
-                    9577.314453125
-                ],
-                [
-                    4611.21923828125,
-                    339.1000061035156,
-                    9612.08203125
-                ]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "WestLoadout",
-            "NumberOfAI": -2,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 250.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": 300.0,
-            "MaxDistRadius": 750.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    5198.64990234375,
-                    337.10162353515627,
-                    9864.8896484375
-                ],
-                [
-                    5191.54248046875,
-                    337.156494140625,
-                    9895.884765625
-                ],
-                [
-                    5225.36962890625,
-                    337.1371765136719,
-                    9892.7255859375
-                ],
-                [
-                    5254.43994140625,
-                    335.9876708984375,
-                    9887.6787109375
-                ],
-                [
-                    5255.09619140625,
-                    337.05523681640627,
-                    9862.388671875
-                ],
-                [
-                    5294.62841796875,
-                    336.87371826171877,
-                    9857.08984375
-                ],
-                [
-                    5294.17529296875,
-                    336.9079895019531,
-                    9829.3310546875
-                ],
-                [
-                    5281.7841796875,
-                    336.9693603515625,
-                    9825.3505859375
-                ],
-                [
-                    5281.5087890625,
-                    336.9088439941406,
-                    9778.7509765625
-                ],
-                [
-                    5248.53662109375,
-                    336.9034729003906,
-                    9783.7236328125
-                ],
-                [
-                    5248.26025390625,
-                    337.01409912109377,
-                    9816.8515625
-                ],
-                [
-                    5228.5107421875,
-                    336.93841552734377,
-                    9812.119140625
-                ],
-                [
-                    5229.3701171875,
-                    336.91900634765627,
-                    9789.7001953125
-                ],
-                [
-                    5220.59375,
-                    336.8597412109375,
-                    9772.7421875
-                ],
-                [
-                    5188.31982421875,
-                    337.40087890625,
-                    9770.4873046875
-                ],
-                [
-                    5203.548828125,
-                    336.93426513671877,
-                    9799.3154296875
-                ],
-                [
-                    5205.2353515625,
-                    336.9388427734375,
-                    9817.7626953125
-                ],
-                [
-                    5196.90771484375,
-                    336.9560852050781,
-                    9823.2177734375
-                ]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "GorkaLoadout",
-            "NumberOfAI": 1,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 250.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": 300.0,
-            "MaxDistRadius": 750.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.25,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    5217.27490234375,
-                    349.3705139160156,
-                    9826.14453125
-                ],
-                [
-                    5209.83984375,
-                    349.3590087890625,
-                    9828.8203125
-                ],
-                [
-                    5209.6669921875,
-                    349.4800109863281,
-                    9847.0908203125
-                ],
-                [
-                    5233.56591796875,
-                    349.5115966796875,
-                    9846.81640625
-                ],
-                [
-                    5228.4619140625,
-                    349.43743896484377,
-                    9832.369140625
-                ]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "GorkaLoadout",
-            "NumberOfAI": 1,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 450.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": 300.0,
-            "MaxDistRadius": 750.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 0.25,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "",
-            "UseRandomWaypointAsStartPoint": 0,
-            "Waypoints": [
-                [
-                    5263.09765625,
-                    361.0609130859375,
-                    9823.5205078125
-                ],
-                [
-                    5259.9697265625,
-                    361.1409912109375,
-                    9823.486328125
-                ],
-                [
-                    5259.830078125,
-                    361.010986328125,
-                    9826.400390625
-                ],
-                [
-                    5262.91015625,
-                    361.0539855957031,
-                    9826.4404296875
-                ]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "RANDOM",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "GorkaLoadout",
-            "NumberOfAI": 1,
-            "Behaviour": "ALTERNATE",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 250.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": 300.0,
-            "MaxDistRadius": 750.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "",
-            "UseRandomWaypointAsStartPoint": 0,
-            "Waypoints": [
-                [
-                    5263.24072265625,
-                    340.62078857421877,
-                    9806.9091796875
-                ],
-                [
-                    5261.7177734375,
-                    340.62078857421877,
-                    9800.9921875
-                ],
-                [
-                    5264.15966796875,
-                    340.6208190917969,
-                    9803.0869140625
-                ],
-                [
-                    5266.6337890625,
-                    340.62078857421877,
-                    9802.87890625
-                ],
-                [
-                    5267.3603515625,
-                    340.6208190917969,
-                    9800.9306640625
-                ]
-            ]
-        },
-        {
-            "Faction": "Mercenaries",
-            "Formation": "File",
-            "FormationLooseness": 0.0,
-            "LoadoutFile": "TTSKOLoadout",
-            "NumberOfAI": -2,
-            "Behaviour": "LOOP",
-            "Speed": "WALK",
-            "UnderThreatSpeed": "WALK",
-            "CanBeLooted": 1,
-            "UnlimitedReload": 1,
-            "AccuracyMin": -1.0,
-            "AccuracyMax": -1.0,
-            "ThreatDistanceLimit": 250.0,
-            "DamageMultiplier": -1.0,
-            "MinDistRadius": 300.0,
-            "MaxDistRadius": 750.0,
-            "DespawnRadius": -2.200000047683716,
-            "MinSpreadRadius": 0.0,
-            "MaxSpreadRadius": 0.0,
-            "Chance": 1.0,
-            "WaypointInterpolation": "",
-            "DespawnTime": -1.0,
-            "RespawnTime": -2.0,
-            "Name": "",
-            "UseRandomWaypointAsStartPoint": 1,
-            "Waypoints": [
-                [
-                    5266.5087890625,
-                    337.0663757324219,
-                    9801.361328125
-                ],
-                [
-                    5268.50244140625,
-                    337.0131530761719,
-                    9789.3388671875
-                ],
-                [
-                    5248.50634765625,
-                    337.0199279785156,
-                    9790.1123046875
-                ],
-                [
-                    5236.2451171875,
-                    337.0122375488281,
-                    9789.1748046875
-                ],
-                [
-                    5224.490234375,
-                    337.0211181640625,
-                    9791.32421875
-                ],
-                [
-                    5225.8505859375,
-                    337.03997802734377,
-                    9813.6376953125
-                ],
-                [
-                    5234.013671875,
-                    337.0402526855469,
-                    9811.072265625
-                ],
-                [
-                    5245.66357421875,
-                    337.1097106933594,
-                    9815.9560546875
-                ],
-                [
-                    5251.59619140625,
-                    337.0823059082031,
-                    9811.8408203125
-                ],
-                [
-                    5258.330078125,
-                    337.0780029296875,
-                    9811.240234375
-                ],
-                [
-                    5264.4228515625,
-                    337.0787658691406,
-                    9811.802734375
-                ],
-                [
-                    5268.62451171875,
-                    337.0953063964844,
-                    9819.357421875
-                ],
-                [
-                    5270.30224609375,
-                    337.1288757324219,
-                    9834.7080078125
-                ],
-                [
-                    5281.23193359375,
-                    337.07269287109377,
-                    9833.123046875
-                ],
-                [
-                    5281.4189453125,
-                    337.05181884765627,
-                    9815.4697265625
-                ],
-                [
-                    5271.38525390625,
-                    337.0697937011719,
-                    9812.56640625
-                ],
-                [
-                    5267.61083984375,
-                    337.06719970703127,
-                    9810.1728515625
-                ],
-                [
-                    5266.86767578125,
-                    337.0432434082031,
-                    9804.9814453125
-                ]
-            ]
-        }
+      {
+        "Name": "NWAF Hangar inside 1",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Erdl",
+        "NumberOfAI": -2,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 300,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4665.02978515625,
+            339.1000061035156,
+            10379.900390625
+          ]
+        ]
+      },
+      {
+        "Name": "NWAF Hangar inside 2",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Erdl",
+        "NumberOfAI": -2,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 300,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.5,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4673.88671875,
+            339.1000061035156,
+            10370.7822265625
+          ]
+        ]
+      },
+      {
+        "Name": "NWAF Hangar inside 3",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Erdl",
+        "NumberOfAI": -3,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "SPRINT",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 300,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4677.673828125,
+            339.1000061035156,
+            10361.705078125
+          ]
+        ]
+      },
+      {
+        "Name": "NWAF Hangar inside 4",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Erdl",
+        "NumberOfAI": -2,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 300,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.5,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4643.4765625,
+            339.1000061035156,
+            10338.01171875
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special Antenna Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 1,
+        "LoadoutFile": "MMG_SNAFU_Tan",
+        "NumberOfAI": -4,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 200,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 5,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            622.4959716796875,
+            501.7999267578125,
+            13688.900390625
+          ],
+          [
+            626.1964721679688,
+            501.6803283691406,
+            13712.7158203125
+          ],
+          [
+            606.6336059570312,
+            501.6875,
+            13722.67578125
+          ],
+          [
+            585.2362060546875,
+            501.6737060546875,
+            13716.9013671875
+          ],
+          [
+            556.3341674804688,
+            501.9455871582031,
+            13671.22265625
+          ],
+          [
+            575.9707641601562,
+            501.9131164550781,
+            13642.5830078125
+          ],
+          [
+            594.4994506835938,
+            501.7994384765625,
+            13629.708984375
+          ],
+          [
+            617.8167114257812,
+            501.8936767578125,
+            13642.8974609375
+          ],
+          [
+            621.380126953125,
+            501.8974304199219,
+            13663.35546875
+          ],
+          [
+            634.2649536132812,
+            501.690673828125,
+            13678.8056640625
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special Antenna inside 1",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Tan",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 50,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            603.8699951171875,
+            502.6970520019531,
+            13677.900390625
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special Antenna inside 2",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Tan",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 50,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            595.593017578125,
+            501.8970031738281,
+            13660.2001953125
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special Antenna inside 3",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Tan",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 50,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.5,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            606.3070068359375,
+            502.6960144042969,
+            13660.900390625
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special Watchtower north_east",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 250,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 400,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1734.43994140625,
+            461.72100830078125,
+            14266.099609375
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special Watchtower south_east",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 200,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 400,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1849.5400390625,
+            446.44305419921875,
+            14029.2001953125
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special east Wall shet patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": -3,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 200,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1903.95361328125,
+            425.2015686035156,
+            14072.0205078125
+          ],
+          [
+            1849.0078125,
+            438.33514404296875,
+            14144.3759765625
+          ],
+          [
+            1810.552490234375,
+            448.8431091308594,
+            14232.150390625
+          ],
+          [
+            1779.4254150390625,
+            450.4976806640625,
+            14254.927734375
+          ],
+          [
+            1754.18115234375,
+            451.67999267578125,
+            14296.3173828125
+          ],
+          [
+            1737.773681640625,
+            451.712890625,
+            14299.658203125
+          ],
+          [
+            1761.339599609375,
+            451.68011474609375,
+            14316.0693359375
+          ],
+          [
+            1748.0947265625,
+            451.6756286621094,
+            14351.521484375
+          ],
+          [
+            1735.3021240234375,
+            450.60406494140625,
+            14401.2744140625
+          ],
+          [
+            1710.8359375,
+            449.8760070800781,
+            14426.75390625
+          ],
+          [
+            1692.427734375,
+            449.7626037597656,
+            14440.8525390625
+          ],
+          [
+            1682.372802734375,
+            448.949951171875,
+            14493.58984375
+          ],
+          [
+            1700.5916748046875,
+            445.7208251953125,
+            14505.05078125
+          ],
+          [
+            1960.7718505859375,
+            420.9836730957031,
+            14040.5771484375
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special east Wall shet inside",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 150,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.25,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1805.6905517578125,
+            447.97027587890625,
+            14210.3466796875
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special barrier south",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0.20000000298023224,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": -2,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 250,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 300,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.5,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            2122.330078125,
+            411.69000244140625,
+            13772.5
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special transformer house inside",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 100,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 400,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.25,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1028.3499755859375,
+            471.1659851074219,
+            13913.7998046875
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special transformer patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0.5,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": -3,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 400,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 400,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1047.897705078125,
+            470.2885437011719,
+            13890.671875
+          ],
+          [
+            1029.8101806640625,
+            470.7131652832031,
+            13876.6806640625
+          ],
+          [
+            1062.4224853515625,
+            470.0052185058594,
+            13900.4658203125
+          ],
+          [
+            1094.216064453125,
+            469.4504699707031,
+            13924.1025390625
+          ],
+          [
+            1074.22314453125,
+            469.8221435546875,
+            13909.9384765625
+          ],
+          [
+            1060.6318359375,
+            470.2705993652344,
+            13921.3369140625
+          ],
+          [
+            1051.30517578125,
+            470.24737548828125,
+            13903.197265625
+          ],
+          [
+            1037.6962890625,
+            470.5296630859375,
+            13905.5029296875
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Special transformer guardhouse",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": 1,
+        "Behaviour": "HALT",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "JOG",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 200,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": 400,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.25,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1030.9100341796875,
+            470.8970031738281,
+            13870
+          ]
+        ]
+      },
+      {
+        "Name": "Tisy Main Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Green",
+        "NumberOfAI": -4,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.8500000238418579,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1684.9908447265625,
+            451.830078125,
+            14255.4755859375
+          ],
+          [
+            1695.80126953125,
+            448.0536193847656,
+            14221.755859375
+          ],
+          [
+            1697.5489501953125,
+            449.3707275390625,
+            14200.708984375
+          ],
+          [
+            1669.9041748046875,
+            451.8431091308594,
+            14191.03125
+          ],
+          [
+            1684.7945556640625,
+            451.8299865722656,
+            14145.0361328125
+          ],
+          [
+            1694.1923828125,
+            451.83001708984375,
+            14117.5927734375
+          ],
+          [
+            1711.471435546875,
+            451.8299560546875,
+            14115.7939453125
+          ],
+          [
+            1699.5533447265625,
+            451.8299560546875,
+            14105.2822265625
+          ],
+          [
+            1702.713623046875,
+            451.8299560546875,
+            14088.1083984375
+          ],
+          [
+            1693.604736328125,
+            451.8299560546875,
+            14085.1572265625
+          ],
+          [
+            1662.0772705078125,
+            451.8299865722656,
+            14214.283203125
+          ],
+          [
+            1654.0699462890625,
+            451.8299560546875,
+            14248.0634765625
+          ],
+          [
+            1675.873291015625,
+            451.8299865722656,
+            14276.517578125
+          ]
+        ]
+      },
+      {
+        "Name": "NAWF Center ATC Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Erdl",
+        "NumberOfAI": -4,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4697.77783203125,
+            339.0895080566406,
+            10475.1181640625
+          ],
+          [
+            4689.17919921875,
+            339.0948486328125,
+            10473.4873046875
+          ],
+          [
+            4668.53369140625,
+            339.09954833984375,
+            10474.8076171875
+          ],
+          [
+            4654.00341796875,
+            339.0994567871094,
+            10472.30078125
+          ],
+          [
+            4639.06201171875,
+            339.099609375,
+            10466.8955078125
+          ],
+          [
+            4646.45654296875,
+            339.0943298339844,
+            10456.0439453125
+          ],
+          [
+            4657.77978515625,
+            339.0909423828125,
+            10456.23828125
+          ],
+          [
+            4662.931640625,
+            339.0943908691406,
+            10443.8427734375
+          ],
+          [
+            4679.984375,
+            339.09954833984375,
+            10431.2490234375
+          ],
+          [
+            4688.41845703125,
+            339.0982971191406,
+            10423.7568359375
+          ],
+          [
+            4676.173828125,
+            339.099609375,
+            10410.50390625
+          ],
+          [
+            4661.021484375,
+            339.0994873046875,
+            10411.1357421875
+          ],
+          [
+            4624.09814453125,
+            339.0995178222656,
+            10396.783203125
+          ],
+          [
+            4602.77001953125,
+            339.1000061035156,
+            10430.2998046875
+          ],
+          [
+            4584.453125,
+            339.0993957519531,
+            10468.18359375
+          ],
+          [
+            4674.15576171875,
+            339.0972900390625,
+            10516.3984375
+          ],
+          [
+            4696.5224609375,
+            339.14581298828125,
+            10519.2177734375
+          ]
+        ]
+      },
+      {
+        "Name": "Kamensk Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_Tan",
+        "NumberOfAI": -3,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            8005.52587890625,
+            339.88128662109375,
+            14657.8740234375
+          ],
+          [
+            8002.56494140625,
+            339.9098815917969,
+            14613.4453125
+          ],
+          [
+            7975.9462890625,
+            338.9746398925781,
+            14607.75390625
+          ],
+          [
+            7943.142578125,
+            337.9030456542969,
+            14603.8701171875
+          ],
+          [
+            7906.4931640625,
+            336.9975891113281,
+            14597.9306640625
+          ]
+        ]
+      },
+      {
+        "Name": "NWAF North Hill",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": -3,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.75,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4117.56005859375,
+            379.64801025390625,
+            11706.2998046875
+          ],
+          [
+            4079.27001953125,
+            379.5400085449219,
+            11730.099609375
+          ],
+          [
+            4054.1298828125,
+            379.4540710449219,
+            11766.42578125
+          ],
+          [
+            4027.739990234375,
+            376.0840148925781,
+            11745.5
+          ],
+          [
+            4021.66455078125,
+            376.03948974609375,
+            11736.26171875
+          ],
+          [
+            4029.3291015625,
+            376.0407409667969,
+            11729.095703125
+          ],
+          [
+            4037.510009765625,
+            376.0400085449219,
+            11702.7998046875
+          ],
+          [
+            4057.370849609375,
+            376.0229187011719,
+            11688.2236328125
+          ]
+        ]
+      },
+      {
+        "Name": "Bandits Skala house",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.4000000059604645,
+        "LoadoutFile": "MMG_SNAFU_Black",
+        "NumberOfAI": 4,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            5642.56298828125,
+            360.52227783203125,
+            14534.0009765625
+          ],
+          [
+            5653.1005859375,
+            360.7809143066406,
+            14531.1201171875
+          ],
+          [
+            5658.42626953125,
+            360.208984375,
+            14526.330078125
+          ],
+          [
+            5663.5576171875,
+            359.2977294921875,
+            14523.185546875
+          ],
+          [
+            5669.013671875,
+            359.99407958984375,
+            14525.4296875
+          ],
+          [
+            5671.93115234375,
+            361.2405090332031,
+            14531.24609375
+          ],
+          [
+            5671.93115234375,
+            361.2405090332031,
+            14531.24609375
+          ],
+          [
+            5679.2314453125,
+            362.04718017578125,
+            14536.5146484375
+          ],
+          [
+            5680.4736328125,
+            362.36895751953125,
+            14549.529296875
+          ],
+          [
+            5677.89697265625,
+            364.7760009765625,
+            14563.5078125
+          ],
+          [
+            5667.44482421875,
+            364.8145446777344,
+            14565.44921875
+          ],
+          [
+            5652.6025390625,
+            363.9250793457031,
+            14565.7666015625
+          ],
+          [
+            5659.17724609375,
+            368.6166687011719,
+            14580.6279296875
+          ],
+          [
+            5673.22607421875,
+            367.3885192871094,
+            14574.1982421875
+          ],
+          [
+            5679.123046875,
+            362.9482727050781,
+            14553.9873046875
+          ],
+          [
+            5693.27734375,
+            362.2266540527344,
+            14538.1435546875
+          ],
+          [
+            5675.70166015625,
+            361.8365783691406,
+            14535.470703125
+          ],
+          [
+            5662.0869140625,
+            361.306884765625,
+            14536.16015625
+          ],
+          [
+            5650.3203125,
+            360.9842224121094,
+            14535.830078125
+          ]
+        ]
+      },
+      {
+        "Name": "Bandits Skala woods",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.4000000059604645,
+        "LoadoutFile": "MMG_SNAFU_Black",
+        "NumberOfAI": 2,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            5717.5087890625,
+            392.9066467285156,
+            14646.1904296875
+          ],
+          [
+            5805.734375,
+            405.8585205078125,
+            14664.0654296875
+          ],
+          [
+            5806.8212890625,
+            423.636474609375,
+            14701.5341796875
+          ],
+          [
+            5726.85693359375,
+            415.5896911621094,
+            14701.697265625
+          ],
+          [
+            5672.642578125,
+            412.2210388183594,
+            14702.5830078125
+          ],
+          [
+            5603.78369140625,
+            402.0665283203125,
+            14697.8095703125
+          ],
+          [
+            5605.78564453125,
+            389.8925476074219,
+            14660.0595703125
+          ],
+          [
+            5668.02978515625,
+            400.137451171875,
+            14676.5244140625
+          ]
+        ]
+      },
+      {
+        "Name": "Cannabis Boys Tower",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0,
+        "LoadoutFile": "BanditAK",
+        "NumberOfAI": 1,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.8500000238418579,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 0,
+        "Waypoints": [
+          [
+            1068.449951171875,
+            16.97260093688965,
+            2829.659912109375
+          ]
+        ]
+      },
+      {
+        "Name": "Cannabis Boys Patrol Back",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 1,
+        "LoadoutFile": "BanditAK",
+        "NumberOfAI": 2,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1042.800048828125,
+            9.86422061920166,
+            2880.22998046875
+          ],
+          [
+            1054.878173828125,
+            11.882061004638672,
+            2867.8779296875
+          ],
+          [
+            1073.9510498046875,
+            13.598166465759277,
+            2868.265869140625
+          ],
+          [
+            1080.581787109375,
+            14.747448921203613,
+            2888.0146484375
+          ],
+          [
+            1064.9718017578125,
+            14.3499116897583,
+            2911.258544921875
+          ],
+          [
+            1052.4403076171875,
+            13.508299827575684,
+            2899.0673828125
+          ],
+          [
+            1060.69970703125,
+            13.558165550231934,
+            2883.209716796875
+          ]
+        ]
+      },
+      {
+        "Name": "Cannabis Boys Patrol Woods",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.5,
+        "LoadoutFile": "BanditAK",
+        "NumberOfAI": 2,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1121.1275634765625,
+            14.180087089538574,
+            2801.35595703125
+          ],
+          [
+            1150.8636474609375,
+            19.120330810546875,
+            2853.016845703125
+          ],
+          [
+            1104.0665283203125,
+            17.424114227294922,
+            2891.267333984375
+          ],
+          [
+            1081.609619140625,
+            14.81086254119873,
+            2872.401123046875
+          ],
+          [
+            1109.9029541015625,
+            17.11695098876953,
+            2853.80615234375
+          ],
+          [
+            1106.5157470703125,
+            15.285277366638184,
+            2824.957763671875
+          ]
+        ]
+      },
+      {
+        "Name": "Cannabis Boys Patrol Center",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0.5,
+        "LoadoutFile": "BanditAK",
+        "NumberOfAI": -4,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            1058.89404296875,
+            9.473177909851074,
+            2819.358154296875
+          ],
+          [
+            1077.1094970703125,
+            12.866141319274902,
+            2825.6494140625
+          ],
+          [
+            1086.5196533203125,
+            13.085516929626465,
+            2839.298583984375
+          ],
+          [
+            1074.9312744140625,
+            13.215758323669434,
+            2845.717041015625
+          ]
+        ]
+      },
+      {
+        "Name": "NWAF South Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": -3,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 500,
+        "DamageMultiplier": -1,
+        "MinDistRadius": -2,
+        "MaxDistRadius": -2,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.25,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            4729.62451171875,
+            339.1000061035156,
+            9483.4375
+          ],
+          [
+            4730.81005859375,
+            339.1000061035156,
+            9569.3701171875
+          ],
+          [
+            4693.22705078125,
+            339.1000061035156,
+            9596.4365234375
+          ],
+          [
+            4661.58984375,
+            339.1000061035156,
+            9638.58984375
+          ],
+          [
+            4582.28857421875,
+            339.1000061035156,
+            9649.3603515625
+          ],
+          [
+            4582.2919921875,
+            339.1000061035156,
+            9531.259765625
+          ],
+          [
+            4624.123046875,
+            339.1000061035156,
+            9522.9638671875
+          ],
+          [
+            4644.73583984375,
+            339.1000061035156,
+            9534.3408203125
+          ],
+          [
+            4646.05810546875,
+            339.1000061035156,
+            9577.314453125
+          ],
+          [
+            4611.21923828125,
+            339.1000061035156,
+            9612.08203125
+          ]
+        ]
+      },
+      {
+        "Name": "Repair Station Medium Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": -2,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 250,
+        "DamageMultiplier": -1,
+        "MinDistRadius": 300,
+        "MaxDistRadius": 750,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            5198.64990234375,
+            337.10162353515625,
+            9864.8896484375
+          ],
+          [
+            5191.54248046875,
+            337.156494140625,
+            9895.884765625
+          ],
+          [
+            5225.36962890625,
+            337.1371765136719,
+            9892.7255859375
+          ],
+          [
+            5254.43994140625,
+            335.9876708984375,
+            9887.6787109375
+          ],
+          [
+            5255.09619140625,
+            337.05523681640625,
+            9862.388671875
+          ],
+          [
+            5294.62841796875,
+            336.87371826171875,
+            9857.08984375
+          ],
+          [
+            5294.17529296875,
+            336.9079895019531,
+            9829.3310546875
+          ],
+          [
+            5281.7841796875,
+            336.9693603515625,
+            9825.3505859375
+          ],
+          [
+            5281.5087890625,
+            336.9088439941406,
+            9778.7509765625
+          ],
+          [
+            5248.53662109375,
+            336.9034729003906,
+            9783.7236328125
+          ],
+          [
+            5248.26025390625,
+            337.01409912109375,
+            9816.8515625
+          ],
+          [
+            5228.5107421875,
+            336.93841552734375,
+            9812.119140625
+          ],
+          [
+            5229.3701171875,
+            336.91900634765625,
+            9789.7001953125
+          ],
+          [
+            5220.59375,
+            336.8597412109375,
+            9772.7421875
+          ],
+          [
+            5188.31982421875,
+            337.40087890625,
+            9770.4873046875
+          ],
+          [
+            5203.548828125,
+            336.93426513671875,
+            9799.3154296875
+          ],
+          [
+            5205.2353515625,
+            336.9388427734375,
+            9817.7626953125
+          ],
+          [
+            5196.90771484375,
+            336.9560852050781,
+            9823.2177734375
+          ]
+        ]
+      },
+      {
+        "Name": "Repair Station Short Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": 1,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 250,
+        "DamageMultiplier": -1,
+        "MinDistRadius": 300,
+        "MaxDistRadius": 750,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.25,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            5217.27490234375,
+            349.3705139160156,
+            9826.14453125
+          ],
+          [
+            5209.83984375,
+            349.3590087890625,
+            9828.8203125
+          ],
+          [
+            5209.6669921875,
+            349.4800109863281,
+            9847.0908203125
+          ],
+          [
+            5233.56591796875,
+            349.5115966796875,
+            9846.81640625
+          ],
+          [
+            5228.4619140625,
+            349.43743896484375,
+            9832.369140625
+          ]
+        ]
+      },
+      {
+        "Name": "Repair Station Roof",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": 1,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 450,
+        "DamageMultiplier": -1,
+        "MinDistRadius": 300,
+        "MaxDistRadius": 750,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 0.25,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 0,
+        "Waypoints": [
+          [
+            5263.09765625,
+            361.0609130859375,
+            9823.5205078125
+          ],
+          [
+            5259.9697265625,
+            361.1409912109375,
+            9823.486328125
+          ],
+          [
+            5259.830078125,
+            361.010986328125,
+            9826.400390625
+          ],
+          [
+            5262.91015625,
+            361.0539855957031,
+            9826.4404296875
+          ]
+        ]
+      },
+      {
+        "Name": "Repair Station Guard",
+        "Faction": "Mercenaries",
+        "Formation": "RANDOM",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": 1,
+        "Behaviour": "ALTERNATE",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 250,
+        "DamageMultiplier": -1,
+        "MinDistRadius": 300,
+        "MaxDistRadius": 750,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 0,
+        "Waypoints": [
+          [
+            5263.24072265625,
+            340.62078857421875,
+            9806.9091796875
+          ],
+          [
+            5261.7177734375,
+            340.62078857421875,
+            9800.9921875
+          ],
+          [
+            5264.15966796875,
+            340.6208190917969,
+            9803.0869140625
+          ],
+          [
+            5266.6337890625,
+            340.62078857421875,
+            9802.87890625
+          ],
+          [
+            5267.3603515625,
+            340.6208190917969,
+            9800.9306640625
+          ]
+        ]
+      },
+      {
+        "Name": "Repair Station Long Patrol",
+        "Faction": "Mercenaries",
+        "Formation": "File",
+        "FormationLooseness": 0,
+        "LoadoutFile": "MMG_SNAFU_DarkWoodland",
+        "NumberOfAI": -2,
+        "Behaviour": "LOOP",
+        "Speed": "WALK",
+        "UnderThreatSpeed": "WALK",
+        "CanBeLooted": 1,
+        "UnlimitedReload": 1,
+        "SniperProneDistanceThreshold": 0,
+        "AccuracyMin": -1,
+        "AccuracyMax": -1,
+        "ThreatDistanceLimit": 250,
+        "DamageMultiplier": -1,
+        "MinDistRadius": 300,
+        "MaxDistRadius": 750,
+        "DespawnRadius": -2.200000047683716,
+        "MinSpreadRadius": 0,
+        "MaxSpreadRadius": 0,
+        "Chance": 1,
+        "WaypointInterpolation": "",
+        "DespawnTime": -1,
+        "RespawnTime": -2,
+        "UseRandomWaypointAsStartPoint": 1,
+        "Waypoints": [
+          [
+            5266.5087890625,
+            337.0663757324219,
+            9801.361328125
+          ],
+          [
+            5268.50244140625,
+            337.0131530761719,
+            9789.3388671875
+          ],
+          [
+            5248.50634765625,
+            337.0199279785156,
+            9790.1123046875
+          ],
+          [
+            5236.2451171875,
+            337.0122375488281,
+            9789.1748046875
+          ],
+          [
+            5224.490234375,
+            337.0211181640625,
+            9791.32421875
+          ],
+          [
+            5225.8505859375,
+            337.03997802734375,
+            9813.6376953125
+          ],
+          [
+            5234.013671875,
+            337.0402526855469,
+            9811.072265625
+          ],
+          [
+            5245.66357421875,
+            337.1097106933594,
+            9815.9560546875
+          ],
+          [
+            5251.59619140625,
+            337.0823059082031,
+            9811.8408203125
+          ],
+          [
+            5258.330078125,
+            337.0780029296875,
+            9811.240234375
+          ],
+          [
+            5264.4228515625,
+            337.0787658691406,
+            9811.802734375
+          ],
+          [
+            5268.62451171875,
+            337.0953063964844,
+            9819.357421875
+          ],
+          [
+            5270.30224609375,
+            337.1288757324219,
+            9834.7080078125
+          ],
+          [
+            5281.23193359375,
+            337.07269287109375,
+            9833.123046875
+          ],
+          [
+            5281.4189453125,
+            337.05181884765625,
+            9815.4697265625
+          ],
+          [
+            5271.38525390625,
+            337.0697937011719,
+            9812.56640625
+          ],
+          [
+            5267.61083984375,
+            337.06719970703125,
+            9810.1728515625
+          ],
+          [
+            5266.86767578125,
+            337.0432434082031,
+            9804.9814453125
+          ]
+        ]
+      }
     ]
-}
+  }

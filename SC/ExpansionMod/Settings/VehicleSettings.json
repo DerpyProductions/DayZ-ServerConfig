@@ -34,7 +34,7 @@
   "RevvingOverMaxRPMRuinsEngineInstantly": 0,
   "VehicleDropsRuinedDoors": 1,
   "ExplodingVehicleDropsAttachments": 1,
-  "DesyncInvulnerabilityTimeoutSeconds": 3,
+  "DesyncInvulnerabilityTimeoutSeconds": 5,
   "DamagedEngineStartupChancePercent": 100,
   "EnableVehicleCovers": 1,
   "AllowCoveringDEVehicles": 1,

@@ -4193,4 +4193,73 @@
             <item name="ext_tac_radio" chance="0.75" />
         </attachments>
     </type>
+	<type name="EXT_MH6">
+        <attachments chance="1.00">
+            <item name="ExpansionHelicopterBattery" chance="0.05" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ExpansionIgniterPlug" chance="0.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ExpansionHydraulicHoses" chance="0.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ext_tac_radio" chance="0.75" />
+        </attachments>
+    </type>
+	<type name="ext_uh1y">
+        <attachments chance="1.00">
+            <item name="ExpansionHelicopterBattery" chance="0.05" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ExpansionIgniterPlug" chance="0.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ExpansionHydraulicHoses" chance="0.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ext_uh1y_door_1_1" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ext_uh1y_door_2_1" chance="0.50" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ext_tac_radio" chance="0.75" />
+        </attachments>
+    </type>
+	<type name="ext_mi8_attack">
+        <attachments chance="1.00">
+            <item name="ExpansionHelicopterBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ExpansionIgniterPlug" chance="0.05" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="ExpansionHydraulicHoses" chance="0.05" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.25" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EXT_Mi8Frontwheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EXT_Mi8Backwheel" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="EXT_Mi8Door" chance="0.50" />
+        </attachments>
+    </type>
 </spawnabletypes>
