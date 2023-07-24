@@ -1,156 +1,170 @@
 [
     {
-      "Type": 0,
-      "Name": "Arsenievo camp (to the North of Severograd)",
-      "X": 8525,
-      "Z": 13983,
-      "Radius": 400,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Arsenievo camp (to the North of Severograd)",
+        "X": 8525.0,
+        "Z": 13983.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Troitskoye military base",
-      "X": 7862,
-      "Z": 14688,
-      "Radius": 700,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Troitskoye military base",
+        "X": 7862.0,
+        "Z": 14688.0,
+        "Radius": 700,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Kamensk mining site",
-      "X": 7082,
-      "Z": 14531,
-      "Radius": 100,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Kamensk mining site",
+        "X": 7082.0,
+        "Z": 14531.0,
+        "Radius": 200,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Tisy military base",
-      "X": 1576,
-      "Z": 14000,
-      "Radius": 900,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Tisy military base",
+        "X": 1576.0,
+        "Z": 14000.0,
+        "Radius": 900,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "The tower near North-West Airfield",
-      "X": 4042,
-      "Z": 11751,
-      "Radius": 400,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "The tower near North-West Airfield",
+        "X": 4042.0,
+        "Z": 11751.0,
+        "Radius": 400,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "North-West Airfield",
-      "X": 4491,
-      "Z": 10358,
-      "Radius": 1100,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "North-West Airfield",
+        "X": 4491.0,
+        "Z": 10358.0,
+        "Radius": 1100,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "VMC military base",
-      "X": 4532,
-      "Z": 8295,
-      "Radius": 300,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "VMC military base",
+        "X": 4532.0,
+        "Z": 8295.0,
+        "Radius": 300,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Pavlovo military base",
-      "X": 2146,
-      "Z": 3452,
-      "Radius": 350,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Pavlovo military base",
+        "X": 2146.0,
+        "Z": 3452.0,
+        "Radius": 350,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Zelenogorsk",
-      "X": 2466,
-      "Z": 5119,
-      "Radius": 150,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Zelenogorsk",
+        "X": 2466.0,
+        "Z": 5119.0,
+        "Radius": 150,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Bandit Camp Skala",
-      "X": 5650,
-      "Z": 14552,
-      "Radius": 250,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Bandit Camp Skala",
+        "X": 5650.0,
+        "Z": 14552.0,
+        "Radius": 250,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     },
     {
-      "Type": 0,
-      "Name": "Growers Camp",
-      "X": 1068,
-      "Z": 2839,
-      "Radius": 250,
-      "ShowBorderOnMap": 1,
-      "ShowNameOnMap": 0,
-      "Activity_Schedule": {
-        "Days": "1 2 3 4 5 6 7",
-        "StartHour": 0,
-        "EndHour": 24
-      }
+        "Type": 0,
+        "Name": "Growers Camp",
+        "X": 1068.0,
+        "Z": 2839.0,
+        "Radius": 250,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
+    },
+    {
+        "Type": 0,
+        "Name": "Tisy Antenna",
+        "X": 606.0,
+        "Z": 13671.0,
+        "Radius": 350,
+        "ShowBorderOnMap": 1,
+        "ShowNameOnMap": 0,
+        "Activity_Schedule": {
+            "Days": "1 2 3 4 5 6 7",
+            "StartHour": 0,
+            "EndHour": 24
+        }
     }
-  ]
+]
