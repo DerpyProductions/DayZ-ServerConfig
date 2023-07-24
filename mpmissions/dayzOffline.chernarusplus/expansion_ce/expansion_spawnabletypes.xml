@@ -7,7 +7,7 @@
 		</attachments>
 		<cargo preset="foodArmy" />
 		<cargo chance="1.0">
-			<item name="PunchedCard" chance="0.4" />
+			<item name="PunchedCard" chance="0.25" />
 		</cargo>
 	</type>
 	<!-- Vanilla Tweaks -->
