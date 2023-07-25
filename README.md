@@ -9,7 +9,6 @@ Test Server: 51.195.96.217
 
 ToDo:
 - P2P trader: test Vehicle spawn position
-- Test Wind Simulation
 - Add Expansion Gate Kit??
 
 Additions:
