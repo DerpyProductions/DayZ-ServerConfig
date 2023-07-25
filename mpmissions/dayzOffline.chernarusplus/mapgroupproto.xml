@@ -17215,6 +17215,34 @@
 						<proxy type="CivSedanTrunk_BlackRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
 				</dispatch>
 		</group>
+		<group name="Land_Wreck_sed02_aban1_grey_DE" lootmax="2">
+				<usage name="Village" />
+				<usage name="Industrial" />
+				<container name="loot" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="0.190887 -0.256781 -0.205811" range="0.203125" height="0.507813" />
+						<point pos="-1.793030 -0.361715 -0.176514" range="0.167480" height="0.233089" />
+						<point pos="-1.795593 -0.317720 0.329590" range="0.200195" height="0.213846" />
+						<point pos="0.180328 -0.207417 0.560791" range="0.203125" height="0.507813" />
+						<point pos="-1.025238 -0.440590 0.437744" range="0.114075" height="0.285187" />
+						<point pos="-0.531372 -0.232500 0.336182" range="0.147888" height="0.369720" />
+						<point pos="-0.553802 -0.272118 -0.315430" range="0.168823" height="0.422058" />
+						<point pos="1.296081 0.138826 -0.510498" range="0.134375" height="0.335938" />
+						<point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
+				</container>
+				<dispatch>
+						<proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
+						<proxy type="Sedan_02_Door_2_1_GreyRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
+						<proxy type="Sedan_02_Door_1_2_GreyRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+						<proxy type="Sedan_02_Trunk_GreyRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
+				</dispatch>
+		</group>
 		
 		<!-- NOT INGAME - PREPARATION
 		<group name="Land_Wreck_truck02_aban1_green" >
