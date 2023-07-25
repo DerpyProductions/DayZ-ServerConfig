@@ -2979,9 +2979,6 @@
             <item name="EXT_MI24_door_1_1" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_2" chance="0.50" />
-        </attachments>
-        <attachments chance="1.00">
             <item name="EXT_MI24_door_2_1" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
@@ -3030,9 +3027,6 @@
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_1_1_Chernarus" chance="0.50" />
-        </attachments>
-        <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_2_Chernarus" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_2_1_Chernarus" chance="0.50" />
@@ -3085,9 +3079,6 @@
             <item name="EXT_MI24_door_1_1_ION" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_2_ION" chance="0.50" />
-        </attachments>
-        <attachments chance="1.00">
             <item name="EXT_MI24_door_2_1_ION" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
@@ -3136,9 +3127,6 @@
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_1_1_Takistan" chance="0.50" />
-        </attachments>
-        <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_2_Takistan" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_2_1_Takistan" chance="0.50" />
@@ -3191,9 +3179,6 @@
             <item name="EXT_MI24_door_1_1_UN" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_2_UN" chance="0.50" />
-        </attachments>
-        <attachments chance="1.00">
             <item name="EXT_MI24_door_2_1_UN" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
@@ -3242,9 +3227,6 @@
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_1_1_ACR" chance="0.50" />
-        </attachments>
-        <attachments chance="1.00">
-            <item name="EXT_MI24_door_2_2_ACR" chance="0.50" />
         </attachments>
         <attachments chance="1.00">
             <item name="EXT_MI24_door_2_1_ACR" chance="0.50" />

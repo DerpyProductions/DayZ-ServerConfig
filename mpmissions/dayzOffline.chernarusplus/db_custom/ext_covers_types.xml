@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<types>
-	
+<types>	
 	<!-- MH-6M WIP Little Bird Update -->
 	<type name="EXT_MH6_Cover">
 		<nominal>0</nominal>
@@ -10,45 +9,9 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MH6_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MH6_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MH6_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	
-	<!-- Initial Release -->	
-	
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>	
+	</type>	
+	<!-- Initial Release -->		
 	<type name="EXT_AH1Z_Cover">
 		<nominal>0</nominal>
 		<lifetime>3888000</lifetime>
@@ -57,41 +20,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AH1Z_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AH1Z_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AH1Z_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_Mi8_Attack_Cover">
 		<nominal>0</nominal>
@@ -101,41 +30,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi8_Attack_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi8_Attack_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi8_Attack_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_Mi8_Cover">
 		<nominal>0</nominal>
@@ -145,41 +40,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi8_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi8_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi8_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_Mi171_Cover">
 		<nominal>0</nominal>
@@ -189,41 +50,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi171_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi171_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_Mi171_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>	
 	</type>
 	<type name="EXT_AH64D_Cover">
 		<nominal>0</nominal>
@@ -233,41 +60,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AH64D_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AH64D_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AH64D_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>	
 	</type>
 	<type name="EXT_CH_47F_Cover">
 		<nominal>0</nominal>
@@ -277,41 +70,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_CH_47F_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_CH_47F_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_CH_47F_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_KA52_Cover">
 		<nominal>0</nominal>
@@ -321,41 +80,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_KA52_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_KA52_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_KA52_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_KA60_Cover">
 		<nominal>0</nominal>
@@ -365,41 +90,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_KA60_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_KA60_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_KA60_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_MI24_Cover">
 		<nominal>0</nominal>
@@ -409,41 +100,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MI24_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MI24_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MI24_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_UH1Y_Cover">
 		<nominal>0</nominal>
@@ -454,40 +111,6 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_UH1Y_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_UH1Y_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_UH1Y_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
 	</type>
 	<type name="EXT_UH60M_Cover">
 		<nominal>0</nominal>
@@ -497,41 +120,7 @@
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_UH60M_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_UH60M_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_UH60M_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>		
 	</type>
 	<type name="EXT_AW159_Cover">
 		<nominal>0</nominal>
@@ -542,40 +131,6 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AW159_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AW159_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_AW159_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
 	</type>
 	<type name="EXT_MerlinHC3_Cover">
 		<nominal>0</nominal>
@@ -586,39 +141,5 @@
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MerlinHC3_Cover_Desert">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MerlinHC3_Cover_Winter">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
-	</type>
-	<type name="EXT_MerlinHC3_Cover_Civil">
-		<nominal>0</nominal>
-		<lifetime>3888000</lifetime>
-		<restock>1800</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		
 	</type>
 </types>

@@ -196,16 +196,6 @@
             "Variants": []
         },
         {
-            "ClassName": "ext_mi24_door_2_2",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 35000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "ext_mi24_door_cargo_1",
             "MaxPriceThreshold": 35000,
             "MinPriceThreshold": 35000,
