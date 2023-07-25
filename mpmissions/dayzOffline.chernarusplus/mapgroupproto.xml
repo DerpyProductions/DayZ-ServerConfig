@@ -17323,10 +17323,10 @@
 						<proxy type="Sedan_02_Hood_RedRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed01_aban1_wine_DE" lootmax="2">
+		<group name="Land_Wreck_sed01_aban1_wine_DE" lootmax="3">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="2">
+				<container name="loot" lootmax="3">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
