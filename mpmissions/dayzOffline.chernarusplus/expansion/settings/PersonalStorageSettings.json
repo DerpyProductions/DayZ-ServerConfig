@@ -2,7 +2,7 @@
   "m_Version": 1,
   "Enabled": 1,
   "UsePersonalStorageCase": 0,
-  "MaxItemsPerStorage": 25,
+  "MaxItemsPerStorage": 100,
   "ExcludedClassNames": [
     "SurvivorBase",
     "ExpansionMoneyBase"
