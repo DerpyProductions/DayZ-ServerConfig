@@ -446,6 +446,7 @@
         <tag name="shelves"/>
         <usage name="Industrial"/>
         <usage name="Village"/>
+        <usage name="Underground"/>
     </type>
     <type name="Lockpick">
         <nominal>50</nominal>
@@ -726,6 +727,7 @@
         <tag name="shelves"/>
         <usage name="Town"/>
         <usage name="Village"/>
+        <usage name="Underground"/>
     </type>
     <type name="Shovel">
         <nominal>50</nominal>
