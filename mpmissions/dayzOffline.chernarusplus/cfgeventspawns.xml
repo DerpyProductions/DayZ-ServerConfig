@@ -145,6 +145,8 @@
 		<pos x="1689.941284" y="451.738586" z="14343.285156" a="0.000000" />
 		<!-- Klen HillTop -->
 		<pos x="11556.4" y="332.198" z="11344.4" a="-2.41944"/>
+		<!-- Cherno Buildings -->
+		<pos x="7469.21" y="5.65698" z="3104.71" a="4.36055"/>
 	</event>
 	<event name="VehicleMerlinHelicopter">
 		<!-- Airfield Vyvor -->
@@ -173,6 +175,8 @@
 		<pos x="5030.672363" y="9.536390" z="2356.444824" a="40.269878" />
 		<!-- Skalistiy Island 1 -->
 		<pos x="13704.3" y="14.5239" z="3182.22" a="-132.206"/>
+		<!-- Cherno Mil -->
+		<pos x="7236.37" y="31.0812" z="3062.84" a="-167.966"/>
 	</event>
 	<!-- EXPANSION BOATS -->
 	<event name="VehicleUtilityBoat">

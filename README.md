@@ -16,6 +16,7 @@ Additions:
 - CJ Loot Chest: more randomised Loot
 - Add Boltensteins Race Track DZE
 - Fishing Village to tisy
+- add personal storage to GM
 
 Ideas:
 - Hunting quests: specific types (as a quest row; bring back pelts?)
@@ -28,6 +29,13 @@ Bugs
 - Virtual Garage: blocked by world items (e.g. heli pad)
 - Closed Barrels in RUS Vehicles (Garage storage)
 - Sledgehammer quest
+
+
+
+12:09:51.459 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 3
+12:09:51.459 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE :: !!! Sum of container LootMax is lower than event child LootMax (3 < 4)
+
+
 
 New Mods:
 - SNAFU Damage Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3005415985 
