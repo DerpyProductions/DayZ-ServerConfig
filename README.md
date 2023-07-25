@@ -11,14 +11,13 @@ ToDo:
 - Add Expansion Gate Kit??
 - sewing kit to hell
 - fix loot max BUG
+- test heli changes and upload to live
 
 Additions:
 - Ai Loadout: more randomised loot
 - More airdrop types (with guards?)
 - CJ Loot Chest: more randomised Loot
 - Add Boltensteins Race Track DZE
-- Fishing Village to tisy
-- add personal storage to GM
 
 Ideas:
 - Hunting quests: specific types (as a quest row; bring back pelts?)
@@ -27,14 +26,25 @@ Ideas:
 Bugs
 - Ai Waypoints Kamensk (water?!)
 - ARFARF Base despawn
-- FlagPole: creation with Flag
 - Virtual Garage: blocked by world items (e.g. heli pad)
 - Closed Barrels in RUS Vehicles (Garage storage)
 - Sledgehammer quest
 
+StaticObj_Wreck_T72_Chassis_DE :: !!! Sum of container LootMax is lower than event child LootMax (3 < 4)
+
+No group configured for 'StaticObj_Wreck_T72_Turret_DE', failed to spawn loot
+[CE] :: WARNING :: Preset map "optics" is EMPTY.
+
+Info:
+- Flagpole Mode is back to the way it used to be: you can no longer select the Flag from the Menu, you have to attach a Flag manually.
+- You will find a new Personal Storage Container at Green Mountain. You can store up to 100 Items in there.
+- Added some Buildings to the Lake at Tisy.
 
 New Mods:
-- SNAFU Damage Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3005415985 
+- SNAFU Damage Mod: 
+                    https://steamcommunity.com/sharedfiles/filedetails/?id=3005415985 
+                    https://steamcommunity.com/sharedfiles/filedetails/?id=2960302654&searchtext=SNAFU+
+
 - Mining: https://steamcommunity.com/sharedfiles/filedetails/?id=2794626429&searchtext=
 
 
