@@ -9,6 +9,7 @@ Test Server: 51.195.96.217
 
 ToDo:
 - Add Expansion Gate Kit??
+- sewing kit to hell
 
 Additions:
 - Ai Loadout: more randomised loot

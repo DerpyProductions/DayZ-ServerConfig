@@ -16234,7 +16234,7 @@
 		</group>
 		<group name="StaticObj_Wreck_T72_Chassis_DE" lootmax="15">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="3">
+				<container name="lootFloor" lootmax="4">
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="floor" />
@@ -16865,10 +16865,10 @@
 						<point pos="-0.635617 -0.751007 -1.229529" range="0.766590" height="0.288788" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Wreck_truck01_aban2_blue_DE" lootmax="3">
+		<group name="Land_Wreck_truck01_aban2_blue_DE" lootmax="4">
 						<usage name="Village" />		
 						<usage name="Industrial" />		
-						<container name="loot" lootmax="3">
+						<container name="loot" lootmax="4">
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -17213,10 +17213,10 @@
 						<proxy type="CivSedanTrunk_BlackRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban1_grey_DE" lootmax="2">
+		<group name="Land_Wreck_sed02_aban1_grey_DE" lootmax="4">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="2">
+				<container name="loot" lootmax="4">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17241,10 +17241,10 @@
 						<proxy type="Sedan_02_Trunk_GreyRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb01_aban1_blue_DE" lootmax="2">
+		<group name="Land_Wreck_hb01_aban1_blue_DE" lootmax="4">
 				<usage name="Village" />
 				<usage name="Farm" />
-				<container name="lootFloor" lootmax="2">
+				<container name="lootFloor" lootmax="4">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17354,10 +17354,10 @@
 						<proxy type="CivSedanHood_WineRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban2_red_DE" lootmax="2">
+		<group name="Land_Wreck_hb02_aban2_red_DE" lootmax="4">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="2">
+				<container name="loot" lootmax="4">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
