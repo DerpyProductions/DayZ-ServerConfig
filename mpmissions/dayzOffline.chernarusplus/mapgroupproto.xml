@@ -17074,6 +17074,89 @@
 						<proxy type="Offroad_02_Wheel" pos=" -1.7 -1.2 -1.05" rpy="0.0 0.0 0.0" />
 				</dispatch>
 		</group>
+		<group name="Land_Wreck_hb01_aban1_white_DE" lootmax="2">
+				<usage name="Village" />
+				<usage name="Farm" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="-0.514923 -0.683249 -0.580811" range="0.100000" height="0.250000" />
+						<point pos="-0.546204 -0.739777 0.478760" range="0.100000" height="0.250000" />
+						<point pos="-0.044220 -0.389238 0.301758" range="0.216492" height="0.541229" />
+						<point pos="-0.073731 -0.337166 -0.571289" range="0.198242" height="0.495605" />
+						<point pos="1.521026 -0.462440 0.190185" range="0.237500" height="0.593750" />
+						<point pos="1.544220 -0.431307 -0.387207" range="0.203125" height="0.507813" />
+						<point pos="-0.741089 0.031483 -0.782471" range="0.100000" height="0.250000" />
+						<point pos="-0.768067 -0.043346 0.660156" range="0.100000" height="0.250000" />
+				</container>
+				<dispatch>
+                        <proxy type="HatchbackWheel" pos="1.071 -0.736000 -0.852" rpy="90.0 0.0 0.0" />
+                        <proxy type="HatchbackDoors_Driver_WhiteRust" pos="-0.273 -0.182000 -1.374" rpy="0.0 240.0 0.0" />
+                        <proxy type="HatchbackTrunk_WhiteRust" pos="1.726 0.304000 -0.05" rpy="20.0 180.0 0.0" />
+				</dispatch>
+		</group>
+		<group name="Land_Wreck_hb01_aban2_blue_DE" lootmax="2">
+				<usage name="Village" />
+				<usage name="Farm" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="-0.590393 -0.510935 0.625977" range="0.100000" height="0.250000" />
+						<point pos="-0.649689 -0.564240 -0.388916" range="0.100000" height="0.250000" />
+						<point pos="-0.094360 -0.226664 -0.427002" range="0.203003" height="0.507507" />
+						<point pos="-0.179352 -0.160469 0.520508" range="0.203125" height="0.507813" />
+						<point pos="1.462036 -0.296394 -0.305908" range="0.260254" height="0.583523" />
+						<point pos="1.457825 -0.264769 0.321533" range="0.237500" height="0.577982" />
+						<point pos="-0.812867 0.201370 0.783203" range="0.100000" height="0.250000" />
+						<point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
+				</container>
+				<dispatch>
+						<proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
+						<proxy type="HatchbackDoors_CoDriver_BlueRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
+						<proxy type="HatchbackHood_BlueRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+				</dispatch>
+		</group>
+		<group name="Land_Wreck_sed01_aban1_black_DE" lootmax="2">
+				<usage name="Village" />
+				<usage name="Industrial" />
+				<container name="loot" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="-0.745453 -0.350191 -0.495850" range="0.100000" height="0.250000" />
+						<point pos="-0.300934 -0.191841 0.587891" range="0.232605" height="0.581512" />
+						<point pos="-0.733673 -0.439064 0.669433" range="0.109894" height="0.274734" />
+						<point pos="0.166809 -0.462395 0.694824" range="0.179230" height="0.434694" />
+						<point pos="0.645721 -0.162916 -0.431885" range="0.152069" height="0.380173" />
+						<point pos="0.118622 -0.377073 -0.412354" range="0.152435" height="0.341722" />
+						<point pos="-0.340118 -0.120390 -0.237549" range="0.168750" height="0.421875" />
+						<point pos="0.612213 -0.230255 0.522217" range="0.187836" height="0.469589" />
+						<point pos="2.024384 -0.194431 0.579345" range="0.308350" height="0.188450" />
+						<point pos="1.922180 -0.169662 0.004150" range="0.276380" height="0.222973" />
+						<point pos="-1.093232 0.184647 0.904540" range="0.100000" height="0.250000" />
+						<point pos="-1.069641 0.297686 -0.593994" range="0.134375" height="0.335938" />
+				</container>
+				<dispatch>
+						<proxy type="CivSedanWheel" pos="-1.659 -0.406 -0.652" rpy="90.0 0.0 0.0" />
+						<proxy type="CivSedanDoors_CoDriver_BlackRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
+						<proxy type="CivSedanDoors_BackLeft_BlackRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
+						<proxy type="CivSedanHood_BlackRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+				</dispatch>
+		</group>
 		
 		<!-- NOT INGAME - PREPARATION
 		<group name="Land_Wreck_truck02_aban1_green" >
