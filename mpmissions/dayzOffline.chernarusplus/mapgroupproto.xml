@@ -16234,7 +16234,7 @@
 		</group>
 		<group name="StaticObj_Wreck_T72_Chassis_DE" lootmax="15">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="4">
+				<container name="lootFloor" lootmax="3">
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="floor" />
@@ -16865,10 +16865,10 @@
 						<point pos="-0.635617 -0.751007 -1.229529" range="0.766590" height="0.288788" flags="32" />
 				</container>
 		</group>
-		<group name="Land_Wreck_truck01_aban2_blue_DE" lootmax="4">
+		<group name="Land_Wreck_truck01_aban2_blue_DE" lootmax="3">
 						<usage name="Village" />		
 						<usage name="Industrial" />		
-						<container name="loot" lootmax="4">
+						<container name="loot" lootmax="3">
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -17184,10 +17184,10 @@
 						<proxy type="CivSedanTrunk_BlackRust" pos="2.213 0.203 0.07" rpy="-90.0 0.5 87.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban1_grey_DE" lootmax="4">
+		<group name="Land_Wreck_sed02_aban1_grey_DE" lootmax="2">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="4">
+				<container name="loot" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17212,10 +17212,10 @@
 						<proxy type="Sedan_02_Trunk_GreyRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb01_aban1_blue_DE" lootmax="4">
+		<group name="Land_Wreck_hb01_aban1_blue_DE" lootmax="2">
 				<usage name="Village" />
 				<usage name="Farm" />
-				<container name="lootFloor" lootmax="4">
+				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17265,10 +17265,10 @@
 						<proxy type="Hatchback_02_Trunk_BlueRust" pos="1.284 0.712 -0.10" rpy="0.0 180.0 0.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban2_red_DE" lootmax="4">
+		<group name="Land_Wreck_sed02_aban2_red_DE" lootmax="2">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="4">
+				<container name="loot" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17325,10 +17325,10 @@
 						<proxy type="CivSedanHood_WineRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban2_red_DE" lootmax="4">
+		<group name="Land_Wreck_hb02_aban2_red_DE" lootmax="2">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="4">
+				<container name="loot" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17354,38 +17354,10 @@
 						<proxy type="Hatchback_02_Hood_RedRust" pos="-0.433 0.269 0.02" rpy="0.0 180.0 0.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_sed02_aban1_red_DE" lootmax="2">
+		<group name="Land_Wreck_sed02_aban2_grey_DE" lootmax="2">
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
-						<category name="weapons" />
-						<tag name="floor" />
-						<tag name="shelves" />
-						<point pos="0.190887 -0.256781 -0.205811" range="0.203125" height="0.507813" />
-						<point pos="-1.793030 -0.361715 -0.176514" range="0.167480" height="0.233089" />
-						<point pos="-1.795593 -0.317720 0.329590" range="0.200195" height="0.213846" />
-						<point pos="0.180328 -0.207417 0.560791" range="0.203125" height="0.507813" />
-						<point pos="-1.025238 -0.440590 0.437744" range="0.114075" height="0.285187" />
-						<point pos="-0.531372 -0.232500 0.336182" range="0.147888" height="0.369720" />
-						<point pos="-0.553802 -0.272118 -0.315430" range="0.168823" height="0.422058" />
-						<point pos="1.296081 0.138826 -0.510498" range="0.134375" height="0.335938" />
-						<point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
-				</container>
-				<dispatch>
-						<proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
-						<proxy type="Sedan_02_Door_2_1_RedRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
-						<proxy type="Sedan_02_Door_1_2_RedRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
-						<proxy type="Sedan_02_Trunk_RedRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
-				</dispatch>
-		</group>
-		<group name="Land_Wreck_sed02_aban2_grey_DE" lootmax="4">
-				<usage name="Village" />
-				<usage name="Industrial" />
-				<container name="loot" lootmax="4">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17411,10 +17383,10 @@
 						<proxy type="Sedan_02_Hood_GreyRust" pos="-1.608 0.395 -0.174" rpy="0.0 180.0 90.0" />
 				</dispatch>
 		</group>
-		<group name="Land_Wreck_hb02_aban2_black_DE" lootmax="4">
+		<group name="Land_Wreck_hb02_aban2_black_DE" lootmax="2">
 				<usage name="Village" />
 				<usage name="Industrial" />
-				<container name="loot" lootmax="4">
+				<container name="loot" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -17469,6 +17441,34 @@
 						<proxy type="CivSedanDoors_CoDriver_WhiteRust" pos="-0.463 -0.186 1.273" rpy="-5.0 140.0 0.0" />
 						<proxy type="CivSedanDoors_BackLeft_WhiteRust" pos="0.510 -0.087 -0.953" rpy="0.0 210.0 0.0" />
 						<proxy type="CivSedanHood_WhiteRust" pos="-1.590 0.300 0.15" rpy="-90.0 8.0 95.0" />
+				</dispatch>
+		</group>
+		<group name="Land_Wreck_sed02_aban1_red_DE" lootmax="2">
+				<usage name="Village" />
+				<usage name="Industrial" />
+				<container name="loot" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="food" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="0.190887 -0.256781 -0.205811" range="0.203125" height="0.507813" />
+						<point pos="-1.793030 -0.361715 -0.176514" range="0.167480" height="0.233089" />
+						<point pos="-1.795593 -0.317720 0.329590" range="0.200195" height="0.213846" />
+						<point pos="0.180328 -0.207417 0.560791" range="0.203125" height="0.507813" />
+						<point pos="-1.025238 -0.440590 0.437744" range="0.114075" height="0.285187" />
+						<point pos="-0.531372 -0.232500 0.336182" range="0.147888" height="0.369720" />
+						<point pos="-0.553802 -0.272118 -0.315430" range="0.168823" height="0.422058" />
+						<point pos="1.296081 0.138826 -0.510498" range="0.134375" height="0.335938" />
+						<point pos="1.275025 0.247122 0.728027" range="0.100000" height="0.250000" />
+				</container>
+				<dispatch>
+						<proxy type="Sedan_02_Wheel" pos="0.911 -0.528 0.865" rpy="0.0 0.0 0.0" />
+						<proxy type="Sedan_02_Door_2_1_RedRust" pos="-0.706 0.01 1.080" rpy="-5.0 340.0 0.0" />
+						<proxy type="Sedan_02_Door_1_2_RedRust" pos="0.125 -0.129 -0.870" rpy="0.0 200.0 0.0" />
+						<proxy type="Sedan_02_Trunk_RedRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_sed02_aban1_yellow_DE" lootmax="2">
