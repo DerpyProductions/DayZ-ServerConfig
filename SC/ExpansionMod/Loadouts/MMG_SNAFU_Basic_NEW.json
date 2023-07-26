@@ -1445,6 +1445,32 @@
               "Sets": []
         },
         {
+            "ClassName": "SewingKit",
+            "Chance": 0.05,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "LeatherSewingKit",
+            "Chance": 0.05,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
               "ClassName": "CombatKnife",
               "Chance": 0.1,
               "Quantity": {
