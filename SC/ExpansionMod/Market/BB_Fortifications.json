@@ -49,6 +49,28 @@
       "QuantityPercent": -1,
       "SpawnAttachments": [],
       "Variants": []
+    },
+    {
+        "ClassName": "hescobox",
+        "MaxPriceThreshold": 3300,
+        "MinPriceThreshold": 2650,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+    },
+    {
+        "ClassName": "ExpansionBarrierGateKit",
+        "MaxPriceThreshold": 13000,
+        "MinPriceThreshold": 10650,
+        "SellPricePercent": -1.0,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
     }
   ]
 }
