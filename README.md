@@ -1,14 +1,10 @@
 # DayZ-ServerConfig
 
 Config files for the DayZ Server
+IP 51.195.8.21 / 51.195.96.217
 "[PVE] Surviving the Green Hell together |Zones|NoRaid|Expension"
 
-IP: 51.195.8.21
-Test Server: 51.195.96.217
-
-
 ToDo:
-- Add ExpansionGateKit??
 - fix loot BUG: No group configured for 'StaticObj_Wreck_T72_Turret_DE', failed to spawn loot
 
 Additions:
