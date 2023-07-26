@@ -16234,7 +16234,7 @@
 		</group>
 		<group name="StaticObj_Wreck_T72_Chassis_DE" lootmax="15">
 				<usage name="Military" />
-				<container name="lootFloor" lootmax="3">
+				<container name="lootFloor" lootmax="4">
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="floor" />
