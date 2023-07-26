@@ -1,0 +1,16 @@
+{
+    "host": "51.195.8.21",
+    "username": "fredericg",
+    "password": "29YG!-J8xb9Jog",
+    "remotePath": "./51.195.8.21_2947",
+    "protocol": "ftp",
+    "port": 8821,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
