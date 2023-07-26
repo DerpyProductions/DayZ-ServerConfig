@@ -8,10 +8,8 @@ Test Server: 51.195.96.217
 
 
 ToDo:
-- Add Expansion Gate Kit??
-- sewing kit to hell
-- fix loot max BUG
-- test heli changes and upload to live
+- Add ExpansionGateKit??
+- fix loot BUG: No group configured for 'StaticObj_Wreck_T72_Turret_DE', failed to spawn loot
 
 Additions:
 - Ai Loadout: more randomised loot
@@ -30,15 +28,11 @@ Bugs
 - Closed Barrels in RUS Vehicles (Garage storage)
 - Sledgehammer quest
 
-StaticObj_Wreck_T72_Chassis_DE :: !!! Sum of container LootMax is lower than event child LootMax (3 < 4)
-
-No group configured for 'StaticObj_Wreck_T72_Turret_DE', failed to spawn loot
-[CE] :: WARNING :: Preset map "optics" is EMPTY.
-
 Info:
 - Flagpole Mode is back to the way it used to be: you can no longer select the Flag from the Menu, you have to attach a Flag manually.
 - You will find a new Personal Storage Container at Green Mountain. You can store up to 100 Items in there.
 - Added some Buildings to the Lake at Tisy.
+- Added "ExpansionBarrierGateKit" to the Market.
 
 New Mods:
 - SNAFU Damage Mod: 
