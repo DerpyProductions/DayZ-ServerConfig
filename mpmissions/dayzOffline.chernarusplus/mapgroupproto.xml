@@ -17499,6 +17499,33 @@
 						<proxy type="Sedan_02_Trunk_YellowRust" pos="1.518 0.155 -0.144" rpy="0.0 183.0 85.0" />
 				</dispatch>
 		</group>
+		<group name="Land_Wreck_hb01_aban2_green_DE" lootmax="2">
+			<usage name="Village" />
+			<usage name="Hunting" />
+			<usage name="Farm" />
+			<container name="lootFloor" lootmax="4">
+					<category name="tools" />
+					<category name="containers" />
+					<category name="clothes" />
+					<category name="food" />
+					<category name="weapons" />
+					<tag name="floor" />
+					<tag name="shelves" />
+					<point pos="-0.590393 -0.510935 0.625977" range="0.100000" height="0.250000" />
+					<point pos="-0.649689 -0.564240 -0.388916" range="0.100000" height="0.250000" />
+					<point pos="-0.094360 -0.226664 -0.427002" range="0.203003" height="0.507507" />
+					<point pos="-0.179352 -0.160469 0.520508" range="0.203125" height="0.507813" />
+					<point pos="1.462036 -0.296394 -0.305908" range="0.260254" height="0.583523" />
+					<point pos="1.457825 -0.264769 0.321533" range="0.237500" height="0.577982" />
+					<point pos="-0.812867 0.201370 0.783203" range="0.100000" height="0.250000" />
+					<point pos="-0.794555 0.130087 -0.663086" range="0.100000" height="0.250000" />
+			</container>
+			<dispatch>
+					<proxy type="HatchbackWheel" pos="0.999 -0.508 0.896" rpy="90.0 180.0 0.0" />
+					<proxy type="HatchbackDoors_CoDriver_GreenRust" pos="-0.35 -0.01 1.340" rpy="0.0 -240.0 0.0" />
+					<proxy type="HatchbackHood_GreenRust" pos="-1.451 0.095 0.05" rpy="1.0 180.0 0.0" />
+			</dispatch>
+	</group>
 		<!-- NOT INGAME - PREPARATION
 		<group name="Land_Wreck_truck02_aban1_green" >
 						<usage name="Village" />		
