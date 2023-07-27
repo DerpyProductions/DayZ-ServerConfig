@@ -4,7 +4,7 @@
     "Items": [
         {
             "ItemName": "ExpansionBanknoteHryvnia",
-            "NumberOfStacks": 20,
+            "NumberOfStacks": 200,
             "StackSize": 50000
         }
     ]
