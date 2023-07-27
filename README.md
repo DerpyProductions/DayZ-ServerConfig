@@ -21,7 +21,6 @@ Ideas:
 
 Bugs
 - Ai Waypoints Kamensk (water?!)
-- ARFARF Base despawn
 - Virtual Garage: blocked by world items (e.g. heli pad)
 - Closed Barrels in RUS Vehicles (Garage storage)
 
