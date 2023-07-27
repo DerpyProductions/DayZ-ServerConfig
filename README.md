@@ -4,13 +4,17 @@ Config files for the DayZ Server
 IP 51.195.8.21 / 51.195.96.217
 "[PVE] Surviving the Green Hell together |Zones|NoRaid|Expension"
 
-ToDo:
+needs fixing asap:
 - fix restart problems!
 - fix loot BUG: No group configured for 'StaticObj_Wreck_T72_Turret_DE', failed to spawn loot
 - WARNING :: Preset map "optics" is EMPTY.
 - change HighPing Limit!
 
-Additions:
+Next: 
+- finish boat Quest (last lighthouse back to GM for a special reward)
+- Add Quest to every Lighthouse (e.g. catch a fisch, kill Z's ....)
+
+Future additions:
 - Ai Loadout: more randomised loot
 - More airdrop types (with guards?)
 - CJ Loot Chest: more randomised Loot
@@ -25,11 +29,7 @@ Bugs
 - Closed Barrels in RUS Vehicles (Garage storage)
 
 Info:
-- Flagpole Mode is back to the way it used to be: you can no longer select the Flag from the Menu, you have to attach a Flag manually.
-- The Quests System has been completely rewritten. Additional Quest have been created for you to enjoy. Some of the Quest have multiple phases (e.g. "Zombie Detail" and "The Hunter").
-- You will find a new Personal Storage Container at Green Mountain. You can store up to 100 Items in there.
-- Added some Buildings to the Lake at Tisy.
-- Added "ExpansionBarrierGateKit" to the Market.
+just tested the inventory mod:you can't user your hands at all. so now weapons switching when driving. also you can see the inventory of an airdrop container, even though the modder claimed that this wasn't possible.
 
 New Mods:
 - SNAFU Damage Mod: 
@@ -37,7 +37,6 @@ New Mods:
                     https://steamcommunity.com/sharedfiles/filedetails/?id=2960302654&searchtext=SNAFU+
 
 - Mining: https://steamcommunity.com/sharedfiles/filedetails/?id=2794626429&searchtext=
-- Inventory: https://steamcommunity.com/sharedfiles/filedetails/?id=2611937447&searchtext=InventoryInCar
 
 
 

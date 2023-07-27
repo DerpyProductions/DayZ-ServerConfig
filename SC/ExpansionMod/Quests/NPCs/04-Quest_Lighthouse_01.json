@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 4,
+    "ID": 4,
+    "ClassName": "ExpansionQuestBoardSmall",
+    "IsAI": 0,
+    "Position": [
+        14352.899414,
+        5.218810,
+        12868.959961
+    ],
+    "Orientation": [
+        -109.205666,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Lighthouse Board",
+    "DefaultNPCText": "If only Lighthouses could tell their storys ...",
+    "Waypoints": [],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "",
+    "IsStatic": 1,
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers"
+}
