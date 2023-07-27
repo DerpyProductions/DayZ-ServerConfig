@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 2,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Take the Pervert to his new home.",
+    "TimeLimit": -1,
+    "Position": [
+        4510.5,
+        316.552,
+        8270.67
+    ],
+    "MaxDistance": 5.0,
+    "AIVIP": {
+        "NPCLoadoutFile": "Quest_Survivor_noWeapon"
+    },
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 1
+}

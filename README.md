@@ -5,7 +5,10 @@ IP 51.195.8.21 / 51.195.96.217
 "[PVE] Surviving the Green Hell together |Zones|NoRaid|Expension"
 
 ToDo:
+- fix restart problems!
 - fix loot BUG: No group configured for 'StaticObj_Wreck_T72_Turret_DE', failed to spawn loot
+- WARNING :: Preset map "optics" is EMPTY.
+- change HighPing Limit!
 
 Additions:
 - Ai Loadout: more randomised loot
@@ -14,7 +17,6 @@ Additions:
 - Add Boltensteins Race Track DZE
 
 Ideas:
-- Hunting quests: specific types (as a quest row; bring back pelts?)
 - Radio emergency frequency
 
 Bugs
@@ -22,10 +24,10 @@ Bugs
 - ARFARF Base despawn
 - Virtual Garage: blocked by world items (e.g. heli pad)
 - Closed Barrels in RUS Vehicles (Garage storage)
-- Sledgehammer quest
 
 Info:
 - Flagpole Mode is back to the way it used to be: you can no longer select the Flag from the Menu, you have to attach a Flag manually.
+- The Quests System has been completely rewritten. Additional Quest have been created for you to enjoy. Some of the Quest have multiple phases (e.g. "Zombie Detail" and "The Hunter").
 - You will find a new Personal Storage Container at Green Mountain. You can store up to 100 Items in there.
 - Added some Buildings to the Lake at Tisy.
 - Added "ExpansionBarrierGateKit" to the Market.
@@ -36,6 +38,7 @@ New Mods:
                     https://steamcommunity.com/sharedfiles/filedetails/?id=2960302654&searchtext=SNAFU+
 
 - Mining: https://steamcommunity.com/sharedfiles/filedetails/?id=2794626429&searchtext=
+- Inventory: https://steamcommunity.com/sharedfiles/filedetails/?id=2611937447&searchtext=InventoryInCar
 
 
 

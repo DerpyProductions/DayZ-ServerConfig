@@ -1,0 +1,92 @@
+{
+    "ConfigVersion": 15,
+    "ID": 501,
+    "Type": 1,
+    "Title": "Fish Stew",
+    "Descriptions": [
+        "Someone is looking to make some fish stew for the next community pot luck. Craft an improvidsed fishing rod and catch a mackerel! Bring one back from your next trip.",
+        "Craft an improvidsed fishing rod and catch a Mackerel. Bring it back to Peter at the Trade Center.",
+        "I fucking hate fish stew...but some of the folks love it, here is your reward."
+    ],
+    "ObjectiveText": "Craft an fishing rod and catch a mackerel!",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "BakedBeansCan",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "PeachesCan",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "SardinesCan",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "SpaghettiCan",
+            "Amount": 2,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "expansionbanknotehryvnia",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 11
+        },
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": -13710223,
+    "ReputationReward": 50,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

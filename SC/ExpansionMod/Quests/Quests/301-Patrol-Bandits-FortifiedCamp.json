@@ -1,0 +1,71 @@
+{
+    "ConfigVersion": 15,
+    "ID": 301,
+    "Type": 1,
+    "Title": "Storm the fortified Base",
+    "Descriptions": [
+        "They really did built a fortified Base all the way to the west. They need to be dealt with.",
+        "Clear out that bandits nest. They are a at least 5 man strong and well protected. Watch out!",
+        "Nice work, we could use more people like you. Here is your reward."
+    ],
+    "ObjectiveText": "Neutralize all hostiles in the Bandits Camp.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 1,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 1,
+    "ObjectSetFileName": "laba06",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "HM_Bitcoin",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "SewingKit",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "NailBox",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        3
+    ],
+    "QuestTurnInIDs": [
+        3
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 2,
+            "ObjectiveType": 7
+        }
+    ],
+    "QuestColor": -3662306,
+    "ReputationReward": 1000,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 18,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Bring the Survivor to the marked location.",
+    "TimeLimit": -1,
+    "Position": [
+        12267.2,
+        18.2887,
+        9483.06
+    ],
+    "MaxDistance": 10.0,
+    "AIVIP": {
+        "NPCLoadoutFile": "Quest_Survivor_noWeapon"
+    },
+    "MarkerName": "Escort Survivor",
+    "ShowDistance": 1
+}

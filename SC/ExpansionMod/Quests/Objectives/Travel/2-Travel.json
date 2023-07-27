@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": 18,
+    "ID": 2,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Infested Village",
+    "TimeLimit": -1,
+    "Position": [
+        4455.0,
+        296.0,
+        6426.0
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "Infested Village",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

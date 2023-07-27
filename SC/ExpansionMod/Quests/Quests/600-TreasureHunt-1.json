@@ -1,0 +1,49 @@
+{
+    "ConfigVersion": 15,
+    "ID": 600,
+    "Type": 1,
+    "Title": "Treasure Hunt",
+    "Descriptions": [
+        "They dug and dug, but the treasure was nowhere to be found. Maybe you will be the lucky one. Let's get digging ... find the treasure."
+    ],
+    "ObjectiveText": "Find the treasure.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 1,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+        {
+            "ClassName": "Shovel",
+            "Amount": 1
+        }
+    ],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RewardsForGroupOwnerOnly": 1,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 1,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": -4931946,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}
