@@ -1,0 +1,81 @@
+{
+    "ConfigVersion": 15,
+    "ID": 705,
+    "Type": 1,
+    "Title": "The next Lighthouse is waiting ...",
+    "Descriptions": [
+        "Go on with it ... back into your boat and head out to sea!",
+        "What are you doing still here? Travel ...",
+        "Why did this take so long?... Never mind here is your reward."
+    ],
+    "ObjectiveText": "Take a Boat and visit the next Lighthouse on the List.",
+    "FollowUpQuest": 706,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Battery9V",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "CanOpener",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "SewingKit",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        },
+        {
+            "ClassName": "SpaghettiCan",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        11
+    ],
+    "QuestTurnInIDs": [
+        10
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 26,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": -10185016,
+    "ReputationReward": 0,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        704
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}

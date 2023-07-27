@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 15,
+    "ID": 712,
+    "Type": 1,
+    "Title": "Prove that you visit them all.",
+    "Descriptions": [
+        "Amazing job ... you did it! Now head back to Green Mountain ...",
+        "What are you doing still here? Travel ...",
+        "Why did this take so long?... Never mind here is your reward."
+    ],
+    "ObjectiveText": "Bring back the Paper to Green Mountain to prove your success.",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 1,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "HM_Bitcoin",
+            "Amount": 3,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RewardsForGroupOwnerOnly": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 18,
+            "ID": 3,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": -10185016,
+    "ReputationReward": 0,
+    "ReputationRequirement": 0,
+    "PreQuestIDs": [
+        711
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1
+}
